@@ -846,3 +846,9 @@ LogInit: Object subsystem initialized
 [2018.01.27-05.25.06:898][684]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-13.25.06
 [2018.01.27-05.25.06:899][684]LogWorld: Bringing up level for play took: 0.017239
 [2018.01.27-05.25.06:901][684]LogLoad: Took 0.075359 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-05.25.55:367][961]LogHttp: Warning: 0000025F13840100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.27-05.25.55:367][961]LogHttp: Warning: 0000025F13840100: libcurl info message cache 0 (Connection 12 seems to be dead!)
+[2018.01.27-05.25.55:367][961]LogHttp: Warning: 0000025F13840100: libcurl info message cache 1 (Closing connection 12)
+[2018.01.27-05.25.55:368][961]LogHttp: Warning: 0000025F13840100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.01.27-05.25.55:368][961]LogHttp: Warning: 0000025F13840100: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.27-05.25.55:368][961]LogHttp: Warning: 0000025F13840100: libcurl info message cache 4 (Closing connection 13)
