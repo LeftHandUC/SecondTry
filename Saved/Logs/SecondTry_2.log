@@ -396,3 +396,37 @@ LogInit: Object subsystem initialized
 [2018.01.27-04.39.18:573][456]SourceControl: 	Saved/Logs/SecondTry-backup-2018.01.27-12.32.28.log
 [2018.01.27-04.39.18:573][456]SourceControl: 	Saved/Logs/SecondTry_2.log
 [2018.01.27-04.39.18:573][456]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.27-04.39.53:209][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.27-04.39.53:209][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.27-04.39.53:209][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.27-04.39.53:209][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.27-04.39.53:209][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.27-04.39.53:209][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.01.27-04.39.53:209][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.27-04.39.54:171][ 19]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.01.27-04.39.54:171][ 19]SourceControl: Error: error: please commit or stash them.
+[2018.01.27-04.39.54:175][ 19]LightingResults: New page: Lighting Build
+[2018.01.27-04.39.54:236][ 19]MapCheck: New page: Map Check
+[2018.01.27-04.39.54:236][ 19]LightingResults: New page: Lighting Build
+[2018.01.27-04.39.54:311][ 19]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-04.39.54:354][ 19]LoadErrors: New page: New Map
+[2018.01.27-04.39.54:680][ 19]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-04.39.54:680][ 19]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-04.39.54:680][ 19]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-04.39.54:680][ 19]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-04.39.54:680][ 19]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-04.39.54:681][ 19]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-04.39.54:681][ 19]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-04.39.54:681][ 19]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-04.39.54:684][ 19]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0444.12] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 9 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-04.39.54:700][ 19]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.27-04.39.55:524][ 19]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.39.55:554][ 19]Cmd: MAP LOAD FILE="../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.39.55:554][ 19]LightingResults: New page: Lighting Build
+[2018.01.27-04.39.55:555][ 19]LoadErrors: New page: Loading map: Level1.umap
+[2018.01.27-04.39.55:555][ 19]MapCheck: New page: Map Check
+[2018.01.27-04.39.55:555][ 19]LightingResults: New page: Lighting Build
+[2018.01.27-04.39.55:595][ 19]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.39.55:620][ 19]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.39.55:668][ 19]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.122ms to complete.
+[2018.01.27-04.39.55:668][ 19]LogFileHelpers: Loading map 'Level1' took 0.115
