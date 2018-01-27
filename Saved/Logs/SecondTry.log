@@ -1111,3 +1111,389 @@ LogInit: Object subsystem initialized
 [2018.01.27-06.36.40:962][ 54]LogMaterial: Warning: C:\Users\jerome\Documents\GitHub\SecondTry\Content\Assets\M_Rock1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
 [2018.01.27-06.36.40:962][ 54]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
 [2018.01.27-06.36.48:642][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
+[2018.01.27-06.41.58:917][ 80]LogSavePackage: Save=3207.32ms
+[2018.01.27-06.41.58:917][ 80]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Level1_Auto3C66AC06240B9A4B004815590CD9DB5DA.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto3.umap'
+[2018.01.27-06.41.58:919][ 80]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto3.umap
+[2018.01.27-06.41.58:921][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 3.230
+[2018.01.27-06.41.58:921][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.230
+[2018.01.27-06.42.23:998][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.23:998][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:075][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:075][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:076][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:152][294]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2018.01.27-06.42.24:249][294]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jerome\Downloads\Compressed\pexels-photo-247671.jpeg)
+[2018.01.27-06.42.24:384][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:384][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:384][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:384][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:392][294]LogTexture: Display: Building textures: pexels-photo-247671 (BGRA8, 940X627)
+[2018.01.27-06.42.24:467][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:467][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:467][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:467][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:467][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:605][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:632][294]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.24:987][296]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2018.01.27-06.42.26:861][308]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2018.01.27-06.42.26:991][311]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.26:991][311]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.26:997][311]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.26:997][311]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:000][311]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:000][311]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:085][312]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:085][312]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:088][312]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:088][312]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:097][313]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:097][313]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:099][313]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:099][313]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:128][314]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:128][314]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:130][314]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:130][314]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:172][315]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:172][315]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:174][315]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:174][315]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:212][316]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:212][316]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:214][316]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:214][316]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:236][317]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:236][317]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:239][317]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:239][317]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:259][318]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:259][318]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:261][318]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:261][318]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:282][319]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:282][319]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:284][319]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:285][319]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:306][320]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:306][320]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:309][320]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:309][320]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:329][321]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:329][321]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:331][321]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:332][321]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:352][322]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:352][322]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:357][322]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:357][322]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:376][323]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:376][323]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:379][323]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:379][323]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:398][324]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:398][324]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:402][324]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:402][324]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:422][325]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:422][325]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:425][325]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:425][325]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:445][326]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:445][326]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:447][326]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:448][326]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:468][327]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:469][327]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:471][327]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:471][327]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:492][328]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:492][328]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:494][328]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:495][328]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:515][329]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:515][329]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:518][329]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:518][329]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:537][330]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:731][330]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:731][330]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:736][330]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:736][330]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:745][331]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:745][331]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:750][331]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:750][331]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:759][332]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:759][332]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:764][332]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:764][332]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:776][333]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:776][333]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:779][333]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:779][333]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:798][334]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:798][334]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:801][334]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:801][334]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:820][335]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:821][335]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:824][335]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:824][335]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:844][336]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:844][336]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:847][336]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:847][336]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:868][337]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:868][337]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:871][337]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.27:871][337]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Particles and Textures/StarterContent/Textures/pexels-photo-247671' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.01.27-06.42.31:068][455]LogMaterial: Missing cached shader map for material pexels-photo-247671_Mat, compiling. 
+[2018.01.27-06.45.10:089][993]LogMaterial: Missing cached shader map for material NewMaterial, compiling. 
+[2018.01.27-06.45.19:940][312]Cmd: TRANSACTION UNDO
+[2018.01.27-06.45.19:940][312]LogEditorTransaction: Undo Create Actors
+[2018.01.27-06.45.21:087][328]Cmd: TRANSACTION UNDO
+[2018.01.27-06.45.21:087][328]LogEditorTransaction: Undo Create Actors
+[2018.01.27-06.46.14:188][989]Cmd: TRANSACTION UNDO
+[2018.01.27-06.46.14:188][989]LogEditorTransaction: Undo Create Actors
+[2018.01.27-06.52.16:357][924]Cmd: TRANSACTION UNDO
+[2018.01.27-06.52.16:357][924]LogEditorTransaction: Undo Create Actors
+[2018.01.27-06.52.35:819][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.01.27-06.52.36:605][618]Cmd: TRANSACTION UNDO
+[2018.01.27-06.52.36:605][618]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.27-06.52.37:120][636]Cmd: TRANSACTION UNDO
+[2018.01.27-06.52.37:120][636]LogEditorTransaction: Undo Create Actors
+[2018.01.27-06.53.14:766][872]LogRenderer: Reallocating scene render targets to support 884x440 Format 10 NumSamples 1 (Frame:136896).
+[2018.01.27-06.53.14:859][872]LogRenderer: Reallocating scene render targets to support 912x440 Format 10 NumSamples 1 (Frame:136898).
+[2018.01.27-06.53.14:946][873]LogRenderer: Reallocating scene render targets to support 928x440 Format 10 NumSamples 1 (Frame:136900).
+[2018.01.27-06.53.17:108][958]LogRenderer: Reallocating scene render targets to support 928x444 Format 10 NumSamples 1 (Frame:136991).
+[2018.01.27-06.53.17:163][959]LogRenderer: Reallocating scene render targets to support 928x448 Format 10 NumSamples 1 (Frame:136993).
+[2018.01.27-06.53.17:224][960]LogRenderer: Reallocating scene render targets to support 928x456 Format 10 NumSamples 1 (Frame:136995).
+[2018.01.27-06.53.17:293][961]LogRenderer: Reallocating scene render targets to support 928x464 Format 10 NumSamples 1 (Frame:136997).
+[2018.01.27-06.53.17:348][962]LogRenderer: Reallocating scene render targets to support 928x472 Format 10 NumSamples 1 (Frame:136999).
+[2018.01.27-06.53.17:457][964]LogRenderer: Reallocating scene render targets to support 928x476 Format 10 NumSamples 1 (Frame:137003).
+[2018.01.27-06.53.17:568][966]LogRenderer: Reallocating scene render targets to support 928x480 Format 10 NumSamples 1 (Frame:137007).
+[2018.01.27-06.53.31:232][465]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone225)
+[2018.01.27-06.53.32:214][502]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone229)
+[2018.01.27-06.53.35:092][614]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone170)
+[2018.01.27-06.53.37:611][710]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone169)
+[2018.01.27-06.53.39:489][783]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone231)
+[2018.01.27-06.53.40:484][822]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone232)
+[2018.01.27-06.53.41:910][877]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone230)
+[2018.01.27-06.53.43:052][922]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone226)
+[2018.01.27-06.53.44:769][990]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone228)
+[2018.01.27-06.53.47:113][ 83]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone214)
+[2018.01.27-06.53.47:943][115]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone210)
+[2018.01.27-06.53.48:554][139]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone213)
+[2018.01.27-06.53.49:118][159]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone209)
+[2018.01.27-06.53.49:877][188]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone218)
+[2018.01.27-06.53.50:395][207]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone221)
+[2018.01.27-06.53.50:911][227]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone217)
+[2018.01.27-06.53.52:329][281]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone234)
+[2018.01.27-06.53.53:418][322]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone238)
+[2018.01.27-06.53.54:451][362]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone237)
+[2018.01.27-06.53.55:415][400]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone233)
+[2018.01.27-06.53.56:327][434]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone240)
+[2018.01.27-06.53.58:695][526]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone193)
+[2018.01.27-06.53.59:789][569]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone235)
+[2018.01.27-06.54.01:592][640]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone194)
+[2018.01.27-06.54.03:982][733]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone236)
+[2018.01.27-06.54.05:478][790]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone224)
+[2018.01.27-06.54.06:128][814]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone223)
+[2018.01.27-06.54.07:347][861]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone185)
+[2018.01.27-06.54.08:984][925]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone239)
+[2018.01.27-06.54.10:712][991]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone166)
+[2018.01.27-06.54.11:409][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone227)
+[2018.01.27-06.54.12:995][ 77]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone162)
+[2018.01.27-06.54.14:688][144]Cmd: DELETE
+[2018.01.27-06.54.14:688][144]Cmd: ACTOR DELETE
+[2018.01.27-06.54.14:705][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:705][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:705][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:705][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:706][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:707][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:708][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:708][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:708][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:708][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.14:777][144]LogEditorActor: Deleted 33 Actors (0.089 secs)
+[2018.01.27-06.54.18:717][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone222)
+[2018.01.27-06.54.19:855][354]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone212)
+[2018.01.27-06.54.20:645][385]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone216)
+[2018.01.27-06.54.21:265][410]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone206)
+[2018.01.27-06.54.22:121][444]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone220)
+[2018.01.27-06.54.23:470][496]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone219)
+[2018.01.27-06.54.25:055][560]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone197)
+[2018.01.27-06.54.26:297][609]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor15)
+[2018.01.27-06.54.26:993][635]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone186)
+[2018.01.27-06.54.28:532][694]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone189)
+[2018.01.27-06.54.29:725][741]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone182)
+[2018.01.27-06.54.31:844][826]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone178)
+[2018.01.27-06.54.35:064][955]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone177)
+[2018.01.27-06.54.35:928][989]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone174)
+[2018.01.27-06.54.36:651][ 18]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone165)
+[2018.01.27-06.54.37:555][ 53]Cmd: DELETE
+[2018.01.27-06.54.37:555][ 53]Cmd: ACTOR DELETE
+[2018.01.27-06.54.37:566][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:566][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:566][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:567][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:568][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.54.37:578][ 53]LogEditorActor: Deleted 14 Actors (0.022 secs)
+[2018.01.27-06.54.56:021][645]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone211)
+[2018.01.27-06.54.56:820][677]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone202)
+[2018.01.27-06.54.57:944][720]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone201)
+[2018.01.27-06.55.00:325][813]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone208)
+[2018.01.27-06.55.01:246][849]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone196)
+[2018.01.27-06.55.02:302][891]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone215)
+[2018.01.27-06.55.04:450][978]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone205)
+[2018.01.27-06.55.06:108][ 44]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone195)
+[2018.01.27-06.55.08:108][126]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone204)
+[2018.01.27-06.55.09:957][200]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone179)
+[2018.01.27-06.55.11:207][250]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone137)
+[2018.01.27-06.55.12:323][294]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone184)
+[2018.01.27-06.55.14:226][369]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone181)
+[2018.01.27-06.55.14:864][393]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone183)
+[2018.01.27-06.55.15:858][432]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone163)
+[2018.01.27-06.55.16:565][460]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone164)
+[2018.01.27-06.55.18:850][548]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone176)
+[2018.01.27-06.55.20:494][612]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone161)
+[2018.01.27-06.55.22:032][674]Cmd: DELETE
+[2018.01.27-06.55.22:032][674]Cmd: ACTOR DELETE
+[2018.01.27-06.55.22:042][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:043][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:044][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:044][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:044][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:044][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:044][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.22:055][674]LogEditorActor: Deleted 18 Actors (0.023 secs)
+[2018.01.27-06.55.23:704][744]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone173)
+[2018.01.27-06.55.26:002][838]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone168)
+[2018.01.27-06.55.26:909][873]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone172)
+[2018.01.27-06.55.28:387][932]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone175)
+[2018.01.27-06.55.29:271][966]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone167)
+[2018.01.27-06.55.30:082][999]Cmd: DELETE
+[2018.01.27-06.55.30:082][999]Cmd: ACTOR DELETE
+[2018.01.27-06.55.30:090][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.30:090][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.30:090][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.30:090][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.30:090][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.30:101][999]LogEditorActor: Deleted 5 Actors (0.019 secs)
+[2018.01.27-06.55.32:112][ 83]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone171)
+[2018.01.27-06.55.34:660][187]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone146)
+[2018.01.27-06.55.36:932][279]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone207)
+[2018.01.27-06.55.38:028][323]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone203)
+[2018.01.27-06.55.38:770][352]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone198)
+[2018.01.27-06.55.39:558][384]Cmd: DELETE
+[2018.01.27-06.55.39:558][384]Cmd: ACTOR DELETE
+[2018.01.27-06.55.39:566][384]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.39:566][384]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.39:567][384]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.39:567][384]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.39:567][384]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.39:578][384]LogEditorActor: Deleted 5 Actors (0.020 secs)
+[2018.01.27-06.55.41:154][452]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone158)
+[2018.01.27-06.55.42:012][486]Cmd: DELETE
+[2018.01.27-06.55.42:012][486]Cmd: ACTOR DELETE
+[2018.01.27-06.55.42:019][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-06.55.42:031][486]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.01.27-06.55.50:517][822]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone149)
+[2018.01.27-06.56.05:006][412]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone192)
+[2018.01.27-06.56.06:194][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2018.01.27-06.56.07:363][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.01.27-06.56.08:200][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2018.01.27-06.56.08:766][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2018.01.27-06.56.09:531][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2018.01.27-06.56.10:058][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2018.01.27-06.56.10:801][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2018.01.27-06.56.12:876][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2018.01.27-06.56.16:260][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone191)
+[2018.01.27-06.56.17:309][910]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone180)
+[2018.01.27-06.56.18:265][949]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone192)
+[2018.01.27-06.56.19:896][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone188)
+[2018.01.27-06.56.20:923][ 60]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone187)
+[2018.01.27-06.56.22:257][113]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone199)
+[2018.01.27-06.56.49:720][273]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.27-06.56.53:093][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2018.01.27-06.57.25:338][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone101)
+[2018.01.27-06.57.26:466][820]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone82)
+[2018.01.27-06.57.28:949][922]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone27)
+[2018.01.27-06.57.29:796][957]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone97)
+[2018.01.27-06.57.30:717][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone94)
+[2018.01.27-06.57.31:496][ 25]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone84)
+[2018.01.27-06.57.32:327][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone83)
+[2018.01.27-06.57.34:436][142]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone31)
+[2018.01.27-06.57.35:568][188]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone98)
+[2018.01.27-06.57.37:262][258]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone86)
+[2018.01.27-06.57.38:064][291]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone28)
+[2018.01.27-06.57.39:233][337]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone88)
+[2018.01.27-06.59.22:694][719]Cmd: TRANSACTION UNDO
+[2018.01.27-06.59.22:694][719]LogEditorTransaction: Undo Move Actors
+[2018.01.27-06.59.22:720][719]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Cone516.StaticMeshComponent0) Component already registered.
+[2018.01.27-06.59.22:721][719]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Cone513.StaticMeshComponent0) Component already registered.
+[2018.01.27-06.59.32:407][132]Cmd: TRANSACTION UNDO
+[2018.01.27-06.59.32:407][132]LogEditorTransaction: Undo Move Actors
+[2018.01.27-06.59.32:431][132]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Cone528.StaticMeshComponent0) Component already registered.
+[2018.01.27-06.59.32:431][132]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Cone525.StaticMeshComponent0) Component already registered.
+[2018.01.27-06.59.35:966][281]Cmd: TRANSACTION UNDO
+[2018.01.27-06.59.35:966][281]LogEditorTransaction: Undo Move Actors
+[2018.01.27-06.59.35:992][281]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Cone522.StaticMeshComponent0) Component already registered.
+[2018.01.27-06.59.39:085][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone148)
+[2018.01.27-06.59.46:554][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone515)
+[2018.01.27-06.59.48:462][788]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone514)
+[2018.01.27-06.59.51:051][894]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone354)
+[2018.01.27-06.59.52:307][945]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone511)
+[2018.01.27-07.00.50:091][193]LogSavePackage: Save=3243.43ms
+[2018.01.27-07.00.50:091][193]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Level152D1D9914F372A969AD26884256A3AA4.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.01.27-07.00.50:095][193]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.01.27-07.00.54:749][374]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.01.27-07.01.07:852][374]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-07.01.07:883][374]SourceControl: [master b905fee] Added obstacles
+[2018.01.27-07.01.07:883][374]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-07.01.07:888][374]SourceControl: Commited [master b905fee] Added obstacles.
