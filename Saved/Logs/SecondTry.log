@@ -1957,3 +1957,106 @@ LogInit: Object subsystem initialized
 [2018.01.27-05.08.19:462][595]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.01.27-05.08.19:559][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.159ms to complete.
 [2018.01.27-05.08.19:560][595]LogFileHelpers: Loading map 'NewMap' took 0.419
+[2018.01.27-05.09.10:161][969]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.27-05.09.10:161][969]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.27-05.09.10:161][969]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.27-05.09.10:161][969]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.27-05.09.10:161][969]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.27-05.09.10:161][969]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2018.01.27-05.09.10:161][969]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.01.27-05.09.10:161][969]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.27-05.09.11:079][969]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.01.27-05.09.11:079][969]SourceControl: Error: error: please commit or stash them.
+[2018.01.27-05.09.11:084][969]LightingResults: New page: Lighting Build
+[2018.01.27-05.09.11:085][969]MapCheck: New page: Map Check
+[2018.01.27-05.09.11:085][969]LightingResults: New page: Lighting Build
+[2018.01.27-05.09.11:105][969]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-05.09.11:109][969]LoadErrors: New page: New Map
+[2018.01.27-05.09.11:829][969]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-05.09.11:829][969]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-05.09.11:829][969]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-05.09.11:829][969]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-05.09.11:830][969]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-05.09.11:830][969]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-05.09.11:830][969]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-05.09.11:830][969]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-05.09.11:835][969]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2775.95] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 15 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-05.09.13:782][969]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:00E5
+[2018.01.27-05.09.14:422][969]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-05.09.14:423][969]LogMaterial: Warning: /Game/items/Tunnel1_DEADPACKAGE_134.Tunnel1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:423][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:429][969]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-05.09.14:430][969]LogMaterial: Warning: /Game/items/Tunnel1_DEADPACKAGE_134.Tunnel1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:430][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:437][969]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-05.09.14:438][969]LogMaterial: Warning: /Game/items/Shoulder_DEADPACKAGE_151.Shoulder (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:438][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:449][969]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-05.09.14:450][969]LogMaterial: Warning: /Game/items/Shoulder_DEADPACKAGE_151.Shoulder (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:450][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:454][969]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-05.09.14:455][969]LogMaterial: Warning: /Game/items/Shirt_DEADPACKAGE_144.Shirt (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:455][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:461][969]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-05.09.14:461][969]LogMaterial: Warning: /Game/items/Shirt_DEADPACKAGE_144.Shirt (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:461][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:467][969]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-05.09.14:468][969]LogMaterial: Warning: /Game/items/Eyebrow_DEADPACKAGE_145.Eyebrow (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:468][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:473][969]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-05.09.14:474][969]LogMaterial: Warning: /Game/items/Eyebrow_DEADPACKAGE_145.Eyebrow (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:474][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:479][969]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-05.09.14:480][969]LogMaterial: Warning: /Game/items/Eye2_DEADPACKAGE_148.Eye2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:480][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:485][969]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-05.09.14:486][969]LogMaterial: Warning: /Game/items/Eye2_DEADPACKAGE_148.Eye2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:486][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:491][969]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-05.09.14:492][969]LogMaterial: Warning: /Game/items/Eye_DEADPACKAGE_146.Eye (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:492][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:499][969]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-05.09.14:499][969]LogMaterial: Warning: /Game/items/Eye_DEADPACKAGE_146.Eye (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:499][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:508][969]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-05.09.14:508][969]LogMaterial: Warning: /Game/items/Body_DEADPACKAGE_149.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:508][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:513][969]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-05.09.14:514][969]LogMaterial: Warning: /Game/items/Body_DEADPACKAGE_149.Body (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:514][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:518][969]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-05.09.14:519][969]LogMaterial: Warning: /Game/items/Arm_DEADPACKAGE_143.Arm (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:519][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:523][969]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-05.09.14:524][969]LogMaterial: Warning: /Game/items/Arm_DEADPACKAGE_143.Arm (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:524][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:529][969]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-05.09.14:529][969]LogMaterial: Warning: /Game/items/minion1_DEADPACKAGE_150.minion1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:529][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:535][969]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-05.09.14:535][969]LogMaterial: Warning: /Game/items/minion1_DEADPACKAGE_150.minion1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:535][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:540][969]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-05.09.14:541][969]LogMaterial: Warning: /Game/items/Gasul1_DEADPACKAGE_153.Gasul1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:541][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:548][969]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-05.09.14:549][969]LogMaterial: Warning: /Game/items/Gasul1_DEADPACKAGE_153.Gasul1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:549][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:555][969]LogMaterial: Missing cached shader map for material Barrel1, compiling. 
+[2018.01.27-05.09.14:555][969]LogMaterial: Warning: /Game/items/Barrel1_DEADPACKAGE_155.Barrel1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:555][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:564][969]LogMaterial: Missing cached shader map for material Barrel1, compiling. 
+[2018.01.27-05.09.14:564][969]LogMaterial: Warning: /Game/items/Barrel1_DEADPACKAGE_155.Barrel1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.09.14:564][969]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.09.14:834][969]LogAIModule: Creating AISystem for world NewMap
+[2018.01.27-05.09.14:905][969]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-05.09.14:905][969]LightingResults: New page: Lighting Build
+[2018.01.27-05.09.14:906][969]LoadErrors: New page: Loading map: NewMap.umap
+[2018.01.27-05.09.14:906][969]MapCheck: New page: Map Check
+[2018.01.27-05.09.14:906][969]LightingResults: New page: Lighting Build
+[2018.01.27-05.09.14:955][969]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-05.09.14:997][969]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-05.09.15:068][969]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.3ms to complete.
+[2018.01.27-05.09.15:069][969]LogFileHelpers: Loading map 'NewMap' took 0.166
