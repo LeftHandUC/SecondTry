@@ -1,0 +1,1569 @@
+﻿Log file open, 01/27/18 12:22:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SecondTry
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1496461330) SRandInit(-1496461329).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.106824
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.27-04.22.59:352][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-04.22.59:352][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.27-04.22.59:474][  0]LogInit: Computer: BAHAN-PC
+[2018.01.27-04.22.59:474][  0]LogInit: User: Bahan
+[2018.01.27-04.22.59:474][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.27-04.22.59:474][  0]LogInit: High frequency timer resolution =3.609501 MHz
+[2018.01.27-04.22.59:474][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.01.27-04.22.59:474][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.27-04.22.59:474][  0]LogMemory: Process Physical Memory: 272.38 MB used, 272.38 MB peak
+[2018.01.27-04.22.59:474][  0]LogMemory: Process Virtual Memory: 271.15 MB used, 271.15 MB peak
+[2018.01.27-04.22.59:474][  0]LogMemory: Physical Memory: 1875.18 MB used,  2100.90 MB free, 3976.07 MB total
+[2018.01.27-04.22.59:474][  0]LogMemory: Virtual Memory: 624.11 MB used,  2100.90 MB free, 8388608.00 MB total
+[2018.01.27-04.22.59:754][  0]LogInit: Using OS detected language (en-US).
+[2018.01.27-04.22.59:754][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.27-04.22.59:899][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.27-04.23.00:616][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.01.27-04.23.00:616][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.01.27-04.23.00:616][  0]LogInit: Setting process to DPI aware
+[2018.01.27-04.23.00:630][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.01.27-04.23.00:630][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.01.27-04.23.00:630][  0]LogInit: Setting process to DPI aware
+[2018.01.27-04.23.03:035][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.27-04.23.03:040][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.01.27-04.23.03:040][  0]LogD3D11RHI:       192/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.01.27-04.23.03:040][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.27-04.23.03:045][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.27-04.23.03:045][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.27-04.23.03:045][  0]LogWindows: EnumDisplayDevices:
+[2018.01.27-04.23.03:045][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.01.27-04.23.03:045][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.01.27-04.23.03:045][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2018.01.27-04.23.03:045][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.01.27-04.23.03:046][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.01.27-04.23.03:046][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2018.01.27-04.23.03:046][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2018.01.27-04.23.03:046][  0]LogD3D11RHI:   Driver Version: 20.19.15.4312 (internal:20.19.15.4312, unified:20.19.15.4312)
+[2018.01.27-04.23.03:046][  0]LogD3D11RHI:      Driver Date: 10-28-2015
+[2018.01.27-04.23.03:046][  0]LogRHI: Texture pool is 705 MB (70% of 1008 MB)
+[2018.01.27-04.23.03:055][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.27-04.23.03:060][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.01.27-04.23.03:061][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Intermediate/Shaders/WorkingDirectory/17836/).
+[2018.01.27-04.23.03:061][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bahan/AppData/Local/Temp/UnrealShaderWorkingDir/E7443EA94C09248CA3DCD3B7107F0C89/'.
+[2018.01.27-04.23.03:061][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.27-04.23.04:220][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.27-04.23.04:268][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.27-04.23.04:317][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.27-04.23.04:374][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.27-04.23.04:437][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.27-04.23.04:483][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.27-04.23.04:534][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.27-04.23.04:579][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.27-04.23.04:620][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.27-04.23.04:666][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.27-04.23.04:712][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.27-04.23.04:759][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.27-04.23.04:802][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.27-04.23.04:845][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.27-04.23.04:936][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.27-04.23.04:936][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.27-04.23.04:995][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.27-04.23.05:034][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.27-04.23.05:132][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.27-04.23.05:156][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.27-04.23.05:202][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.27-04.23.05:251][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.27-04.23.05:300][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.27-04.23.05:345][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.27-04.23.05:345][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.27-04.23.05:867][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.27-04.23.06:503][  0]LogDerivedDataCache: Loaded boot cache 0.64s 78MB C:/Users/Bahan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-04.23.06:504][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bahan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.27-04.23.06:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.27-04.23.06:504][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.27-04.23.06:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.27-04.23.06:504][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.27-04.23.06:560][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.27-04.23.06:571][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bahan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.27-04.23.06:581][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.27-04.23.06:581][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.27-04.23.06:588][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-04.23.06:588][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-04.23.07:893][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-04.23.08:242][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.27-04.23.08:280][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.27-04.23.08:280][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.27-04.23.08:280][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.27-04.23.08:280][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.27-04.23.08:280][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.27-04.23.08:303][  0]LogNetVersion: SecondTry , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3453988659)
+[2018.01.27-04.23.08:488][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.01.27-04.23.09:131][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.056772 seconds
+[2018.01.27-04.23.09:137][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.27-04.23.09:137][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.27-04.23.09:137][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.27-04.23.09:178][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.27-04.23.26:589][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.27-04.23.26:628][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.27-04.23.27:321][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.27-04.23.27:754][  0]SourceControl: Source control is disabled
+[2018.01.27-04.23.28:987][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.27-04.23.29:234][  0]LogOcInput: OculusInput pre-init called
+[2018.01.27-04.23.29:539][  0]LogEngine: Initializing Engine...
+[2018.01.27-04.23.29:541][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.27-04.23.29:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.27-04.23.29:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.27-04.23.30:063][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-04.23.30:072][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-04.23.30:096][  0]LogInit: FAudioDevice initialized.
+[2018.01.27-04.23.30:207][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Bahan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-04.23.30:228][  0]LogInit: Texture streaming: Enabled
+[2018.01.27-04.23.30:351][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.27-04.23.30:537][  0]LogInit: Transaction tracking system initialized
+[2018.01.27-04.23.30:884][  0]BlueprintLog: New page: Editor Load
+[2018.01.27-04.23.32:004][  0]LocalizationService: Localization service is disabled
+[2018.01.27-04.23.33:029][  0]LogConsoleResponse: Display: 
+[2018.01.27-04.23.33:715][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.27-04.23.33:715][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.27-04.23.33:715][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.27-04.23.33:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bahan/Documents/Unreal Projects/SecondTry/Content/' took 0.01s
+[2018.01.27-04.23.35:294][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.23.35:314][  0]LightingResults: New page: Lighting Build
+[2018.01.27-04.23.35:352][  0]MapCheck: New page: Map Check
+[2018.01.27-04.23.35:352][  0]LightingResults: New page: Lighting Build
+[2018.01.27-04.23.35:878][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.27-04.23.35:888][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.23.35:900][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.23.35:960][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.03ms to complete.
+[2018.01.27-04.23.35:960][  0]LogFileHelpers: Loading map 'Template_Default' took 0.666
+[2018.01.27-04.23.36:235][  0]LogCollectionManager: Loaded 0 collections in 0.001471 seconds
+[2018.01.27-04.23.36:292][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Collections/' took 0.01s
+[2018.01.27-04.23.36:292][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bahan/Documents/Unreal Projects/SecondTry/Content/Developers/Bahan/Collections/' took 0.00s
+[2018.01.27-04.23.36:292][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bahan/Documents/Unreal Projects/SecondTry/Content/Collections/' took 0.00s
+[2018.01.27-04.23.36:292][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.27-04.23.36:300][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2363 classes and 519 folders.
+[2018.01.27-04.23.36:357][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.27-04.23.37:095][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.27-04.23.37:138][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.27-04.23.37:158][  0]LogSlate: Took 0.003934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-04.23.37:165][  0]LogSlate: Took 0.005500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.27-04.23.37:180][  0]LogSlate: Took 0.008774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.27-04.23.37:344][  0]LogRenderer: Reallocating scene render targets to support 856x380 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-04.23.38:505][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.27-04.23.38:505][  0]LogLoad: (Engine Initialization) Total time: 42.71 seconds
+[2018.01.27-04.23.38:505][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.27-04.23.38:505][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.27-04.23.38:561][  0]LogAssetRegistry: Asset discovery search completed in 30.0926 seconds
+[2018.01.27-04.23.38:562][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.27-04.23.38:562][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.01.27-04.23.38:563][  0]SourceControl: On branch master
+[2018.01.27-04.23.38:563][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.01.27-04.23.38:563][  0]SourceControl: Changes not staged for commit:
+[2018.01.27-04.23.38:563][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.27-04.23.38:563][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.27-04.23.38:563][  0]SourceControl: 	deleted:    Content/Particles and Textures/StarterContent/Textures/T_Rock_Basalt_D.uasset
+[2018.01.27-04.23.38:563][  0]SourceControl: 	deleted:    Content/Particles and Textures/StarterContent/Textures/T_Rock_Basalt_N.uasset
+[2018.01.27-04.23.38:563][  0]SourceControl: 	deleted:    Content/Particles and Textures/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset
+[2018.01.27-04.23.38:563][  0]SourceControl: 	deleted:    Content/Particles and Textures/StarterContent/Textures/T_Rock_Sandstone_D.uasset
+[2018.01.27-04.23.38:563][  0]SourceControl: 	deleted:    Content/Particles and Textures/StarterContent/Textures/T_Rock_Sandstone_N.uasset
+[2018.01.27-04.23.38:563][  0]SourceControl: 	deleted:    Content/Particles and Textures/T_Rock_Basalt_D.uasset
+[2018.01.27-04.23.38:563][  0]SourceControl: Untracked files:
+[2018.01.27-04.23.38:563][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.27-04.23.38:563][  0]SourceControl: 	Content/StarterContent/
+[2018.01.27-04.23.38:563][  0]SourceControl: 	Content/rock/
+[2018.01.27-04.23.38:563][  0]SourceControl: 	StarterContent/
+[2018.01.27-04.23.38:563][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.27-04.23.38:564][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.27-04.23.38:614][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-04.23.57:414][578]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-04.23.57:881][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-04.23.57:881][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-04.23.57:882][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-04.23.57:882][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-04.23.57:882][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-04.23.57:882][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-04.23.57:882][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-04.23.57:882][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-04.23.57:887][578]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0062.10] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 9 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-04.23.58:464][578]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-04.23.59:595][578]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.23.59:697][578]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.23.59:698][578]LightingResults: New page: Lighting Build
+[2018.01.27-04.23.59:699][578]LoadErrors: New page: Loading map: Level1.umap
+[2018.01.27-04.23.59:706][578]MapCheck: New page: Map Check
+[2018.01.27-04.23.59:707][578]LightingResults: New page: Lighting Build
+[2018.01.27-04.23.59:745][578]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.23.59:778][578]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.23.59:822][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.827ms to complete.
+[2018.01.27-04.23.59:822][578]LogFileHelpers: Loading map 'Level1' took 0.133
+[2018.01.27-04.24.19:676][221]LogSavePackage: Save=4.48ms
+[2018.01.27-04.24.19:676][221]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/practice76ECA4814D1EAE83FCE286A156AB9726.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/practice.umap'
+[2018.01.27-04.24.19:710][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/practice.umap
+[2018.01.27-04.24.19:854][221]LogFileHelpers: Saving map 'practice' took 0.243
+[2018.01.27-04.24.19:860][221]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/practice.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.24.19:860][221]LightingResults: New page: Lighting Build
+[2018.01.27-04.24.19:861][221]LoadErrors: New page: Loading map: practice.umap
+[2018.01.27-04.24.19:869][221]MapCheck: New page: Map Check
+[2018.01.27-04.24.19:870][221]LightingResults: New page: Lighting Build
+[2018.01.27-04.24.19:888][221]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.24.19:889][221]LogAIModule: Creating AISystem for world practice
+[2018.01.27-04.24.19:918][221]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.24.19:960][221]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.65ms to complete.
+[2018.01.27-04.24.19:961][221]LogFileHelpers: Loading map 'practice' took 0.103
+[2018.01.27-04.24.35:342][827]LightingResults: New page: Lighting Build
+[2018.01.27-04.24.35:354][827]MapCheck: New page: Map Check
+[2018.01.27-04.24.35:354][827]LightingResults: New page: Lighting Build
+[2018.01.27-04.24.35:369][827]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-04.24.35:379][827]LoadErrors: New page: New Map
+[2018.01.27-04.24.35:383][827]LogAIModule: Creating AISystem for world practice
+[2018.01.27-04.24.41:125][994]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.24.41:161][994]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.24.41:162][994]LightingResults: New page: Lighting Build
+[2018.01.27-04.24.41:162][994]LoadErrors: New page: Loading map: Level1.umap
+[2018.01.27-04.24.41:162][994]MapCheck: New page: Map Check
+[2018.01.27-04.24.41:162][994]LightingResults: New page: Lighting Build
+[2018.01.27-04.24.41:199][994]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.24.41:232][994]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.24.41:275][994]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.114ms to complete.
+[2018.01.27-04.24.41:275][994]LogFileHelpers: Loading map 'Level1' took 0.114
+[2018.01.27-04.24.42:825][ 36]LogAIModule: Creating AISystem for world practice
+[2018.01.27-04.24.53:009][534]LogAIModule: Creating AISystem for world practice
+[2018.01.27-04.24.53:028][534]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/practice.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.24.53:028][534]LightingResults: New page: Lighting Build
+[2018.01.27-04.24.53:028][534]LoadErrors: New page: Loading map: practice.umap
+[2018.01.27-04.24.53:031][534]MapCheck: New page: Map Check
+[2018.01.27-04.24.53:031][534]LightingResults: New page: Lighting Build
+[2018.01.27-04.24.53:053][534]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.24.53:083][534]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.24.53:130][534]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.634ms to complete.
+[2018.01.27-04.24.53:130][534]LogFileHelpers: Loading map 'practice' took 0.104
+[2018.01.27-04.25.09:496][648]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.25.09:513][648]LightingResults: New page: Lighting Build
+[2018.01.27-04.25.09:515][648]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.01.27-04.25.09:515][648]MapCheck: New page: Map Check
+[2018.01.27-04.25.09:515][648]LightingResults: New page: Lighting Build
+[2018.01.27-04.25.09:548][648]LogAIModule: Creating AISystem for world Untitled_3
+[2018.01.27-04.25.09:557][648]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.25.09:577][648]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.25.09:619][648]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.573ms to complete.
+[2018.01.27-04.25.09:619][648]LogFileHelpers: Loading map 'Template_Default' took 0.124
+[2018.01.27-04.25.17:840][888]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.25.17:876][888]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.25.17:876][888]LightingResults: New page: Lighting Build
+[2018.01.27-04.25.17:877][888]LoadErrors: New page: Loading map: Level1.umap
+[2018.01.27-04.25.17:878][888]MapCheck: New page: Map Check
+[2018.01.27-04.25.17:878][888]LightingResults: New page: Lighting Build
+[2018.01.27-04.25.17:915][888]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.25.17:947][888]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.25.17:995][888]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.782ms to complete.
+[2018.01.27-04.25.17:995][888]LogFileHelpers: Loading map 'Level1' took 0.120
+[2018.01.27-04.25.22:900][ 22]LogAIModule: Creating AISystem for world practice
+[2018.01.27-04.25.22:921][ 22]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/practice.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.25.22:921][ 22]LightingResults: New page: Lighting Build
+[2018.01.27-04.25.22:922][ 22]LoadErrors: New page: Loading map: practice.umap
+[2018.01.27-04.25.22:926][ 22]MapCheck: New page: Map Check
+[2018.01.27-04.25.22:926][ 22]LightingResults: New page: Lighting Build
+[2018.01.27-04.25.22:946][ 22]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.25.22:977][ 22]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.25.23:021][ 22]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.129ms to complete.
+[2018.01.27-04.25.23:021][ 22]LogFileHelpers: Loading map 'practice' took 0.103
+[2018.01.27-04.26.00:167][780]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.26.00:213][780]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.26.00:213][780]LightingResults: New page: Lighting Build
+[2018.01.27-04.26.00:214][780]LoadErrors: New page: Loading map: Level1.umap
+[2018.01.27-04.26.00:214][780]MapCheck: New page: Map Check
+[2018.01.27-04.26.00:214][780]LightingResults: New page: Lighting Build
+[2018.01.27-04.26.00:252][780]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.26.00:284][780]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.26.00:331][780]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.652ms to complete.
+[2018.01.27-04.26.00:331][780]LogFileHelpers: Loading map 'Level1' took 0.119
+[2018.01.27-04.26.01:449][808]LogAIModule: Creating AISystem for world practice
+[2018.01.27-04.26.01:469][808]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/practice.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.26.01:469][808]LightingResults: New page: Lighting Build
+[2018.01.27-04.26.01:470][808]LoadErrors: New page: Loading map: practice.umap
+[2018.01.27-04.26.01:474][808]MapCheck: New page: Map Check
+[2018.01.27-04.26.01:474][808]LightingResults: New page: Lighting Build
+[2018.01.27-04.26.01:498][808]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.26.01:532][808]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.26.01:580][808]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.836ms to complete.
+[2018.01.27-04.26.01:580][808]LogFileHelpers: Loading map 'practice' took 0.112
+[2018.01.27-04.26.03:231][867]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.26.03:272][867]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.26.03:272][867]LightingResults: New page: Lighting Build
+[2018.01.27-04.26.03:273][867]LoadErrors: New page: Loading map: Level1.umap
+[2018.01.27-04.26.03:273][867]MapCheck: New page: Map Check
+[2018.01.27-04.26.03:273][867]LightingResults: New page: Lighting Build
+[2018.01.27-04.26.03:315][867]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.26.03:350][867]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.26.03:408][867]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.259ms to complete.
+[2018.01.27-04.26.03:408][867]LogFileHelpers: Loading map 'Level1' took 0.137
+[2018.01.27-04.26.11:292][230]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.26.11:310][230]LightingResults: New page: Lighting Build
+[2018.01.27-04.26.11:310][230]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.01.27-04.26.11:313][230]MapCheck: New page: Map Check
+[2018.01.27-04.26.11:313][230]LightingResults: New page: Lighting Build
+[2018.01.27-04.26.11:353][230]LogAIModule: Creating AISystem for world Untitled_4
+[2018.01.27-04.26.11:359][230]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.26.11:383][230]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.26.11:429][230]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.461ms to complete.
+[2018.01.27-04.26.11:429][230]LogFileHelpers: Loading map 'Template_Default' took 0.138
+[2018.01.27-04.27.02:974][259]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.27.02:990][259]LightingResults: New page: Lighting Build
+[2018.01.27-04.27.02:991][259]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.01.27-04.27.02:991][259]MapCheck: New page: Map Check
+[2018.01.27-04.27.02:991][259]LightingResults: New page: Lighting Build
+[2018.01.27-04.27.03:027][259]LogAIModule: Creating AISystem for world Untitled_5
+[2018.01.27-04.27.03:032][259]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.27.03:052][259]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.27.03:102][259]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.18ms to complete.
+[2018.01.27-04.27.03:102][259]LogFileHelpers: Loading map 'Template_Default' took 0.129
+[2018.01.27-04.27.07:626][395]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2018.01.27-04.27.16:041][395]LogSavePackage: Save=35.55ms
+[2018.01.27-04.27.16:041][395]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/NewMap76D864134A72152DF7995B9F497B04DE.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap'
+[2018.01.27-04.27.16:042][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap
+[2018.01.27-04.27.16:512][395]LogSavePackage: Save=16.52ms
+[2018.01.27-04.27.16:512][395]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/NewMap_BuiltData12BE5B19445C40F6DFFAEEB55D43D485.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap_BuiltData.uasset'
+[2018.01.27-04.27.16:512][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap_BuiltData.uasset
+[2018.01.27-04.27.16:702][395]LogFileHelpers: Saving map 'NewMap' took 0.809
+[2018.01.27-04.27.17:028][407]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2018.01.27-04.27.21:315][533]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.27.21:315][533]LightingResults: New page: Lighting Build
+[2018.01.27-04.27.21:316][533]LoadErrors: New page: Loading map: NewMap.umap
+[2018.01.27-04.27.21:318][533]MapCheck: New page: Map Check
+[2018.01.27-04.27.21:318][533]LightingResults: New page: Lighting Build
+[2018.01.27-04.27.21:360][533]LogAIModule: Creating AISystem for world NewMap
+[2018.01.27-04.27.21:363][533]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.27.21:400][533]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.27.21:446][533]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.097ms to complete.
+[2018.01.27-04.27.21:447][533]LogFileHelpers: Loading map 'NewMap' took 0.134
+[2018.01.27-04.27.21:449][533]LoadErrors: Error: /Game/ThirdPersonBP/Maps/NewMap : Failed import for MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NewMap_BuiltData.NewMap_BuiltData Referenced by export Level /Game/ThirdPersonBP/Maps/NewMap.NewMap:PersistentLevel
+[2018.01.27-04.30.37:477][ 96]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:/Minion.fbx)
+[2018.01.27-04.30.37:590][ 96]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-04.30.37:590][ 96]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.27-04.30.37:590][ 96]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.27-04.30.37:590][ 96]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-04.30.37:590][ 96]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.27-04.30.37:590][ 96]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-04.30.37:607][ 96]LogFbx: Loading FBX Scene from G:/Minion.fbx
+[2018.01.27-04.30.37:617][ 96]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.30.40:420][ 96]LogFbx: Loading FBX Scene from G:/Minion.fbx
+[2018.01.27-04.30.40:428][ 96]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.30.40:466][ 96]LogLinker: Can't find file '/Game/items/Minion'
+[2018.01.27-04.30.40:481][ 96]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.30.40:525][ 96]LogFbx: Warning: Triangulating static mesh pCube6
+[2018.01.27-04.30.40:725][ 96]LogStaticMesh: Building static mesh Minion...
+[2018.01.27-04.30.40:963][ 96]LogStaticMesh: Built static mesh [0.24s] /Game/items/Minion.Minion
+[2018.01.27-04.30.41:204][ 96]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-04.33.57:213][895]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:/barrel/Barrel.fbx)
+[2018.01.27-04.33.57:221][895]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-04.33.57:221][895]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.27-04.33.57:221][895]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.27-04.33.57:221][895]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-04.33.57:221][895]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.27-04.33.57:221][895]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-04.33.57:226][895]LogFbx: Loading FBX Scene from G:/barrel/Barrel.fbx
+[2018.01.27-04.33.57:233][895]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.33.58:507][895]LogFbx: Loading FBX Scene from G:/barrel/Barrel.fbx
+[2018.01.27-04.33.58:513][895]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.33.58:514][895]LogLinker: Can't find file '/Game/items/Barrel'
+[2018.01.27-04.33.58:519][895]LogMaterial: Missing cached shader map for material Barrel1, compiling. 
+[2018.01.27-04.33.58:543][895]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2018.01.27-04.33.58:549][895]LogStaticMesh: Building static mesh Barrel...
+[2018.01.27-04.33.58:556][895]LogStaticMesh: Built static mesh [0.01s] /Game/items/Barrel.Barrel
+[2018.01.27-04.33.58:566][895]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-04.34.07:673][993]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/barrel/Barrel_Barrel_BaseColor.bmp)
+[2018.01.27-04.34.07:778][993]LogTexture: Display: Building textures: Barrel_Barrel_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.34.08:522][993]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/barrel/Barrel_Barrel_Normal.bmp)
+[2018.01.27-04.34.08:566][993]LogTexture: Display: Building textures: Barrel_Barrel_Normal (BC5, 1024X1024)
+[2018.01.27-04.34.08:765][993]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-04.34.09:067][993]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/barrel/Barrel_Barrel_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.34.09:092][993]LogTexture: Display: Building textures: Barrel_Barrel_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.34.17:286][104]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.01.27-04.34.17:290][104]LogMaterial: Missing cached shader map for material Barrel1, compiling. 
+[2018.01.27-04.34.18:287][104]LogMaterial: Missing cached shader map for material Barrel1, compiling. 
+[2018.01.27-04.34.18:320][104]LogMaterial: Missing cached shader map for material Barrel1, compiling. 
+[2018.01.27-04.34.18:430][104]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.34.18:497][104]LogSlate: Took 0.019378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.27-04.34.19:102][105]LogSlate: Took 0.021314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.27-04.34.28:874][247]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.01.27-04.34.28:874][247]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.01.27-04.34.28:874][247]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-04.34.28:874][247]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.27-04.34.32:485][455]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.27-04.34.36:409][545]LogTexture: Display: Building textures: Barrel_Barrel_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.34.50:828][869]LogSavePackage: Save=149.28ms
+[2018.01.27-04.34.50:828][869]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Barrel_Barrel_OcclusionRoughness6D02C3ED4A763D46156B4995D233DEBD.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel_Barrel_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.34.50:829][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel_Barrel_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.34.54:921][932]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.27-04.34.55:011][932]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.27-04.34.55:066][932]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.27-04.34.55:147][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.34.58:370][  3]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.27-04.35.07:671][249]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.27-04.35.07:671][249]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.27-04.35.07:671][249]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-04.35.07:671][249]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.27-04.35.18:497][391]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.35.18:617][391]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.35.18:648][391]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.35.18:814][391]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.35.24:948][556]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.35.32:610][690]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.35.32:638][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.27-04.35.32:682][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.27-04.35.32:701][690]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.35.32:733][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.27-04.35.32:794][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.27-04.35.32:801][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.27-04.35.32:820][690]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.35.32:846][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-04.35.32:897][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.27-04.35.32:904][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.27-04.35.32:911][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-04.36.02:232][247]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.27-04.36.02:232][247]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.27-04.36.02:232][247]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-04.36.02:232][247]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.27-04.36.20:775][614]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.36.20:813][614]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.27-04.36.27:980][823]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.36.28:021][823]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.27-04.36.33:348][949]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.36.33:392][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-04.36.40:923][ 98]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.36.40:959][ 98]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-04.36.44:303][179]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.36.44:342][179]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-04.36.54:686][347]LogMaterialEditor: Saving and Compiling material Barrel1
+[2018.01.27-04.36.55:751][347]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.01.27-04.36.56:012][347]LogMaterial: Missing cached shader map for material Barrel1, compiling. 
+[2018.01.27-04.36.56:059][347]LogMaterial: Missing cached shader map for material Barrel1, compiling. 
+[2018.01.27-04.36.56:394][347]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Barrel1, compiling. 
+[2018.01.27-04.37.01:693][347]TextureStreamingBuild: Display: Compiling optional shaders took 5.311 seconds.
+[2018.01.27-04.37.08:351][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Barrel1" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel1.uasset" SILENT=true
+[2018.01.27-04.37.08:390][347]LogSavePackage: Save=23.27ms
+[2018.01.27-04.37.08:390][347]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Barrel1841C92ED40E907BB6CB020B2D3C6F9E8.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel1.uasset'
+[2018.01.27-04.37.08:391][347]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel1.uasset
+[2018.01.27-04.37.09:455][347]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.37.09:455][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.37.09:455][347]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.37.09:455][347]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.37.09:455][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.37.17:376][478]LogActorFactory: Actor Factory created Barrel
+[2018.01.27-04.37.17:966][491]LogActorFactory: Actor Factory created Barrel
+[2018.01.27-04.37.45:321][864]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:/gasol/Gasul.fbx)
+[2018.01.27-04.37.45:336][864]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-04.37.45:336][864]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.27-04.37.45:336][864]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.27-04.37.45:336][864]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-04.37.45:336][864]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.27-04.37.45:336][864]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-04.37.45:343][864]LogFbx: Loading FBX Scene from G:/gasol/Gasul.fbx
+[2018.01.27-04.37.45:352][864]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.37.46:674][864]LogFbx: Loading FBX Scene from G:/gasol/Gasul.fbx
+[2018.01.27-04.37.46:685][864]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.37.46:686][864]LogLinker: Can't find file '/Game/items/Gasul'
+[2018.01.27-04.37.46:692][864]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.37.46:728][864]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2018.01.27-04.37.46:763][864]LogStaticMesh: Building static mesh Gasul...
+[2018.01.27-04.37.46:819][864]LogStaticMesh: Built static mesh [0.06s] /Game/items/Gasul.Gasul
+[2018.01.27-04.37.46:900][864]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-04.37.47:850][864]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/gasol/Gasul_Gasul_BaseColor.bmp)
+[2018.01.27-04.37.47:911][864]LogTexture: Display: Building textures: Gasul_Gasul_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.37.49:151][864]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/gasol/Gasul_Gasul_Normal.bmp)
+[2018.01.27-04.37.49:190][864]LogTexture: Display: Building textures: Gasul_Gasul_Normal (BC5, 1024X1024)
+[2018.01.27-04.37.50:481][864]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/gasol/Gasul_Gasul_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.37.50:541][864]LogTexture: Display: Building textures: Gasul_Gasul_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.38.05:642][ 59]LogTexture: Display: Building textures: Gasul_Gasul_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.38.15:304][237]LogSavePackage: Save=86.09ms
+[2018.01.27-04.38.15:304][237]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Gasul_Gasul_OcclusionRoughnessMeE3ED5429433ACB2392BE7AA13FFCAFA4.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul_Gasul_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.38.15:306][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul_Gasul_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.38.15:913][238]LogSavePackage: Save=61.70ms
+[2018.01.27-04.38.15:913][238]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/NewMap_Auto1A09A3B6E4C3F2AC5A7C7BF9C53C588CA.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/NewMap_Auto1.umap'
+[2018.01.27-04.38.15:914][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/NewMap_Auto1.umap
+[2018.01.27-04.38.15:916][238]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/NewMap' took 0.208
+[2018.01.27-04.38.15:916][238]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.208
+[2018.01.27-04.38.15:943][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Barrel] ([1] browsable assets)...
+[2018.01.27-04.38.16:088][238]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/items/Barrel.Barrel]
+[2018.01.27-04.38.16:089][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Barrel]
+[2018.01.27-04.38.16:089][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Barrel" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Barrel_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.38.16:116][238]LogSavePackage: Save=15.24ms
+[2018.01.27-04.38.16:117][238]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Barrel_Auto1225CDA5B44E5E6E9E1511888D65B3AD4.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Barrel_Auto1.uasset'
+[2018.01.27-04.38.16:117][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Barrel_Auto1.uasset
+[2018.01.27-04.38.16:118][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Barrel_Barrel_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.38.16:134][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/Barrel_Barrel_BaseColor.Barrel_Barrel_BaseColor]
+[2018.01.27-04.38.16:134][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Barrel_Barrel_BaseColor]
+[2018.01.27-04.38.16:182][238]LogSavePackage: Save=47.04ms
+[2018.01.27-04.38.16:182][238]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Barrel_Barrel_BaseColor_Auto1261833684DC92787E20F52AFB3ACEE5E.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Barrel_Barrel_BaseColor_Auto1.uasset'
+[2018.01.27-04.38.16:183][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Barrel_Barrel_BaseColor_Auto1.uasset
+[2018.01.27-04.38.16:223][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Barrel_Barrel_Normal] ([1] browsable assets)...
+[2018.01.27-04.38.16:237][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/Barrel_Barrel_Normal.Barrel_Barrel_Normal]
+[2018.01.27-04.38.16:237][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Barrel_Barrel_Normal]
+[2018.01.27-04.38.16:252][238]LogSavePackage: Save=13.72ms
+[2018.01.27-04.38.16:252][238]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Barrel_Barrel_Normal_Auto11D2616C24C4434111467E6B156D0A3D3.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Barrel_Barrel_Normal_Auto1.uasset'
+[2018.01.27-04.38.16:263][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Barrel_Barrel_Normal_Auto1.uasset
+[2018.01.27-04.38.16:264][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Gasul] ([1] browsable assets)...
+[2018.01.27-04.38.16:309][238]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/items/Gasul.Gasul]
+[2018.01.27-04.38.16:310][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Gasul]
+[2018.01.27-04.38.16:310][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Gasul" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.38.16:326][238]LogSavePackage: Save=15.76ms
+[2018.01.27-04.38.16:327][238]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Gasul_Auto16E2E1FAC4C0820A2C436FAB940696798.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul_Auto1.uasset'
+[2018.01.27-04.38.16:327][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul_Auto1.uasset
+[2018.01.27-04.38.16:328][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Gasul1] ([1] browsable assets)...
+[2018.01.27-04.38.16:387][238]OBJ SavePackage:     Rendered thumbnail for [Material /Game/items/Gasul1.Gasul1]
+[2018.01.27-04.38.16:387][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Gasul1]
+[2018.01.27-04.38.16:388][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Gasul1" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.38.16:405][238]LogSavePackage: Save=15.04ms
+[2018.01.27-04.38.16:405][238]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Gasul1_Auto13FBC08994D5FCBA9B9D7F7814FDAB798.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul1_Auto1.uasset'
+[2018.01.27-04.38.16:406][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul1_Auto1.uasset
+[2018.01.27-04.38.16:406][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Gasul_Gasul_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.38.16:420][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/Gasul_Gasul_BaseColor.Gasul_Gasul_BaseColor]
+[2018.01.27-04.38.16:420][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Gasul_Gasul_BaseColor]
+[2018.01.27-04.38.16:434][238]LogSavePackage: Save=12.46ms
+[2018.01.27-04.38.16:434][238]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Gasul_Gasul_BaseColor_Auto1A5B5461D42DD15E9092C01B50E4DFCA8.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul_Gasul_BaseColor_Auto1.uasset'
+[2018.01.27-04.38.16:434][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul_Gasul_BaseColor_Auto1.uasset
+[2018.01.27-04.38.16:435][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Gasul_Gasul_Normal] ([1] browsable assets)...
+[2018.01.27-04.38.16:449][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/Gasul_Gasul_Normal.Gasul_Gasul_Normal]
+[2018.01.27-04.38.16:449][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Gasul_Gasul_Normal]
+[2018.01.27-04.38.16:473][238]LogSavePackage: Save=22.86ms
+[2018.01.27-04.38.16:473][238]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Gasul_Gasul_Normal_Auto1EA2A7E6747239A63C77CBDA4F229F667.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul_Gasul_Normal_Auto1.uasset'
+[2018.01.27-04.38.16:474][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Gasul_Gasul_Normal_Auto1.uasset
+[2018.01.27-04.38.16:474][238]LogFileHelpers: Auto-saving content packages took 0.557
+[2018.01.27-04.38.27:843][452]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.38.27:998][452]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.38.28:038][452]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.38.28:098][452]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.38.31:915][505]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.38.39:909][630]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.38.39:936][630]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.27-04.38.40:004][630]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.27-04.38.40:026][630]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.38.40:059][630]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.27-04.38.40:229][630]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.27-04.38.40:236][630]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.27-04.38.40:256][630]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.38.40:283][630]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.27-04.38.40:345][630]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.27-04.38.40:352][630]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.27-04.38.40:360][630]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.27-04.38.45:792][730]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.38.45:929][730]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.27-04.39.01:174][945]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.01.27-04.39.01:174][945]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.01.27-04.39.01:174][945]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.39.01:174][945]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.27-04.39.01:174][945]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.39.04:883][ 28]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.39.05:009][ 28]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.27-04.39.09:011][ 90]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.39.09:049][ 90]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.27-04.39.14:330][285]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.39.14:361][285]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.27-04.39.17:661][361]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.39.17:784][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.27-04.39.19:372][388]LogMaterialEditor: Saving and Compiling material Gasul1
+[2018.01.27-04.39.20:227][388]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.39.20:332][388]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.39.20:384][388]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-04.39.20:443][388]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Gasul1, compiling. 
+[2018.01.27-04.39.32:125][388]TextureStreamingBuild: Display: Compiling optional shaders took 11.690 seconds.
+[2018.01.27-04.39.32:544][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Gasul1" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul1.uasset" SILENT=true
+[2018.01.27-04.39.32:569][388]LogSavePackage: Save=23.69ms
+[2018.01.27-04.39.32:569][388]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Gasul18EBCBC0D499DCB862036FDABA6B404D2.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul1.uasset'
+[2018.01.27-04.39.32:570][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul1.uasset
+[2018.01.27-04.39.33:165][388]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.39.33:165][388]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.39.33:165][388]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.39.33:165][388]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.39.33:165][388]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.39.40:127][506]LogActorFactory: Actor Factory created Gasul
+[2018.01.27-04.39.41:043][527]LogActorFactory: Actor Factory created Gasul
+[2018.01.27-04.40.20:278][182]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:/minion/Minion.fbx)
+[2018.01.27-04.40.20:291][182]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-04.40.20:291][182]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.27-04.40.20:291][182]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.27-04.40.20:291][182]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-04.40.20:291][182]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.27-04.40.20:291][182]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-04.40.20:297][182]LogFbx: Loading FBX Scene from G:/minion/Minion.fbx
+[2018.01.27-04.40.20:310][182]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.40.22:665][182]LogFbx: Loading FBX Scene from G:/minion/Minion.fbx
+[2018.01.27-04.40.22:686][182]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.40.22:694][182]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.40.22:731][182]LogFbx: Warning: Triangulating static mesh pCube6
+[2018.01.27-04.40.22:830][182]LogStaticMesh: Building static mesh Minion...
+[2018.01.27-04.40.22:981][182]LogStaticMesh: Built static mesh [0.16s] /Game/items/Minion.Minion
+[2018.01.27-04.40.23:025][182]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-04.40.23:532][182]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/minion/Minion_minion_BaseColor.bmp)
+[2018.01.27-04.40.23:593][182]LogTexture: Display: Building textures: Minion_minion_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.40.24:885][182]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/minion/Minion_minion_Normal.bmp)
+[2018.01.27-04.40.24:923][182]LogTexture: Display: Building textures: Minion_minion_Normal (BC5, 1024X1024)
+[2018.01.27-04.40.26:393][182]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/minion/Minion_minion_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.40.26:484][182]LogTexture: Display: Building textures: Minion_minion_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.40.45:533][468]LogTexture: Display: Building textures: Minion_minion_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.40.48:135][514]LogSavePackage: Save=60.63ms
+[2018.01.27-04.40.48:135][514]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Minion_minion_OcclusionRoughness22774E864085DCFDB5A304B97FE2B8A5.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion_minion_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.40.48:136][514]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion_minion_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.40.53:301][606]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.40.53:399][606]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.40.53:438][606]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.40.53:519][606]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.40.57:147][681]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.01:842][752]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.01:872][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.27-04.41.02:065][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.27-04.41.02:102][752]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.02:130][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.27-04.41.02:262][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.27-04.41.02:270][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.27-04.41.02:322][752]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.02:349][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.27-04.41.02:398][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.27-04.41.02:405][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.27-04.41.02:413][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.27-04.41.08:185][866]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.08:218][866]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.27-04.41.09:574][907]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.09:611][907]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.27-04.41.11:680][961]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.11:735][961]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.27-04.41.14:082][ 24]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.14:115][ 24]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.27-04.41.16:270][ 75]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.16:304][ 75]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.27-04.41.17:507][ 92]LogMaterialEditor: Saving and Compiling material minion1
+[2018.01.27-04.41.18:577][ 92]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.18:672][ 92]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.18:737][ 92]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-04.41.19:216][ 92]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy minion1, compiling. 
+[2018.01.27-04.41.24:868][ 92]TextureStreamingBuild: Display: Compiling optional shaders took 5.660 seconds.
+[2018.01.27-04.41.32:064][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/minion1" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/minion1.uasset" SILENT=true
+[2018.01.27-04.41.32:084][ 92]LogSavePackage: Save=19.06ms
+[2018.01.27-04.41.32:084][ 92]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/minion1000779F3416708F28F36129B2AEFBB27.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/minion1.uasset'
+[2018.01.27-04.41.32:087][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/minion1.uasset
+[2018.01.27-04.41.32:599][ 92]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.41.32:599][ 92]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.41.32:599][ 92]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.41.32:599][ 92]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.41.32:599][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.41.37:555][174]LogActorFactory: Actor Factory created Minion
+[2018.01.27-04.41.39:500][216]LogActorFactory: Actor Factory created Minion
+[2018.01.27-04.41.41:943][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-04.41.51:128][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Minion)
+[2018.01.27-04.42.09:685][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-04.42.15:847][958]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.27-04.42.15:987][958]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.27-04.42.16:031][958]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.01.27-04.42.16:111][958]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.27-04.42.16:119][958]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.27-04.42.16:126][958]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.27-04.42.37:871][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Minion)
+[2018.01.27-04.42.44:216][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Minion)
+[2018.01.27-04.44.04:051][159]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.27-04.44.04:196][159]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.27-04.44.04:247][159]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2018.01.27-04.44.04:314][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.27-04.44.04:321][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.27-04.44.04:329][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.27-04.44.33:450][598]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:/tunnel/Tunnel.fbx)
+[2018.01.27-04.44.33:470][598]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-04.44.33:470][598]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.27-04.44.33:470][598]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.27-04.44.33:470][598]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-04.44.33:470][598]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.27-04.44.33:471][598]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-04.44.33:476][598]LogFbx: Loading FBX Scene from G:/tunnel/Tunnel.fbx
+[2018.01.27-04.44.33:486][598]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.44.35:894][598]LogFbx: Loading FBX Scene from G:/tunnel/Tunnel.fbx
+[2018.01.27-04.44.35:904][598]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.44.35:905][598]LogLinker: Can't find file '/Game/items/Tunnel'
+[2018.01.27-04.44.35:913][598]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.44.35:949][598]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2018.01.27-04.44.35:952][598]LogStaticMesh: Building static mesh Tunnel...
+[2018.01.27-04.44.35:959][598]LogStaticMesh: Built static mesh [0.01s] /Game/items/Tunnel.Tunnel
+[2018.01.27-04.44.35:972][598]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-04.44.37:755][598]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/tunnel/Tunnel_Tunnel_BaseColor.bmp)
+[2018.01.27-04.44.37:835][598]LogTexture: Display: Building textures: Tunnel_Tunnel_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.44.39:828][598]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/tunnel/Tunnel_Tunnel_Normal.bmp)
+[2018.01.27-04.44.40:056][598]LogTexture: Display: Building textures: Tunnel_Tunnel_Normal (BC5, 1024X1024)
+[2018.01.27-04.44.41:589][598]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/tunnel/Tunnel_Tunnel_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.44.41:669][598]LogTexture: Display: Building textures: Tunnel_Tunnel_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.44.59:108][918]LogTexture: Display: Building textures: Tunnel_Tunnel_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.45.01:181][937]LogSavePackage: Save=151.73ms
+[2018.01.27-04.45.01:181][937]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Tunnel_Tunnel_OcclusionRoughness4204E3D641DC9872B06CFD88AF9C893C.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel_Tunnel_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.45.01:183][937]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel_Tunnel_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.45.09:830][ 93]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.09:939][ 93]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.09:993][ 93]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.10:079][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.45.14:406][198]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.19:185][293]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.19:213][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.27-04.45.19:246][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.27-04.45.19:272][293]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.19:319][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.27-04.45.19:364][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.27-04.45.19:372][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.27-04.45.19:394][293]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.19:429][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.27-04.45.19:639][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.27-04.45.19:646][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.27-04.45.19:654][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.27-04.45.26:781][438]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.26:813][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.27-04.45.30:416][548]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.30:474][548]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.27-04.45.34:314][607]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.34:457][607]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.27-04.45.37:682][680]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.37:713][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.27-04.45.41:361][776]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.41:412][776]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.27-04.45.55:945][940]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.45.55:945][940]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.45.55:945][940]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.45.55:945][940]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-04.45.55:945][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.45.57:211][964]LogMaterialEditor: Saving and Compiling material Tunnel1
+[2018.01.27-04.45.58:088][964]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.58:297][964]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.58:351][964]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-04.45.58:442][964]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Tunnel1, compiling. 
+[2018.01.27-04.46.03:088][964]TextureStreamingBuild: Display: Compiling optional shaders took 4.654 seconds.
+[2018.01.27-04.46.08:729][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Tunnel1" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel1.uasset" SILENT=true
+[2018.01.27-04.46.08:766][964]LogSavePackage: Save=19.19ms
+[2018.01.27-04.46.08:766][964]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Tunnel158B8FDE84A762AD1B3B79688C38C0A9C.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel1.uasset'
+[2018.01.27-04.46.08:770][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel1.uasset
+[2018.01.27-04.46.09:396][964]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.46.09:396][964]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.46.09:396][964]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.46.09:396][964]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.46.09:396][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.46.12:729][ 20]LogActorFactory: Actor Factory created Tunnel
+[2018.01.27-04.46.15:562][ 87]LogActorFactory: Actor Factory created Tunnel
+[2018.01.27-04.46.48:956][573]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:/main character/MainChar.fbx)
+[2018.01.27-04.46.48:977][573]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-04.46.48:977][573]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.27-04.46.48:977][573]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.27-04.46.48:977][573]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-04.46.48:977][573]LogFbx: ItemName: Material, ItemCount : 8
+[2018.01.27-04.46.48:977][573]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-04.46.48:984][573]LogFbx: Loading FBX Scene from G:/main character/MainChar.fbx
+[2018.01.27-04.46.49:000][573]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.46.50:558][573]LogFbx: Loading FBX Scene from G:/main character/MainChar.fbx
+[2018.01.27-04.46.50:580][573]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-04.46.50:582][573]LogLinker: Can't find file '/Game/items/Shoulder'
+[2018.01.27-04.46.50:582][573]LogLinker: Can't find file '/Game/items/Shoulder'
+[2018.01.27-04.46.50:613][573]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.46.50:663][573]LogLinker: Can't find file '/Game/items/Body'
+[2018.01.27-04.46.50:663][573]LogLinker: Can't find file '/Game/items/Body'
+[2018.01.27-04.46.50:668][573]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.46.50:773][573]LogLinker: Can't find file '/Game/items/Eye2'
+[2018.01.27-04.46.50:773][573]LogLinker: Can't find file '/Game/items/Eye2'
+[2018.01.27-04.46.50:779][573]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.46.50:817][573]LogLinker: Can't find file '/Game/items/Eye'
+[2018.01.27-04.46.50:817][573]LogLinker: Can't find file '/Game/items/Eye'
+[2018.01.27-04.46.50:840][573]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.46.50:965][573]LogLinker: Can't find file '/Game/items/Hair'
+[2018.01.27-04.46.50:965][573]LogLinker: Can't find file '/Game/items/Hair'
+[2018.01.27-04.46.50:971][573]LogMaterial: Missing cached shader map for material Hair, compiling. 
+[2018.01.27-04.46.51:007][573]LogLinker: Can't find file '/Game/items/Eyebrow'
+[2018.01.27-04.46.51:007][573]LogLinker: Can't find file '/Game/items/Eyebrow'
+[2018.01.27-04.46.51:012][573]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.46.51:045][573]LogLinker: Can't find file '/Game/items/Shirt'
+[2018.01.27-04.46.51:045][573]LogLinker: Can't find file '/Game/items/Shirt'
+[2018.01.27-04.46.51:054][573]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.46.51:087][573]LogLinker: Can't find file '/Game/items/Arm'
+[2018.01.27-04.46.51:087][573]LogLinker: Can't find file '/Game/items/Arm'
+[2018.01.27-04.46.51:092][573]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.46.51:125][573]LogFbx: Warning: Triangulating static mesh pCylinder13
+[2018.01.27-04.46.51:344][573]LogStaticMesh: Building static mesh MainChar...
+[2018.01.27-04.46.51:664][573]LogStaticMesh: Built static mesh [0.32s] /Game/items/MainChar.MainChar
+[2018.01.27-04.46.51:876][573]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-04.46.52:951][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Arm_BaseColor.bmp)
+[2018.01.27-04.46.53:003][573]LogTexture: Display: Building textures: MainChar_Arm_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.46.54:687][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Arm_Normal.bmp)
+[2018.01.27-04.46.54:744][573]LogTexture: Display: Building textures: MainChar_Arm_Normal (BC5, 1024X1024)
+[2018.01.27-04.46.56:236][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Arm_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.46.56:270][573]LogTexture: Display: Building textures: MainChar_Arm_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.46.57:551][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Body_BaseColor.bmp)
+[2018.01.27-04.46.57:607][573]LogTexture: Display: Building textures: MainChar_Body_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.46.58:975][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Body_Normal.bmp)
+[2018.01.27-04.46.59:122][573]LogTexture: Display: Building textures: MainChar_Body_Normal (BC5, 1024X1024)
+[2018.01.27-04.47.00:840][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Body_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.47.00:890][573]LogTexture: Display: Building textures: MainChar_Body_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.47.02:329][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Eye_BaseColor.bmp)
+[2018.01.27-04.47.02:413][573]LogTexture: Display: Building textures: MainChar_Eye_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.47.09:916][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Eye_Normal.bmp)
+[2018.01.27-04.47.10:022][573]LogTexture: Display: Building textures: MainChar_Eye_Normal (BC5, 1024X1024)
+[2018.01.27-04.47.11:301][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Eye_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.47.11:367][573]LogTexture: Display: Building textures: MainChar_Eye_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.47.14:061][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Eye2_BaseColor.bmp)
+[2018.01.27-04.47.14:132][573]LogTexture: Display: Building textures: MainChar_Eye2_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.47.15:799][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Eye2_Normal.bmp)
+[2018.01.27-04.47.15:889][573]LogTexture: Display: Building textures: MainChar_Eye2_Normal (BC5, 1024X1024)
+[2018.01.27-04.47.17:914][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Eye2_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.47.18:049][573]LogTexture: Display: Building textures: MainChar_Eye2_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.47.20:657][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Eyebrow_BaseColor.bmp)
+[2018.01.27-04.47.20:765][573]LogTexture: Display: Building textures: MainChar_Eyebrow_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.47.22:616][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Eyebrow_Normal.bmp)
+[2018.01.27-04.47.22:768][573]LogTexture: Display: Building textures: MainChar_Eyebrow_Normal (BC5, 1024X1024)
+[2018.01.27-04.47.24:232][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Eyebrow_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.47.24:297][573]LogTexture: Display: Building textures: MainChar_Eyebrow_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.47.25:837][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Hair_BaseColor.bmp)
+[2018.01.27-04.47.25:964][573]LogTexture: Display: Building textures: MainChar_Hair_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.47.28:663][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Hair_Normal.bmp)
+[2018.01.27-04.47.28:728][573]LogTexture: Display: Building textures: MainChar_Hair_Normal (BC5, 1024X1024)
+[2018.01.27-04.47.31:258][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Hair_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.47.31:332][573]LogTexture: Display: Building textures: MainChar_Hair_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.47.33:007][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Shirt_BaseColor.bmp)
+[2018.01.27-04.47.33:041][573]LogTexture: Display: Building textures: MainChar_Shirt_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.47.34:750][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Shirt_Normal.bmp)
+[2018.01.27-04.47.34:822][573]LogTexture: Display: Building textures: MainChar_Shirt_Normal (BC5, 1024X1024)
+[2018.01.27-04.47.35:974][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Shirt_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.47.36:031][573]LogTexture: Display: Building textures: MainChar_Shirt_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.47.36:756][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Shoulder_BaseColor.bmp)
+[2018.01.27-04.47.36:792][573]LogTexture: Display: Building textures: MainChar_Shoulder_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-04.47.37:312][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Shoulder_Normal.bmp)
+[2018.01.27-04.47.37:372][573]LogTexture: Display: Building textures: MainChar_Shoulder_Normal (BC5, 1024X1024)
+[2018.01.27-04.47.38:097][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/main character/MainChar_Shoulder_OcclusionRoughnessMetallic.bmp)
+[2018.01.27-04.47.38:130][573]LogTexture: Display: Building textures: MainChar_Shoulder_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.47.50:975][774]LogTexture: Display: Building textures: MainChar_Arm_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.47.52:964][797]LogSavePackage: Save=60.73ms
+[2018.01.27-04.47.52:964][797]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Arm_OcclusionRoughnessM6F52A7234096ADF545120DA1BB6112C6.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Arm_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.47.52:966][797]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Arm_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.48.00:425][933]LogTexture: Display: Building textures: MainChar_Body_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.48.02:663][957]LogSavePackage: Save=96.00ms
+[2018.01.27-04.48.02:663][957]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Body_OcclusionRoughness2AEEFCE54D34C4E968A8B0B9E193C6EF.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Body_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.48.02:666][957]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Body_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.48.13:543][138]LogTexture: Display: Building textures: MainChar_Eye2_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.48.15:206][161]LogSavePackage: Save=73.63ms
+[2018.01.27-04.48.15:206][161]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye2_OcclusionRoughness94F5B5F24E951BFB8B8DD7ACEE7DB3EC.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye2_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.48.15:218][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye2_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.48.28:406][404]LogTexture: Display: Building textures: MainChar_Eye_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.48.29:798][423]LogSavePackage: Save=56.11ms
+[2018.01.27-04.48.29:798][423]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye_OcclusionRoughnessMC31FA9AB4E5B4E017824F0959F7B452A.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.48.29:804][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.48.36:419][548]LogTexture: Display: Building textures: MainChar_Eyebrow_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.48.38:011][568]LogSavePackage: Save=66.79ms
+[2018.01.27-04.48.38:011][568]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eyebrow_OcclusionRoughnD7B0269549E514A91585F3933F2CF47F.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eyebrow_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.48.38:013][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eyebrow_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.48.43:638][678]LogTexture: Display: Building textures: MainChar_Hair_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.48.45:399][705]LogSavePackage: Save=110.11ms
+[2018.01.27-04.48.45:399][705]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Hair_OcclusionRoughness4DDB879344EADA69EABE7AB7F9879EB4.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Hair_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.48.45:400][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Hair_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.48.51:094][809]LogTexture: Display: Building textures: MainChar_Shirt_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.48.52:353][825]LogSavePackage: Save=82.03ms
+[2018.01.27-04.48.52:353][825]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shirt_OcclusionRoughnesE6FBEF3B49200E24E2484D900920D76B.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shirt_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.48.52:355][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shirt_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.48.59:078][951]LogTexture: Display: Building textures: MainChar_Shoulder_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-04.49.00:975][983]LogSavePackage: Save=56.59ms
+[2018.01.27-04.49.00:975][983]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shoulder_OcclusionRough44576CC64B79E9CC1563E3BAE7702D7C.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shoulder_OcclusionRoughnessMetallic.uasset'
+[2018.01.27-04.49.00:976][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shoulder_OcclusionRoughnessMetallic.uasset
+[2018.01.27-04.49.13:942][171]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.49.14:067][171]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.49.14:100][171]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.49.14:171][171]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.49.18:663][260]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.49.46:973][618]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.27-04.49.46:973][618]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.27-04.49.46:973][618]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-04.49.46:973][618]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.27-04.49.48:019][644]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.49.48:141][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.27-04.49.48:377][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.27-04.49.48:400][644]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.49.48:436][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.27-04.49.48:547][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.27-04.49.48:554][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.27-04.49.48:575][644]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.49.48:603][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.27-04.49.48:628][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.27-04.49.48:636][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.27-04.49.48:649][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.27-04.49.56:483][828]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.49.56:514][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.27-04.49.57:941][854]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.49.57:982][854]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.27-04.50.04:444][  2]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.50.04:487][  2]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.27-04.50.07:004][ 60]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.50.07:036][ 60]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.27-04.50.09:567][102]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.50.09:603][102]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.27-04.50.11:294][124]LogMaterialEditor: Saving and Compiling material Shirt
+[2018.01.27-04.50.13:119][124]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.50.13:396][124]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.50.13:474][124]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-04.50.13:559][124]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shirt, compiling. 
+[2018.01.27-04.50.19:313][124]TextureStreamingBuild: Display: Compiling optional shaders took 5.779 seconds.
+[2018.01.27-04.50.25:734][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Shirt" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shirt.uasset" SILENT=true
+[2018.01.27-04.50.25:766][124]LogSavePackage: Save=15.97ms
+[2018.01.27-04.50.25:766][124]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/ShirtC620A04E42B75693FFD5A299143B9DB6.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shirt.uasset'
+[2018.01.27-04.50.25:767][124]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shirt.uasset
+[2018.01.27-04.50.26:360][124]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.50.26:360][124]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.50.26:361][124]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.50.26:361][124]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.50.26:381][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.50.27:127][125]LogSavePackage: Save=98.19ms
+[2018.01.27-04.50.27:127][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/NewMap_Auto2403873B2485CBFDD83877893C84B5100.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/NewMap_Auto2.umap'
+[2018.01.27-04.50.27:128][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/NewMap_Auto2.umap
+[2018.01.27-04.50.27:130][125]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/NewMap' took 0.436
+[2018.01.27-04.50.27:130][125]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.436
+[2018.01.27-04.50.27:145][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Minion] ([1] browsable assets)...
+[2018.01.27-04.50.27:199][125]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/items/Minion.Minion]
+[2018.01.27-04.50.27:199][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Minion]
+[2018.01.27-04.50.27:199][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Minion" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Minion_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.27:263][125]LogSavePackage: Save=43.05ms
+[2018.01.27-04.50.27:263][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Minion_Auto238A8305E4A66528877E05E970C8ADE3D.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Minion_Auto2.uasset'
+[2018.01.27-04.50.27:265][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Minion_Auto2.uasset
+[2018.01.27-04.50.27:265][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Minion_minion_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.27:276][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/Minion_minion_BaseColor.Minion_minion_BaseColor]
+[2018.01.27-04.50.27:276][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Minion_minion_BaseColor]
+[2018.01.27-04.50.27:315][125]LogSavePackage: Save=37.00ms
+[2018.01.27-04.50.27:315][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Minion_minion_BaseColor_Auto20A4DEC684981C0FE8CBC34B00CBE1153.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Minion_minion_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.27:316][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Minion_minion_BaseColor_Auto2.uasset
+[2018.01.27-04.50.27:316][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Minion_minion_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.27:332][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/Minion_minion_Normal.Minion_minion_Normal]
+[2018.01.27-04.50.27:332][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Minion_minion_Normal]
+[2018.01.27-04.50.27:360][125]LogSavePackage: Save=10.17ms
+[2018.01.27-04.50.27:360][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Minion_minion_Normal_Auto2D5ECE42F4FB98196DF04A69B5D774EC2.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Minion_minion_Normal_Auto2.uasset'
+[2018.01.27-04.50.27:361][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Minion_minion_Normal_Auto2.uasset
+[2018.01.27-04.50.27:362][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Tunnel] ([1] browsable assets)...
+[2018.01.27-04.50.27:412][125]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/items/Tunnel.Tunnel]
+[2018.01.27-04.50.27:430][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Tunnel]
+[2018.01.27-04.50.27:430][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Tunnel" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Tunnel_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.27:455][125]LogSavePackage: Save=24.32ms
+[2018.01.27-04.50.27:455][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Tunnel_Auto28A16065D4E5B3D0F83C49B91572F5E03.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Tunnel_Auto2.uasset'
+[2018.01.27-04.50.27:457][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Tunnel_Auto2.uasset
+[2018.01.27-04.50.27:457][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Tunnel_Tunnel_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.27:470][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/Tunnel_Tunnel_BaseColor.Tunnel_Tunnel_BaseColor]
+[2018.01.27-04.50.27:470][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Tunnel_Tunnel_BaseColor]
+[2018.01.27-04.50.27:565][125]LogSavePackage: Save=89.05ms
+[2018.01.27-04.50.27:565][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Tunnel_Tunnel_BaseColor_Auto2D360946842698F1411F8EDA09254D611.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Tunnel_Tunnel_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.27:565][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Tunnel_Tunnel_BaseColor_Auto2.uasset
+[2018.01.27-04.50.27:566][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Tunnel_Tunnel_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.27:580][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/Tunnel_Tunnel_Normal.Tunnel_Tunnel_Normal]
+[2018.01.27-04.50.27:580][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Tunnel_Tunnel_Normal]
+[2018.01.27-04.50.27:600][125]LogSavePackage: Save=19.42ms
+[2018.01.27-04.50.27:600][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Tunnel_Tunnel_Normal_Auto2C09524524AE1DE5C99E814AF3ACB8B35.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Tunnel_Tunnel_Normal_Auto2.uasset'
+[2018.01.27-04.50.27:602][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Tunnel_Tunnel_Normal_Auto2.uasset
+[2018.01.27-04.50.27:602][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar] ([1] browsable assets)...
+[2018.01.27-04.50.27:657][125]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/items/MainChar.MainChar]
+[2018.01.27-04.50.27:657][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar]
+[2018.01.27-04.50.27:657][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.27:700][125]LogSavePackage: Save=37.56ms
+[2018.01.27-04.50.27:701][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Auto242A3E2B74CD4BC4704821BB2F1339413.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Auto2.uasset'
+[2018.01.27-04.50.27:701][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Auto2.uasset
+[2018.01.27-04.50.27:702][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Shoulder] ([1] browsable assets)...
+[2018.01.27-04.50.27:754][125]OBJ SavePackage:     Rendered thumbnail for [Material /Game/items/Shoulder.Shoulder]
+[2018.01.27-04.50.27:754][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Shoulder]
+[2018.01.27-04.50.27:754][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Shoulder" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Shoulder_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.27:776][125]LogSavePackage: Save=20.83ms
+[2018.01.27-04.50.27:776][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Shoulder_Auto2124913B04B22CDC622385BBCC36C27F6.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Shoulder_Auto2.uasset'
+[2018.01.27-04.50.27:776][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Shoulder_Auto2.uasset
+[2018.01.27-04.50.27:777][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Body] ([1] browsable assets)...
+[2018.01.27-04.50.27:826][125]OBJ SavePackage:     Rendered thumbnail for [Material /Game/items/Body.Body]
+[2018.01.27-04.50.27:826][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Body]
+[2018.01.27-04.50.27:827][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Body" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Body_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.27:846][125]LogSavePackage: Save=16.94ms
+[2018.01.27-04.50.27:846][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Body_Auto276B29387447C1CE2BEB0168C5B25D5C3.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Body_Auto2.uasset'
+[2018.01.27-04.50.27:847][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Body_Auto2.uasset
+[2018.01.27-04.50.27:847][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Eye2] ([1] browsable assets)...
+[2018.01.27-04.50.27:902][125]OBJ SavePackage:     Rendered thumbnail for [Material /Game/items/Eye2.Eye2]
+[2018.01.27-04.50.27:902][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Eye2]
+[2018.01.27-04.50.27:902][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Eye2" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Eye2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.27:933][125]LogSavePackage: Save=14.62ms
+[2018.01.27-04.50.27:933][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Eye2_Auto21EAE2464467F9B3F3B43C7B6A2F7BD74.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Eye2_Auto2.uasset'
+[2018.01.27-04.50.27:982][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Eye2_Auto2.uasset
+[2018.01.27-04.50.27:983][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Eye] ([1] browsable assets)...
+[2018.01.27-04.50.28:039][125]OBJ SavePackage:     Rendered thumbnail for [Material /Game/items/Eye.Eye]
+[2018.01.27-04.50.28:039][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Eye]
+[2018.01.27-04.50.28:039][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Eye" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Eye_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.28:057][125]LogSavePackage: Save=15.23ms
+[2018.01.27-04.50.28:057][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Eye_Auto218E5846E46F8BDCA2501688A441E70E4.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Eye_Auto2.uasset'
+[2018.01.27-04.50.28:057][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Eye_Auto2.uasset
+[2018.01.27-04.50.28:058][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Hair] ([1] browsable assets)...
+[2018.01.27-04.50.28:122][125]OBJ SavePackage:     Rendered thumbnail for [Material /Game/items/Hair.Hair]
+[2018.01.27-04.50.28:122][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Hair]
+[2018.01.27-04.50.28:122][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Hair" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Hair_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.28:144][125]LogSavePackage: Save=20.98ms
+[2018.01.27-04.50.28:145][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Hair_Auto21EF92B4D41BB045A8CE36FA9FC66CC74.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Hair_Auto2.uasset'
+[2018.01.27-04.50.28:146][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Hair_Auto2.uasset
+[2018.01.27-04.50.28:146][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Eyebrow] ([1] browsable assets)...
+[2018.01.27-04.50.28:199][125]OBJ SavePackage:     Rendered thumbnail for [Material /Game/items/Eyebrow.Eyebrow]
+[2018.01.27-04.50.28:199][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Eyebrow]
+[2018.01.27-04.50.28:200][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Eyebrow" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Eyebrow_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.28:216][125]LogSavePackage: Save=14.60ms
+[2018.01.27-04.50.28:216][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Eyebrow_Auto2506F5ECB47D57B234DAD36B0590B409D.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Eyebrow_Auto2.uasset'
+[2018.01.27-04.50.28:221][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Eyebrow_Auto2.uasset
+[2018.01.27-04.50.28:224][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Arm] ([1] browsable assets)...
+[2018.01.27-04.50.28:281][125]OBJ SavePackage:     Rendered thumbnail for [Material /Game/items/Arm.Arm]
+[2018.01.27-04.50.28:281][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Arm]
+[2018.01.27-04.50.28:281][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Arm" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Arm_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-04.50.28:297][125]LogSavePackage: Save=14.59ms
+[2018.01.27-04.50.28:298][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Arm_Auto2D4A5DA5E463BEAEDC55209BE1CD4C6AF.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Arm_Auto2.uasset'
+[2018.01.27-04.50.28:299][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/Arm_Auto2.uasset
+[2018.01.27-04.50.28:300][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Arm_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.28:313][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Arm_BaseColor.MainChar_Arm_BaseColor]
+[2018.01.27-04.50.28:313][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Arm_BaseColor]
+[2018.01.27-04.50.28:334][125]LogSavePackage: Save=17.32ms
+[2018.01.27-04.50.28:334][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Arm_BaseColor_Auto2792D59424B0D2DA49E37D4BDEB470403.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Arm_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.28:334][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Arm_BaseColor_Auto2.uasset
+[2018.01.27-04.50.28:335][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Arm_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.28:347][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Arm_Normal.MainChar_Arm_Normal]
+[2018.01.27-04.50.28:347][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Arm_Normal]
+[2018.01.27-04.50.28:374][125]LogSavePackage: Save=26.24ms
+[2018.01.27-04.50.28:374][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Arm_Normal_Auto2B136D2644136995ACEE3109AD1C5FDD3.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Arm_Normal_Auto2.uasset'
+[2018.01.27-04.50.28:375][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Arm_Normal_Auto2.uasset
+[2018.01.27-04.50.28:376][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Body_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.28:386][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Body_BaseColor.MainChar_Body_BaseColor]
+[2018.01.27-04.50.28:386][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Body_BaseColor]
+[2018.01.27-04.50.28:421][125]LogSavePackage: Save=19.86ms
+[2018.01.27-04.50.28:421][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Body_BaseColor_Auto203CA9DBE4C431006789123AF5F631C7D.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Body_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.28:422][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Body_BaseColor_Auto2.uasset
+[2018.01.27-04.50.28:422][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Body_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.28:435][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Body_Normal.MainChar_Body_Normal]
+[2018.01.27-04.50.28:435][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Body_Normal]
+[2018.01.27-04.50.28:449][125]LogSavePackage: Save=12.53ms
+[2018.01.27-04.50.28:449][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Body_Normal_Auto2D34A763D4567D2071C3D5C83FC52A721.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Body_Normal_Auto2.uasset'
+[2018.01.27-04.50.28:450][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Body_Normal_Auto2.uasset
+[2018.01.27-04.50.28:450][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Eye_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.28:463][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Eye_BaseColor.MainChar_Eye_BaseColor]
+[2018.01.27-04.50.28:463][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Eye_BaseColor]
+[2018.01.27-04.50.28:479][125]LogSavePackage: Save=14.39ms
+[2018.01.27-04.50.28:479][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye_BaseColor_Auto26D347F9D4D5D4C47EBC88F84949E9348.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eye_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.28:480][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eye_BaseColor_Auto2.uasset
+[2018.01.27-04.50.28:480][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Eye_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.28:492][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Eye_Normal.MainChar_Eye_Normal]
+[2018.01.27-04.50.28:492][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Eye_Normal]
+[2018.01.27-04.50.28:507][125]LogSavePackage: Save=13.13ms
+[2018.01.27-04.50.28:507][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye_Normal_Auto2A01CE1764770394627E3B69088ECE723.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eye_Normal_Auto2.uasset'
+[2018.01.27-04.50.28:507][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eye_Normal_Auto2.uasset
+[2018.01.27-04.50.28:508][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Eye2_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.28:519][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Eye2_BaseColor.MainChar_Eye2_BaseColor]
+[2018.01.27-04.50.28:520][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Eye2_BaseColor]
+[2018.01.27-04.50.28:532][125]LogSavePackage: Save=10.78ms
+[2018.01.27-04.50.28:532][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye2_BaseColor_Auto2EA44A95249B162A2794F25BA5C678F7B.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eye2_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.28:535][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eye2_BaseColor_Auto2.uasset
+[2018.01.27-04.50.28:536][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Eye2_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.28:551][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Eye2_Normal.MainChar_Eye2_Normal]
+[2018.01.27-04.50.28:551][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Eye2_Normal]
+[2018.01.27-04.50.28:559][125]LogSavePackage: Save=7.68ms
+[2018.01.27-04.50.28:560][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye2_Normal_Auto207B1D3404130301A90FFBD8D638833F3.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eye2_Normal_Auto2.uasset'
+[2018.01.27-04.50.28:561][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eye2_Normal_Auto2.uasset
+[2018.01.27-04.50.28:561][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Eyebrow_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.28:574][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Eyebrow_BaseColor.MainChar_Eyebrow_BaseColor]
+[2018.01.27-04.50.28:574][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Eyebrow_BaseColor]
+[2018.01.27-04.50.28:591][125]LogSavePackage: Save=16.02ms
+[2018.01.27-04.50.28:591][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eyebrow_BaseColor_Auto2FCA3D9C5474CA8D0A92E95B4D010F4CE.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eyebrow_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.28:620][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eyebrow_BaseColor_Auto2.uasset
+[2018.01.27-04.50.28:622][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Eyebrow_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.28:652][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Eyebrow_Normal.MainChar_Eyebrow_Normal]
+[2018.01.27-04.50.28:652][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Eyebrow_Normal]
+[2018.01.27-04.50.28:662][125]LogSavePackage: Save=8.33ms
+[2018.01.27-04.50.28:662][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eyebrow_Normal_Auto2D1197BF74A2E335DE0D42B90FAA37497.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eyebrow_Normal_Auto2.uasset'
+[2018.01.27-04.50.28:662][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Eyebrow_Normal_Auto2.uasset
+[2018.01.27-04.50.28:663][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Hair_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.28:677][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Hair_BaseColor.MainChar_Hair_BaseColor]
+[2018.01.27-04.50.28:677][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Hair_BaseColor]
+[2018.01.27-04.50.28:688][125]LogSavePackage: Save=7.45ms
+[2018.01.27-04.50.28:688][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Hair_BaseColor_Auto2A653B1E44DED054315C2A4A969682632.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Hair_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.28:688][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Hair_BaseColor_Auto2.uasset
+[2018.01.27-04.50.28:689][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Hair_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.28:713][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Hair_Normal.MainChar_Hair_Normal]
+[2018.01.27-04.50.28:713][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Hair_Normal]
+[2018.01.27-04.50.28:724][125]LogSavePackage: Save=9.23ms
+[2018.01.27-04.50.28:724][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Hair_Normal_Auto2D381912743DA001FB609EBA2A7B482A6.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Hair_Normal_Auto2.uasset'
+[2018.01.27-04.50.28:725][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Hair_Normal_Auto2.uasset
+[2018.01.27-04.50.28:725][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Shirt_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.28:738][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Shirt_BaseColor.MainChar_Shirt_BaseColor]
+[2018.01.27-04.50.28:739][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Shirt_BaseColor]
+[2018.01.27-04.50.28:783][125]LogSavePackage: Save=43.50ms
+[2018.01.27-04.50.28:784][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shirt_BaseColor_Auto21C94EEC04919827A46579C8A1E8DE47F.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Shirt_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.28:784][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Shirt_BaseColor_Auto2.uasset
+[2018.01.27-04.50.28:785][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Shirt_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.28:806][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Shirt_Normal.MainChar_Shirt_Normal]
+[2018.01.27-04.50.28:806][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Shirt_Normal]
+[2018.01.27-04.50.28:835][125]LogSavePackage: Save=28.38ms
+[2018.01.27-04.50.28:835][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shirt_Normal_Auto22B5FF4C24FA825FE118BAAAF951452FF.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Shirt_Normal_Auto2.uasset'
+[2018.01.27-04.50.28:851][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Shirt_Normal_Auto2.uasset
+[2018.01.27-04.50.28:851][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Shoulder_BaseColor] ([1] browsable assets)...
+[2018.01.27-04.50.28:867][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Shoulder_BaseColor.MainChar_Shoulder_BaseColor]
+[2018.01.27-04.50.28:867][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Shoulder_BaseColor]
+[2018.01.27-04.50.28:890][125]LogSavePackage: Save=15.75ms
+[2018.01.27-04.50.28:890][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shoulder_BaseColor_Auto3DEFB25D4E507832FA4A6A85D253603C.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Shoulder_BaseColor_Auto2.uasset'
+[2018.01.27-04.50.28:890][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Shoulder_BaseColor_Auto2.uasset
+[2018.01.27-04.50.28:891][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/MainChar_Shoulder_Normal] ([1] browsable assets)...
+[2018.01.27-04.50.28:905][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/items/MainChar_Shoulder_Normal.MainChar_Shoulder_Normal]
+[2018.01.27-04.50.28:905][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/MainChar_Shoulder_Normal]
+[2018.01.27-04.50.28:955][125]LogSavePackage: Save=46.35ms
+[2018.01.27-04.50.28:955][125]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shoulder_Normal_Auto2D9A8049E43697A285A0346B92B1D569F.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Shoulder_Normal_Auto2.uasset'
+[2018.01.27-04.50.28:955][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Autosaves/Game/items/MainChar_Shoulder_Normal_Auto2.uasset
+[2018.01.27-04.50.28:955][125]LogFileHelpers: Auto-saving content packages took 1.824
+[2018.01.27-04.50.39:335][300]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.50.39:502][300]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.50.39:543][300]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.50.39:626][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.50.43:478][350]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.00:133][534]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.00:162][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.27-04.51.00:238][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.27-04.51.00:282][534]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.00:364][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.27-04.51.00:488][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.27-04.51.00:496][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.27-04.51.00:519][534]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.00:545][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.27-04.51.00:610][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.27-04.51.00:624][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.27-04.51.00:632][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.27-04.51.09:697][695]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.09:728][695]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.27-04.51.12:089][727]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.12:131][727]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.27-04.51.14:690][771]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.14:915][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.27-04.51.18:003][854]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.18:043][854]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.27-04.51.21:229][917]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.21:268][917]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.27-04.51.23:851][942]LogMaterialEditor: Saving and Compiling material Shoulder
+[2018.01.27-04.51.25:571][942]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.25:991][942]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.26:063][942]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-04.51.26:145][942]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoulder, compiling. 
+[2018.01.27-04.51.32:089][942]TextureStreamingBuild: Display: Compiling optional shaders took 5.967 seconds.
+[2018.01.27-04.51.38:558][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Shoulder" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shoulder.uasset" SILENT=true
+[2018.01.27-04.51.38:599][942]LogSavePackage: Save=20.92ms
+[2018.01.27-04.51.38:599][942]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/ShoulderE7CFFC09444A24AF32165B8EB0012DCF.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shoulder.uasset'
+[2018.01.27-04.51.38:605][942]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shoulder.uasset
+[2018.01.27-04.51.39:106][942]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.51.39:106][942]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.51.39:107][942]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.51.39:107][942]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.51.39:107][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.52.04:287][322]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.04:422][322]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.04:465][322]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.04:534][322]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.52.07:533][368]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.16:275][471]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.16:310][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.27-04.52.16:397][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.27-04.52.16:417][471]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.16:449][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.01.27-04.52.16:496][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.27-04.52.16:503][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.01.27-04.52.16:524][471]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.16:551][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.27-04.52.16:655][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.27-04.52.16:663][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.01.27-04.52.16:670][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.27-04.52.24:236][647]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.24:273][647]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2018.01.27-04.52.26:301][703]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.26:343][703]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2018.01.27-04.52.28:826][763]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.28:858][763]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.27-04.52.33:008][890]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.33:043][890]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.27-04.52.35:736][954]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.35:774][954]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2018.01.27-04.52.37:191][972]LogMaterialEditor: Saving and Compiling material Body
+[2018.01.27-04.52.38:226][972]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.38:392][972]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.38:442][972]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-04.52.38:562][972]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Body, compiling. 
+[2018.01.27-04.52.44:762][972]TextureStreamingBuild: Display: Compiling optional shaders took 6.208 seconds.
+[2018.01.27-04.52.50:433][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Body" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Body.uasset" SILENT=true
+[2018.01.27-04.52.50:475][972]LogSavePackage: Save=18.21ms
+[2018.01.27-04.52.50:475][972]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/BodyC4892B8641E01E007F55A3AA91600072.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Body.uasset'
+[2018.01.27-04.52.50:477][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Body.uasset
+[2018.01.27-04.52.51:269][972]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.52.51:269][972]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.52.51:270][972]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.52.51:270][972]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.52.51:270][972]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.53.00:654][130]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.53.00:929][130]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.53.00:965][130]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.53.01:099][130]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.53.04:200][172]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.53.23:503][333]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.27-04.53.23:503][333]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.27-04.53.23:503][333]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-04.53.23:504][333]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.27-04.53.49:526][734]LogHttp: Warning: 0000000039C01A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.27-04.53.49:527][734]LogHttp: Warning: 0000000039C01A80: libcurl info message cache 0 (Connection 12 seems to be dead!)
+[2018.01.27-04.53.49:527][734]LogHttp: Warning: 0000000039C01A80: libcurl info message cache 1 (Closing connection 12)
+[2018.01.27-04.53.49:527][734]LogHttp: Warning: 0000000039C01A80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.01.27-04.53.49:527][734]LogHttp: Warning: 0000000039C01A80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.27-04.53.49:527][734]LogHttp: Warning: 0000000039C01A80: libcurl info message cache 4 (Closing connection 13)
+[2018.01.27-04.54.18:404][159]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.54.18:429][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2018.01.27-04.54.18:491][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2018.01.27-04.54.18:516][159]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.54.18:546][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2018.01.27-04.54.18:624][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2018.01.27-04.54.18:632][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2018.01.27-04.54.18:652][159]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.54.18:690][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2018.01.27-04.54.18:735][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2018.01.27-04.54.18:774][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2018.01.27-04.54.18:789][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2018.01.27-04.54.27:302][364]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.54.27:337][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2018.01.27-04.54.29:142][417]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.54.29:175][417]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2018.01.27-04.54.31:988][490]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.54.32:039][490]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2018.01.27-04.54.38:027][605]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.54.38:065][605]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2018.01.27-04.55.04:157][228]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.55.04:215][228]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2018.01.27-04.55.09:630][325]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.55.09:683][325]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.55.09:895][325]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2018.01.27-04.55.11:952][341]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.55.15:788][415]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.55.15:835][415]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_23, compiling. 
+[2018.01.27-04.55.18:501][446]LogMaterialEditor: Saving and Compiling material Eye
+[2018.01.27-04.55.19:768][446]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.55.20:058][446]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.55.20:109][446]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-04.55.20:280][446]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eye, compiling. 
+[2018.01.27-04.55.25:777][446]TextureStreamingBuild: Display: Compiling optional shaders took 5.614 seconds.
+[2018.01.27-04.55.32:151][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Eye" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye.uasset" SILENT=true
+[2018.01.27-04.55.32:190][446]LogSavePackage: Save=35.90ms
+[2018.01.27-04.55.32:190][446]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/EyeA127DB53450F8D8774CDA5BE96959ECE.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye.uasset'
+[2018.01.27-04.55.32:192][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye.uasset
+[2018.01.27-04.55.32:813][446]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.55.32:813][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.55.32:813][446]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.55.32:813][446]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.55.32:813][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.55.40:457][567]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.55.40:662][567]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.55.40:699][567]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.55.40:764][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.55.44:868][632]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.02:650][857]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.02:802][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2018.01.27-04.56.03:020][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2018.01.27-04.56.03:042][857]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.03:069][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2018.01.27-04.56.03:184][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2018.01.27-04.56.03:191][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2018.01.27-04.56.03:220][857]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.03:248][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.01.27-04.56.03:320][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2018.01.27-04.56.03:328][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2018.01.27-04.56.03:335][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.01.27-04.56.11:604][895]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.27-04.56.11:604][895]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.27-04.56.11:619][895]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-04.56.11:619][895]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.27-04.56.18:625][ 72]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.18:666][ 72]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_24, compiling. 
+[2018.01.27-04.56.20:654][106]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.20:692][106]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_25, compiling. 
+[2018.01.27-04.56.24:484][196]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.24:549][196]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.01.27-04.56.26:616][253]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.26:650][253]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.01.27-04.56.28:706][308]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.28:785][308]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.01.27-04.56.29:882][323]LogMaterialEditor: Saving and Compiling material Eye2
+[2018.01.27-04.56.30:793][323]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.30:880][323]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.30:930][323]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-04.56.31:001][323]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eye2, compiling. 
+[2018.01.27-04.56.40:016][323]TextureStreamingBuild: Display: Compiling optional shaders took 9.027 seconds.
+[2018.01.27-04.56.43:858][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Eye2" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye2.uasset" SILENT=true
+[2018.01.27-04.56.43:891][323]LogSavePackage: Save=16.95ms
+[2018.01.27-04.56.43:891][323]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Eye246CA095D4E5FA99473C3E7AA307FC4C8.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye2.uasset'
+[2018.01.27-04.56.43:895][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye2.uasset
+[2018.01.27-04.56.44:267][323]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.56.44:267][323]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.56.44:267][323]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.56.44:267][323]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.56.44:267][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.57.07:828][700]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.07:979][700]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.08:022][700]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.08:114][700]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.57.11:365][756]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.21:318][898]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.21:351][898]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.27-04.57.21:467][898]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.27-04.57.21:501][898]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.21:527][898]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.27-04.57.21:625][898]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.27-04.57.21:639][898]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.27-04.57.21:672][898]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.21:719][898]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.27-04.57.21:859][898]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.27-04.57.21:867][898]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.27-04.57.21:874][898]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.27-04.57.30:625][130]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.30:656][130]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.27-04.57.40:600][240]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.40:638][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.27-04.57.45:630][364]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.45:692][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.27-04.57.52:741][558]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.52:783][558]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.27-04.57.55:976][642]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.57.56:010][642]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.27-04.58.06:386][689]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.58.06:386][689]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.58.06:386][689]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.58.06:386][689]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-04.58.06:386][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.58.07:226][704]LogMaterialEditor: Saving and Compiling material Eyebrow
+[2018.01.27-04.58.08:342][704]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.58.08:573][704]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.58.08:625][704]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-04.58.08:943][704]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyebrow, compiling. 
+[2018.01.27-04.58.15:309][704]TextureStreamingBuild: Display: Compiling optional shaders took 6.382 seconds.
+[2018.01.27-04.58.20:570][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Eyebrow" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eyebrow.uasset" SILENT=true
+[2018.01.27-04.58.20:606][704]LogSavePackage: Save=34.07ms
+[2018.01.27-04.58.20:606][704]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Eyebrow8B73EEC54D593FC2366C73A53464B75C.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eyebrow.uasset'
+[2018.01.27-04.58.20:610][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eyebrow.uasset
+[2018.01.27-04.58.21:162][704]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.58.21:163][704]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.58.21:163][704]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.58.21:163][704]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.58.21:163][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-04.58.36:302][895]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.58.36:547][895]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.58.36:584][895]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.58.36:647][895]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.27-04.58.40:097][950]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.58.48:751][ 67]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.58.48:777][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.27-04.58.48:865][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.27-04.58.48:909][ 67]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.58.48:936][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2018.01.27-04.58.48:998][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.27-04.58.49:005][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2018.01.27-04.58.49:024][ 67]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.58.49:069][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2018.01.27-04.58.49:185][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.27-04.58.49:193][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2018.01.27-04.58.49:201][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2018.01.27-04.58.56:232][209]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.58.56:261][209]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.27-04.58.58:177][256]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.58.58:234][256]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2018.01.27-04.59.00:376][316]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.59.00:422][316]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2018.01.27-04.59.03:669][375]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.59.03:700][375]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2018.01.27-04.59.07:166][460]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.59.07:201][460]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2018.01.27-04.59.11:727][542]LogMaterialEditor: Saving and Compiling material Arm
+[2018.01.27-04.59.13:093][542]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.59.13:185][542]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.59.13:240][542]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-04.59.13:325][542]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Arm, compiling. 
+[2018.01.27-04.59.23:912][542]TextureStreamingBuild: Display: Compiling optional shaders took 10.620 seconds.
+[2018.01.27-04.59.29:636][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Arm" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Arm.uasset" SILENT=true
+[2018.01.27-04.59.29:676][542]LogSavePackage: Save=18.28ms
+[2018.01.27-04.59.29:676][542]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Arm5E66CE19428A19E0101043BC7C29EC5C.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Arm.uasset'
+[2018.01.27-04.59.29:698][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Arm.uasset
+[2018.01.27-04.59.30:172][542]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.27-04.59.30:172][542]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.27-04.59.30:172][542]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-04.59.30:172][542]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.27-04.59.30:172][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
