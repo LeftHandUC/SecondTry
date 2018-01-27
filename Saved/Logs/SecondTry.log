@@ -592,3 +592,41 @@ LogInit: Object subsystem initialized
 [2018.01.27-04.57.12:415][131]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.01.27-04.57.12:463][131]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.882ms to complete.
 [2018.01.27-04.57.12:464][131]LogFileHelpers: Loading map 'Level1' took 0.161
+[2018.01.27-04.57.51:331][435]LogSavePackage: Save=3257.80ms
+[2018.01.27-04.57.51:331][435]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Level1A6B225074AFA52230D583DBCA9B469E8.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.01.27-04.57.51:335][435]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.01.27-04.57.54:201][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.27-04.57.54:201][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.27-04.57.54:201][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.27-04.57.54:201][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.27-04.57.54:201][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.27-04.57.54:201][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.01.27-04.57.54:201][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2018.01.27-04.57.54:201][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.27-04.57.54:689][600]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.01.27-04.57.54:689][600]SourceControl: Error: error: please commit or stash them.
+[2018.01.27-04.57.54:691][600]LightingResults: New page: Lighting Build
+[2018.01.27-04.57.54:694][600]MapCheck: New page: Map Check
+[2018.01.27-04.57.54:694][600]LightingResults: New page: Lighting Build
+[2018.01.27-04.57.54:723][600]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-04.57.54:725][600]LoadErrors: New page: New Map
+[2018.01.27-04.57.54:954][600]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-04.57.54:954][600]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-04.57.54:955][600]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-04.57.54:955][600]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-04.57.54:955][600]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-04.57.54:955][600]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-04.57.54:955][600]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-04.57.54:955][600]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-04.57.54:960][600]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0551.94] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 9 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-04.57.54:975][600]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.27-04.57.55:390][600]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.57.55:425][600]Cmd: MAP LOAD FILE="../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.57.55:425][600]LightingResults: New page: Lighting Build
+[2018.01.27-04.57.55:425][600]LoadErrors: New page: Loading map: Level1.umap
+[2018.01.27-04.57.55:426][600]MapCheck: New page: Map Check
+[2018.01.27-04.57.55:426][600]LightingResults: New page: Lighting Build
+[2018.01.27-04.57.55:452][600]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.57.55:487][600]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.57.55:535][600]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.828ms to complete.
+[2018.01.27-04.57.55:535][600]LogFileHelpers: Loading map 'Level1' took 0.111
