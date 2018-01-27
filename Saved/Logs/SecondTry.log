@@ -2097,3 +2097,40 @@ LogInit: Object subsystem initialized
 [2018.01.27-05.09.39:146][ 89]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.01.27-05.09.39:210][ 89]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.37ms to complete.
 [2018.01.27-05.09.39:212][ 89]LogFileHelpers: Loading map 'NewMap' took 0.278
+[2018.01.27-05.10.04:165][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.27-05.10.04:165][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.27-05.10.04:165][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.27-05.10.04:165][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.27-05.10.04:165][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.27-05.10.04:165][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2018.01.27-05.10.04:165][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.01.27-05.10.04:165][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.27-05.10.04:660][274]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.01.27-05.10.04:660][274]SourceControl: Error: error: please commit or stash them.
+[2018.01.27-05.10.04:664][274]LightingResults: New page: Lighting Build
+[2018.01.27-05.10.04:665][274]MapCheck: New page: Map Check
+[2018.01.27-05.10.04:665][274]LightingResults: New page: Lighting Build
+[2018.01.27-05.10.04:690][274]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-05.10.04:692][274]LoadErrors: New page: New Map
+[2018.01.27-05.10.05:714][274]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-05.10.05:715][274]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-05.10.05:715][274]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-05.10.05:715][274]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-05.10.05:715][274]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-05.10.05:716][274]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-05.10.05:716][274]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-05.10.05:716][274]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-05.10.05:722][274]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2829.83] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 16 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-05.10.06:266][274]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:00E5
+[2018.01.27-05.10.07:673][274]LogAIModule: Creating AISystem for world NewMap
+[2018.01.27-05.10.07:733][274]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-05.10.07:733][274]LightingResults: New page: Lighting Build
+[2018.01.27-05.10.07:734][274]LoadErrors: New page: Loading map: NewMap.umap
+[2018.01.27-05.10.07:735][274]MapCheck: New page: Map Check
+[2018.01.27-05.10.07:735][274]LightingResults: New page: Lighting Build
+[2018.01.27-05.10.07:774][274]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-05.10.07:820][274]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-05.10.07:909][274]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.201ms to complete.
+[2018.01.27-05.10.07:910][274]LogFileHelpers: Loading map 'NewMap' took 0.178
