@@ -555,3 +555,40 @@ LogInit: Object subsystem initialized
 [2018.01.27-04.56.33:864][821]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-12.56.33
 [2018.01.27-04.56.33:865][821]LogWorld: Bringing up level for play took: 0.012788
 [2018.01.27-04.56.33:868][821]LogLoad: Took 0.067447 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-04.57.09:311][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.27-04.57.09:311][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.27-04.57.09:311][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.27-04.57.09:311][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.27-04.57.09:311][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.27-04.57.09:311][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.01.27-04.57.09:311][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2018.01.27-04.57.09:311][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.27-04.57.09:839][131]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.01.27-04.57.09:839][131]SourceControl: Error: error: please commit or stash them.
+[2018.01.27-04.57.11:513][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-04.57.11:546][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-04.57.11:563][131]LightingResults: New page: Lighting Build
+[2018.01.27-04.57.11:566][131]MapCheck: New page: Map Check
+[2018.01.27-04.57.11:566][131]LightingResults: New page: Lighting Build
+[2018.01.27-04.57.11:593][131]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-04.57.11:595][131]LoadErrors: New page: New Map
+[2018.01.27-04.57.11:888][131]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-04.57.11:888][131]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-04.57.11:889][131]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-04.57.11:889][131]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-04.57.11:889][131]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-04.57.11:889][131]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-04.57.11:889][131]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-04.57.11:889][131]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-04.57.11:893][131]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0508.87] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 9 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-04.57.11:908][131]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.27-04.57.12:264][131]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.57.12:304][131]Cmd: MAP LOAD FILE="../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.57.12:304][131]LightingResults: New page: Lighting Build
+[2018.01.27-04.57.12:304][131]LoadErrors: New page: Loading map: Level1.umap
+[2018.01.27-04.57.12:305][131]MapCheck: New page: Map Check
+[2018.01.27-04.57.12:305][131]LightingResults: New page: Lighting Build
+[2018.01.27-04.57.12:331][131]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.57.12:415][131]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.57.12:463][131]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.882ms to complete.
+[2018.01.27-04.57.12:464][131]LogFileHelpers: Loading map 'Level1' took 0.161
