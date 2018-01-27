@@ -852,3 +852,262 @@ LogInit: Object subsystem initialized
 [2018.01.27-05.25.55:368][961]LogHttp: Warning: 0000025F13840100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
 [2018.01.27-05.25.55:368][961]LogHttp: Warning: 0000025F13840100: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
 [2018.01.27-05.25.55:368][961]LogHttp: Warning: 0000025F13840100: libcurl info message cache 4 (Closing connection 13)
+[2018.01.27-05.27.20:608][298]Cmd: SELECT NONE
+[2018.01.27-05.27.21:801][333]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-05.27.21:826][333]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-05.27.21:843][333]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-05.27.21:876][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033243s)
+[2018.01.27-05.27.21:877][333]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-05.27.21:877][333]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2018.01.27-05.27.21:878][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.034502s)
+[2018.01.27-05.27.21:878][333]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-05.27.21:891][333]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-13.27.21
+[2018.01.27-05.27.21:892][333]LogWorld: Bringing up level for play took: 0.014182
+[2018.01.27-05.27.21:895][333]LogLoad: Took 0.069280 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-05.27.22:460][353]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-05.27.22:485][353]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-05.27.22:501][353]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-05.27.22:535][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034076s)
+[2018.01.27-05.27.22:537][353]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-05.27.22:537][353]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2018.01.27-05.27.22:537][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.035928s)
+[2018.01.27-05.27.22:537][353]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-05.27.22:547][353]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-13.27.22
+[2018.01.27-05.27.22:548][353]LogWorld: Bringing up level for play took: 0.009957
+[2018.01.27-05.27.22:549][353]LogLoad: Took 0.063827 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-05.27.22:763][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-05.27.22:819][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-05.27.23:118][372]Cmd: SELECT NONE
+[2018.01.27-05.28.17:301][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor20)
+[2018.01.27-05.28.18:570][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor20)
+[2018.01.27-05.28.52:507][958]LogRenderer: Reallocating scene render targets to support 856x400 Format 10 NumSamples 1 (Frame:2829).
+[2018.01.27-05.28.52:561][959]LogRenderer: Reallocating scene render targets to support 856x416 Format 10 NumSamples 1 (Frame:2831).
+[2018.01.27-05.28.52:626][960]LogRenderer: Reallocating scene render targets to support 856x424 Format 10 NumSamples 1 (Frame:2833).
+[2018.01.27-05.28.52:828][967]LogRenderer: Reallocating scene render targets to support 856x428 Format 10 NumSamples 1 (Frame:2841).
+[2018.01.27-05.28.52:877][968]LogRenderer: Reallocating scene render targets to support 856x440 Format 10 NumSamples 1 (Frame:2843).
+[2018.01.27-05.29.31:063][522]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2018.01.27-05.32.27:216][839]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-05.32.27:235][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-05.32.27:235][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-05.32.27:235][839]PIE: New page: PIE session: Level1 (Jan 27, 2018, 9:32:27 PM)
+[2018.01.27-05.32.27:235][839]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-05.32.27:273][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036818s)
+[2018.01.27-05.32.27:274][839]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-05.32.27:275][839]LogPlayLevel: PIE: World Init took: (0.001973s)
+[2018.01.27-05.32.27:275][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.039550s)
+[2018.01.27-05.32.27:309][839]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-05.32.27:315][839]LogInit: FAudioDevice initialized.
+[2018.01.27-05.32.27:344][839]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-05.32.27:354][839]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-13.32.27
+[2018.01.27-05.32.27:355][839]LogWorld: Bringing up level for play took: 0.009583
+[2018.01.27-05.32.27:357][839]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.814
+[2018.01.27-05.32.27:357][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-05.32.32:791][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-05.32.32:848][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-05.32.41:137][371]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2018.01.27-05.33.32:194][276]Cmd: TRANSACTION UNDO
+[2018.01.27-05.33.32:194][276]LogEditorTransaction: Undo Edit Cloud Color
+[2018.01.27-05.33.32:245][276]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-05.33.33:237][305]Cmd: TRANSACTION UNDO
+[2018.01.27-05.33.33:237][305]LogEditorTransaction: Undo Edit Horizon Falloff
+[2018.01.27-05.37.19:348][337]LogSavePackage: Save=3299.67ms
+[2018.01.27-05.37.19:349][337]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Level1_Auto19AE24B4A437E51F58CF8DF939BFA16D5.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto1.umap'
+[2018.01.27-05.37.19:350][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto1.umap
+[2018.01.27-05.37.19:352][337]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 3.377
+[2018.01.27-05.37.19:352][337]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.377
+[2018.01.27-06.26.06:208][240]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2018.01.27-06.28.09:174][707]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2018.01.27-06.28.10:519][756]Cmd: DELETE
+[2018.01.27-06.28.10:519][756]Cmd: ACTOR DELETE
+[2018.01.27-06.28.10:631][756]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.01.27-06.28.10:644][756]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2018.01.27-06.28.13:917][901]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint4)
+[2018.01.27-06.28.51:393][383]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint4)
+[2018.01.27-06.28.52:390][420]Cmd: DELETE
+[2018.01.27-06.28.52:390][420]Cmd: ACTOR DELETE
+[2018.01.27-06.28.52:400][420]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.01.27-06.28.52:418][420]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.01.27-06.28.53:499][471]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2018.01.27-06.28.53:730][479]Cmd: DELETE
+[2018.01.27-06.28.53:730][479]Cmd: ACTOR DELETE
+[2018.01.27-06.28.53:739][479]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.01.27-06.28.53:750][479]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.01.27-06.28.54:481][515]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.27-06.28.54:703][523]Cmd: DELETE
+[2018.01.27-06.28.54:703][523]Cmd: ACTOR DELETE
+[2018.01.27-06.28.54:712][523]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.01.27-06.28.54:722][523]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.01.27-06.28.56:060][597]Cmd: TRANSACTION UNDO
+[2018.01.27-06.28.56:060][597]LogEditorTransaction: Undo Delete Actors
+[2018.01.27-06.31.55:329][287]LogSavePackage: Save=2965.07ms
+[2018.01.27-06.31.55:329][287]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Level1_Auto251E1C8294917145B979639BF02DF286C.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto2.umap'
+[2018.01.27-06.31.55:330][287]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto2.umap
+[2018.01.27-06.31.55:332][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 3.003
+[2018.01.27-06.31.55:332][287]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.003
+[2018.01.27-06.34.46:039][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone251)
+[2018.01.27-06.35.33:347][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.33:347][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone.uasset.
+[2018.01.27-06.35.33:347][ 97]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_MacroVariation
+[2018.01.27-06.35.33:347][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.01.27-06.35.33:347][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone.uasset.
+[2018.01.27-06.35.33:347][ 97]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_Perlin_Noise_M
+[2018.01.27-06.35.33:348][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.01.27-06.35.33:348][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone.uasset.
+[2018.01.27-06.35.33:348][ 97]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Sandstone_D
+[2018.01.27-06.35.33:348][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.01.27-06.35.33:348][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone.uasset.
+[2018.01.27-06.35.33:348][ 97]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Sandstone_N
+[2018.01.27-06.35.33:348][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.33:348][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone.uasset.
+[2018.01.27-06.35.33:348][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.01.27-06.35.33:348][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone.uasset.
+[2018.01.27-06.35.33:348][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.01.27-06.35.33:349][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone.uasset.
+[2018.01.27-06.35.33:349][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.01.27-06.35.33:349][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Sandstone.uasset.
+[2018.01.27-06.35.33:351][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.01.27-06.35.33:351][ 97]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_D.T_Rock_Sandstone_D Referenced by MaterialExpressionTextureSample_1
+[2018.01.27-06.35.33:352][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading NULL.
+[2018.01.27-06.35.33:352][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.01.27-06.35.33:352][ 97]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_D.T_Rock_Sandstone_D Referenced by MaterialExpressionTextureSample_2
+[2018.01.27-06.35.33:352][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading NULL.
+[2018.01.27-06.35.33:352][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.01.27-06.35.33:352][ 97]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_N.T_Rock_Sandstone_N Referenced by MaterialExpressionTextureSample_4
+[2018.01.27-06.35.33:352][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading NULL.
+[2018.01.27-06.35.33:352][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.01.27-06.35.33:352][ 97]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_N.T_Rock_Sandstone_N Referenced by MaterialExpressionTextureSample_5
+[2018.01.27-06.35.33:352][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading NULL.
+[2018.01.27-06.35.33:353][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.01.27-06.35.33:353][ 97]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_62
+[2018.01.27-06.35.33:353][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading NULL.
+[2018.01.27-06.35.33:353][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.33:353][ 97]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_63
+[2018.01.27-06.35.33:353][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.01.27-06.35.33:353][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.33:353][ 97]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_64
+[2018.01.27-06.35.33:353][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.01.27-06.35.33:353][ 97]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.33:354][ 97]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_65
+[2018.01.27-06.35.33:354][ 97]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.01.27-06.35.33:356][ 97]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2018.01.27-06.35.33:414][ 97]LogMaterial: Warning: C:\Users\jerome\Documents\GitHub\SecondTry\Content\Particles_and_Textures\StarterContent\Textures\StarterContent\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-06.35.33:415][ 97]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-06.35.39:052][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.39:052][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate.uasset.
+[2018.01.27-06.35.39:052][290]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate : Can't find file for asset. /Game/StarterContent/Textures/T_MacroVariation
+[2018.01.27-06.35.39:052][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.01.27-06.35.39:053][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate.uasset.
+[2018.01.27-06.35.39:053][290]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate : Can't find file for asset. /Game/StarterContent/Textures/T_Perlin_Noise_M
+[2018.01.27-06.35.39:053][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_D'
+[2018.01.27-06.35.39:053][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_D' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate.uasset.
+[2018.01.27-06.35.39:053][290]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Slate_D
+[2018.01.27-06.35.39:053][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_N'
+[2018.01.27-06.35.39:053][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate.uasset.
+[2018.01.27-06.35.39:053][290]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Slate_N
+[2018.01.27-06.35.39:053][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.39:053][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate.uasset.
+[2018.01.27-06.35.39:054][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.01.27-06.35.39:054][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate.uasset.
+[2018.01.27-06.35.39:054][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_D'
+[2018.01.27-06.35.39:054][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_D' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate.uasset.
+[2018.01.27-06.35.39:054][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_N'
+[2018.01.27-06.35.39:054][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Slate.uasset.
+[2018.01.27-06.35.39:057][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_D'
+[2018.01.27-06.35.39:057][290]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Slate_D.T_Rock_Slate_D Referenced by MaterialExpressionTextureSample_38
+[2018.01.27-06.35.39:057][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_D' while loading NULL.
+[2018.01.27-06.35.39:057][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_N'
+[2018.01.27-06.35.39:057][290]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Slate_N.T_Rock_Slate_N Referenced by MaterialExpressionTextureSample_39
+[2018.01.27-06.35.39:057][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_N' while loading NULL.
+[2018.01.27-06.35.39:058][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.01.27-06.35.39:058][290]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_40
+[2018.01.27-06.35.39:058][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading NULL.
+[2018.01.27-06.35.39:058][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.39:058][290]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_41
+[2018.01.27-06.35.39:058][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.01.27-06.35.39:058][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.39:058][290]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_42
+[2018.01.27-06.35.39:058][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.01.27-06.35.39:059][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.01.27-06.35.39:059][290]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_43
+[2018.01.27-06.35.39:059][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.01.27-06.35.39:059][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_D'
+[2018.01.27-06.35.39:059][290]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Slate_D.T_Rock_Slate_D Referenced by MaterialExpressionTextureSample_44
+[2018.01.27-06.35.39:059][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_D' while loading NULL.
+[2018.01.27-06.35.39:059][290]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_N'
+[2018.01.27-06.35.39:059][290]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Slate_N.T_Rock_Slate_N Referenced by MaterialExpressionTextureSample_45
+[2018.01.27-06.35.39:059][290]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_N' while loading NULL.
+[2018.01.27-06.35.39:061][290]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2018.01.27-06.35.39:062][290]LogMaterial: Warning: C:\Users\jerome\Documents\GitHub\SecondTry\Content\Particles_and_Textures\StarterContent\Textures\StarterContent\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-06.35.39:062][290]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-06.35.41:374][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Metal_Gold_N'
+[2018.01.27-06.35.41:375][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Metal_Gold_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.01.27-06.35.41:375][350]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Marble_Polished : Can't find file for asset. /Game/StarterContent/Textures/T_Metal_Gold_N
+[2018.01.27-06.35.41:375][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.01.27-06.35.41:375][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.01.27-06.35.41:375][350]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Marble_Polished : Can't find file for asset. /Game/StarterContent/Textures/T_Perlin_Noise_M
+[2018.01.27-06.35.41:375][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.01.27-06.35.41:375][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.01.27-06.35.41:375][350]LoadErrors: Error: /Game/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Marble_Polished : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Marble_Polished_D
+[2018.01.27-06.35.41:376][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Metal_Gold_N'
+[2018.01.27-06.35.41:376][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Metal_Gold_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.01.27-06.35.41:376][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.01.27-06.35.41:376][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.01.27-06.35.41:376][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.01.27-06.35.41:376][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Particles_and_Textures/StarterContent/Textures/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.01.27-06.35.41:379][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.01.27-06.35.41:379][350]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D Referenced by MaterialExpressionTextureSample_1
+[2018.01.27-06.35.41:379][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading NULL.
+[2018.01.27-06.35.41:379][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Metal_Gold_N'
+[2018.01.27-06.35.41:379][350]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Metal_Gold_N.T_Metal_Gold_N Referenced by MaterialExpressionTextureSample_13
+[2018.01.27-06.35.41:379][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Metal_Gold_N' while loading NULL.
+[2018.01.27-06.35.41:380][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.01.27-06.35.41:380][350]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_14
+[2018.01.27-06.35.41:380][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading NULL.
+[2018.01.27-06.35.41:380][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.01.27-06.35.41:380][350]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D Referenced by MaterialExpressionTextureSample_15
+[2018.01.27-06.35.41:380][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading NULL.
+[2018.01.27-06.35.41:380][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.01.27-06.35.41:380][350]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D Referenced by MaterialExpressionTextureSample_16
+[2018.01.27-06.35.41:381][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading NULL.
+[2018.01.27-06.35.41:381][350]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.01.27-06.35.41:381][350]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D Referenced by MaterialExpressionTextureSample_2
+[2018.01.27-06.35.41:381][350]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading NULL.
+[2018.01.27-06.35.41:383][350]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2018.01.27-06.35.41:394][350]LogMaterial: Warning: C:\Users\jerome\Documents\GitHub\SecondTry\Content\Particles_and_Textures\StarterContent\Textures\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-06.35.41:394][350]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-06.36.40:940][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Detail_Rocky_N'
+[2018.01.27-06.36.40:940][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Detail_Rocky_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Assets/M_Rock1.uasset.
+[2018.01.27-06.36.40:940][ 54]LoadErrors: Error: /Game/Assets/M_Rock1 : Can't find file for asset. /Game/StarterContent/Textures/T_Detail_Rocky_N
+[2018.01.27-06.36.40:940][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Basalt_D'
+[2018.01.27-06.36.40:940][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Basalt_D' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Assets/M_Rock1.uasset.
+[2018.01.27-06.36.40:940][ 54]LoadErrors: Error: /Game/Assets/M_Rock1 : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Basalt_D
+[2018.01.27-06.36.40:940][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_RockMesh_M'
+[2018.01.27-06.36.40:941][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_RockMesh_M' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Assets/M_Rock1.uasset.
+[2018.01.27-06.36.40:941][ 54]LoadErrors: Error: /Game/Assets/M_Rock1 : Can't find file for asset. /Game/StarterContent/Textures/T_RockMesh_M
+[2018.01.27-06.36.40:941][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_RockMesh_N'
+[2018.01.27-06.36.40:941][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_RockMesh_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Assets/M_Rock1.uasset.
+[2018.01.27-06.36.40:941][ 54]LoadErrors: Error: /Game/Assets/M_Rock1 : Can't find file for asset. /Game/StarterContent/Textures/T_RockMesh_N
+[2018.01.27-06.36.40:941][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Detail_Rocky_N'
+[2018.01.27-06.36.40:941][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Detail_Rocky_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Assets/M_Rock1.uasset.
+[2018.01.27-06.36.40:941][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Basalt_D'
+[2018.01.27-06.36.40:941][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Basalt_D' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Assets/M_Rock1.uasset.
+[2018.01.27-06.36.40:942][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_RockMesh_M'
+[2018.01.27-06.36.40:942][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_RockMesh_M' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Assets/M_Rock1.uasset.
+[2018.01.27-06.36.40:942][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_RockMesh_N'
+[2018.01.27-06.36.40:942][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_RockMesh_N' while loading ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/Assets/M_Rock1.uasset.
+[2018.01.27-06.36.40:943][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_RockMesh_N'
+[2018.01.27-06.36.40:943][ 54]LoadErrors: Failed to load /Game/StarterContent/Textures/T_RockMesh_N.T_RockMesh_N Referenced by MaterialExpressionTextureSample_0
+[2018.01.27-06.36.40:943][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_RockMesh_N' while loading NULL.
+[2018.01.27-06.36.40:944][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_RockMesh_M'
+[2018.01.27-06.36.40:944][ 54]LoadErrors: Failed to load /Game/StarterContent/Textures/T_RockMesh_M.T_RockMesh_M Referenced by MaterialExpressionTextureSample_1
+[2018.01.27-06.36.40:944][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_RockMesh_M' while loading NULL.
+[2018.01.27-06.36.40:944][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Basalt_D'
+[2018.01.27-06.36.40:944][ 54]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Basalt_D.T_Rock_Basalt_D Referenced by MaterialExpressionTextureSample_2
+[2018.01.27-06.36.40:944][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Basalt_D' while loading NULL.
+[2018.01.27-06.36.40:944][ 54]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Detail_Rocky_N'
+[2018.01.27-06.36.40:944][ 54]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Detail_Rocky_N.T_Detail_Rocky_N Referenced by MaterialExpressionTextureSample_5
+[2018.01.27-06.36.40:944][ 54]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Detail_Rocky_N' while loading NULL.
+[2018.01.27-06.36.40:946][ 54]LogMaterial: Missing cached shader map for material M_Rock1, compiling. 
+[2018.01.27-06.36.40:962][ 54]LogMaterial: Warning: C:\Users\jerome\Documents\GitHub\SecondTry\Content\Assets\M_Rock1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-06.36.40:962][ 54]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-06.36.48:642][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
