@@ -6691,3 +6691,44 @@ LogInit: Object subsystem initialized
 [2018.01.27-04.58.49:039][307]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
 [2018.01.27-04.58.50:406][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
 [2018.01.27-04.58.50:481][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-05.00.37:010][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelMainMenu" FILE="../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Content/LevelMainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-05.00.37:160][908]LogSavePackage: Save=127.13ms
+[2018.01.27-05.00.37:160][908]LogSavePackage: Moving '../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Saved/LevelMainMenu97481F2E467716632D4416A0967A5F15.tmp' to '../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Content/LevelMainMenu.umap'
+[2018.01.27-05.00.37:162][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Content/LevelMainMenu.umap
+[2018.01.27-05.00.39:874][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.27-05.00.39:874][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.27-05.00.39:874][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.27-05.00.39:874][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.27-05.00.39:874][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.27-05.00.39:874][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2018.01.27-05.00.39:874][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.01.27-05.00.39:874][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.27-05.00.40:228][956]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.01.27-05.00.40:228][956]SourceControl: Error: error: please commit or stash them.
+[2018.01.27-05.00.40:231][956]LightingResults: New page: Lighting Build
+[2018.01.27-05.00.40:232][956]MapCheck: New page: Map Check
+[2018.01.27-05.00.40:246][956]LightingResults: New page: Lighting Build
+[2018.01.27-05.00.40:264][956]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-05.00.40:266][956]LoadErrors: New page: New Map
+[2018.01.27-05.00.40:524][956]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-05.00.40:524][956]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-05.00.40:524][956]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-05.00.40:524][956]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-05.00.40:524][956]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-05.00.40:525][956]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-05.00.40:525][956]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-05.00.40:525][956]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-05.00.40:530][956]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [5193.89] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 11 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-05.00.40:841][956]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:00E5
+[2018.01.27-05.00.41:417][956]LogAIModule: Creating AISystem for world LevelMainMenu
+[2018.01.27-05.00.41:460][956]Cmd: MAP LOAD FILE="../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Content/LevelMainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-05.00.41:460][956]LightingResults: New page: Lighting Build
+[2018.01.27-05.00.41:461][956]LoadErrors: New page: Loading map: LevelMainMenu.umap
+[2018.01.27-05.00.41:461][956]MapCheck: New page: Map Check
+[2018.01.27-05.00.41:461][956]LightingResults: New page: Lighting Build
+[2018.01.27-05.00.41:480][956]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-05.00.41:507][956]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-05.00.41:560][956]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.888ms to complete.
+[2018.01.27-05.00.41:561][956]LogFileHelpers: Loading map 'LevelMainMenu' took 0.102
