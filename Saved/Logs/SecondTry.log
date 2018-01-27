@@ -1497,3 +1497,364 @@ LogInit: Object subsystem initialized
 [2018.01.27-07.01.07:883][374]SourceControl: [master b905fee] Added obstacles
 [2018.01.27-07.01.07:883][374]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.01.27-07.01.07:888][374]SourceControl: Commited [master b905fee] Added obstacles.
+[2018.01.27-07.04.10:310][414]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jerome\Downloads\Compressed\stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043.jpg)
+[2018.01.27-07.04.10:326][414]LogTexture: Display: Building textures: stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043 (BGRA8, 640X427)
+[2018.01.27-07.04.26:825][927]LogMaterial: Missing cached shader map for material 2, compiling. 
+[2018.01.27-07.04.36:270][250]LogActorFactory: Actor Factory created Cube
+[2018.01.27-07.04.38:260][328]LogActorFactory: Actor Factory created Cube
+[2018.01.27-07.05.39:035][811]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.01.27-07.06.07:120][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.27-07.06.52:480][566]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2018.01.27-07.07.00:926][899]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone217)
+[2018.01.27-07.07.01:909][938]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone218)
+[2018.01.27-07.07.02:779][974]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone212)
+[2018.01.27-07.07.05:074][ 66]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone215)
+[2018.01.27-07.07.07:131][149]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone211)
+[2018.01.27-07.07.07:886][178]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor49)
+[2018.01.27-07.07.08:895][218]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone216)
+[2018.01.27-07.07.10:837][295]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone214)
+[2018.01.27-07.07.13:449][403]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone223)
+[2018.01.27-07.07.14:817][458]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone224)
+[2018.01.27-07.07.16:090][510]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone230)
+[2018.01.27-07.07.17:228][557]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone227)
+[2018.01.27-07.07.18:527][609]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone220)
+[2018.01.27-07.07.20:135][675]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone255)
+[2018.01.27-07.07.23:455][810]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone247)
+[2018.01.27-07.07.25:503][893]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone228)
+[2018.01.27-07.07.26:618][938]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone226)
+[2018.01.27-07.07.28:954][ 36]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone229)
+[2018.01.27-07.07.32:816][193]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone263)
+[2018.01.27-07.07.34:387][258]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone186)
+[2018.01.27-07.07.35:442][301]Cmd: DELETE
+[2018.01.27-07.07.35:442][301]Cmd: ACTOR DELETE
+[2018.01.27-07.07.35:459][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:459][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:459][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:459][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:459][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:459][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:459][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:460][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.07.35:474][301]LogEditorActor: Deleted 19 Actors (0.031 secs)
+[2018.01.27-07.07.49:247][868]Cmd: TRANSACTION UNDO
+[2018.01.27-07.07.49:247][868]LogEditorTransaction: Undo Scale Actors
+[2018.01.27-07.08.21:957][169]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2018.01.27-07.08.38:229][734]LogMaterial: Missing cached shader map for material T_Rock_Basalt_D1_Mat, compiling. 
+[2018.01.27-07.09.33:331][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.27-07.10.34:277][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.27-07.11.54:797][352]LogSavePackage: Save=3325.66ms
+[2018.01.27-07.11.54:797][352]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Level1_Auto41C251FDE4CDE08A5255571BD7BF85015.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto4.umap'
+[2018.01.27-07.11.54:798][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto4.umap
+[2018.01.27-07.11.54:803][352]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 3.372
+[2018.01.27-07.11.54:803][352]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.372
+[2018.01.27-07.11.54:824][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Particles_and_Textures/StarterContent/Textures/2] ([1] browsable assets)...
+[2018.01.27-07.11.54:900][352]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Particles_and_Textures/StarterContent/Textures/2.2]
+[2018.01.27-07.11.54:900][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles_and_Textures/StarterContent/Textures/2]
+[2018.01.27-07.11.54:928][352]LogSavePackage: Save=25.35ms
+[2018.01.27-07.11.54:928][352]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/2_Auto4D24AC7944683743EA5135FA0B63F8799.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/Particles_and_Textures/StarterContent/Textures/2_Auto4.uasset'
+[2018.01.27-07.11.54:929][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/Particles_and_Textures/StarterContent/Textures/2_Auto4.uasset
+[2018.01.27-07.11.54:929][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rock/T_Rock_Basalt_D1_Mat] ([1] browsable assets)...
+[2018.01.27-07.11.54:962][352]OBJ SavePackage:     Rendered thumbnail for [Material /Game/rock/T_Rock_Basalt_D1_Mat.T_Rock_Basalt_D1_Mat]
+[2018.01.27-07.11.54:962][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/rock/T_Rock_Basalt_D1_Mat]
+[2018.01.27-07.11.54:980][352]LogSavePackage: Save=15.90ms
+[2018.01.27-07.11.54:980][352]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/T_Rock_Basalt_D1_Mat_Auto4496AA16E4167B6425F994CBFE3382083.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/rock/T_Rock_Basalt_D1_Mat_Auto4.uasset'
+[2018.01.27-07.11.54:981][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/rock/T_Rock_Basalt_D1_Mat_Auto4.uasset
+[2018.01.27-07.11.54:982][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Particles_and_Textures/StarterContent/Textures/pexels-photo-247671_Mat] ([1] browsable assets)...
+[2018.01.27-07.11.55:016][352]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Particles_and_Textures/StarterContent/Textures/pexels-photo-247671_Mat.pexels-photo-247671_Mat]
+[2018.01.27-07.11.55:016][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles_and_Textures/StarterContent/Textures/pexels-photo-247671_Mat]
+[2018.01.27-07.11.55:036][352]LogSavePackage: Save=17.33ms
+[2018.01.27-07.11.55:036][352]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/pexels-photo-247671_Mat_Auto426D29F944F19E69E13AEC28D0FE8F2DD.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/Particles_and_Textures/StarterContent/Textures/pexels-photo-247671_Mat_Auto4.uasset'
+[2018.01.27-07.11.55:037][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/Particles_and_Textures/StarterContent/Textures/pexels-photo-247671_Mat_Auto4.uasset
+[2018.01.27-07.11.55:038][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043] ([1] browsable assets)...
+[2018.01.27-07.11.55:043][352]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043.stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043]
+[2018.01.27-07.11.55:043][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043]
+[2018.01.27-07.11.55:058][352]LogSavePackage: Save=12.81ms
+[2018.01.27-07.11.55:058][352]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/stock-photo-nature-tree-pattern-1BFD2E6442BCF9C72B4E40A29E101FD2.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043_Auto4.uasset'
+[2018.01.27-07.11.55:059][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043_Auto4.uasset
+[2018.01.27-07.11.55:059][352]LogFileHelpers: Auto-saving content packages took 0.254
+[2018.01.27-07.12.43:449][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor31)
+[2018.01.27-07.13.08:803][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor81)
+[2018.01.27-07.13.12:412][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor82)
+[2018.01.27-07.13.55:015][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.27-07.14.59:011][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone554)
+[2018.01.27-07.15.01:503][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.01.27-07.15.02:392][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.01.27-07.15.28:461][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.01.27-07.15.32:064][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.01.27-07.15.36:837][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.27-07.15.40:915][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.01.27-07.15.48:554][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.01.27-07.15.54:759][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.01.27-07.16.01:689][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.27-07.18.13:225][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.01.27-07.18.33:349][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.01.27-07.18.55:475][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.27-07.19.06:857][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.01.27-07.21.32:831][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2018.01.27-07.21.41:530][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-07.22.42:029][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.01.27-07.23.14:003][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.01.27-07.23.16:088][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.01.27-07.24.14:698][807]LogTexture: Display: Building textures: Tunnel_Tunnel_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-07.24.14:698][807]LogTexture: Display: Building textures: Tunnel_Tunnel_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-07.24.14:698][807]LogTexture: Display: Building textures: Tunnel_Tunnel_Normal (BC5, 1024X1024)
+[2018.01.27-07.24.14:698][807]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-07.24.14:719][807]LogStaticMesh: Building static mesh Tunnel...
+[2018.01.27-07.24.14:872][807]LogStaticMesh: Built static mesh [0.15s] /Game/items/Tunnel.Tunnel
+[2018.01.27-07.24.14:904][807]LogActorFactory: Actor Factory created Tunnel
+[2018.01.27-07.24.16:352][865]LogActorFactory: Actor Factory created Tunnel
+[2018.01.27-07.24.23:952][149]LogMaterial: Missing cached shader map for material Tunnel_Tunnel_BaseColor_Mat, compiling. 
+[2018.01.27-07.25.19:839][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.25.28:966][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel2)
+[2018.01.27-07.25.43:396][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.25.50:029][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.26.06:248][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel2)
+[2018.01.27-07.26.07:061][410]Cmd: DELETE
+[2018.01.27-07.26.07:061][410]Cmd: ACTOR DELETE
+[2018.01.27-07.26.07:078][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.26.07:094][410]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.01.27-07.26.08:011][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.26.08:078][450]Cmd: DELETE
+[2018.01.27-07.26.08:078][450]Cmd: ACTOR DELETE
+[2018.01.27-07.26.08:091][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-07.26.08:102][450]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.01.27-07.26.12:315][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.27.36:138][740]LogSavePackage: Save=3288.21ms
+[2018.01.27-07.27.36:138][740]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Level1_Auto512824CCC42DBDC59FC3680A585A8BE67.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto5.umap'
+[2018.01.27-07.27.36:139][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto5.umap
+[2018.01.27-07.27.36:141][740]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 3.328
+[2018.01.27-07.27.36:141][740]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.328
+[2018.01.27-07.27.36:144][740]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/items/Tunnel_Tunnel_BaseColor_Mat] ([1] browsable assets)...
+[2018.01.27-07.27.36:187][740]OBJ SavePackage:     Rendered thumbnail for [Material /Game/items/Tunnel_Tunnel_BaseColor_Mat.Tunnel_Tunnel_BaseColor_Mat]
+[2018.01.27-07.27.36:187][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/items/Tunnel_Tunnel_BaseColor_Mat]
+[2018.01.27-07.27.36:204][740]LogSavePackage: Save=15.74ms
+[2018.01.27-07.27.36:204][740]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Tunnel_Tunnel_BaseColor_Mat_Auto673D1E594089CF532232FCA9EF22390F.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/items/Tunnel_Tunnel_BaseColor_Mat_Auto5.uasset'
+[2018.01.27-07.27.36:205][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/items/Tunnel_Tunnel_BaseColor_Mat_Auto5.uasset
+[2018.01.27-07.27.36:205][740]LogFileHelpers: Auto-saving content packages took 0.062
+[2018.01.27-07.28.58:854][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2018.01.27-07.29.06:359][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel2)
+[2018.01.27-07.29.37:705][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.30.05:167][447]LogMaterial: Missing cached shader map for material stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043_Mat, compiling. 
+[2018.01.27-07.30.53:889][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel2)
+[2018.01.27-07.31.04:247][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.33.50:708][680]Cmd: TRANSACTION UNDO
+[2018.01.27-07.33.50:708][680]LogEditorTransaction: Undo Move Actors
+[2018.01.27-07.33.51:072][694]Cmd: TRANSACTION UNDO
+[2018.01.27-07.33.51:072][694]LogEditorTransaction: Undo Move Actors
+[2018.01.27-07.34.39:653][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.34.51:008][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.35.07:189][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.35.16:102][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.35.19:428][423]Cmd: TRANSACTION UNDO
+[2018.01.27-07.35.19:429][423]LogEditorTransaction: Undo Move Actors
+[2018.01.27-07.35.25:544][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel4)
+[2018.01.27-07.35.41:102][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.35.54:163][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel4)
+[2018.01.27-07.36.03:442][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.36.28:865][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel4)
+[2018.01.27-07.37.07:809][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.37.12:107][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel2)
+[2018.01.27-07.37.16:410][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.37.19:065][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.37.25:786][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.37.36:025][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.37.39:496][503]Cmd: TRANSACTION UNDO
+[2018.01.27-07.37.39:496][503]LogEditorTransaction: Undo Move Actors
+[2018.01.27-07.37.42:569][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.37.50:072][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel4)
+[2018.01.27-07.38.26:831][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.38.30:714][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.38.36:876][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel4)
+[2018.01.27-07.38.41:702][201]Cmd: TRANSACTION UNDO
+[2018.01.27-07.38.41:702][201]LogEditorTransaction: Undo Rotate Actors
+[2018.01.27-07.39.01:041][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel2)
+[2018.01.27-07.39.22:175][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel)
+[2018.01.27-07.39.28:955][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel3)
+[2018.01.27-07.39.31:373][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel4)
+[2018.01.27-07.39.41:267][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel2)
+[2018.01.27-07.40.17:409][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel4)
+[2018.01.27-07.40.24:561][572]Cmd: TRANSACTION UNDO
+[2018.01.27-07.40.24:561][572]LogEditorTransaction: Undo Rotate Actors
+[2018.01.27-07.41.48:054][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor73)
+[2018.01.27-07.41.49:054][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel5)
+[2018.01.27-07.41.53:020][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor73)
+[2018.01.27-07.41.54:939][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel5)
+[2018.01.27-07.42.06:947][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel4)
+[2018.01.27-07.42.15:769][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel5)
+[2018.01.27-07.42.23:886][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel6)
+[2018.01.27-07.42.33:510][126]Cmd: TRANSACTION UNDO
+[2018.01.27-07.42.33:510][126]LogEditorTransaction: Undo Move Actors
+[2018.01.27-07.42.39:121][361]Cmd: TRANSACTION UNDO
+[2018.01.27-07.42.39:121][361]LogEditorTransaction: Undo Move Actors
+[2018.01.27-07.42.39:873][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel8)
+[2018.01.27-07.42.41:390][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel7)
+[2018.01.27-07.42.46:776][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel8)
+[2018.01.27-07.43.17:547][937]LogSavePackage: Save=3280.31ms
+[2018.01.27-07.43.17:547][937]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Level1_Auto6AAF626B84D2FCE421B6874A82A63EA31.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto6.umap'
+[2018.01.27-07.43.17:548][937]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto6.umap
+[2018.01.27-07.43.17:550][937]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 3.324
+[2018.01.27-07.43.17:550][937]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.324
+[2018.01.27-07.43.17:553][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043_Mat] ([1] browsable assets)...
+[2018.01.27-07.43.17:596][937]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043_Mat.stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043_Mat]
+[2018.01.27-07.43.17:597][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043_Mat]
+[2018.01.27-07.43.17:616][937]LogSavePackage: Save=17.43ms
+[2018.01.27-07.43.17:616][937]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/stock-photo-nature-tree-pattern-E900FD4C496B02CDD94E1CBCC869AB23.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043_Mat_Auto6.uasset'
+[2018.01.27-07.43.17:628][937]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Autosaves/Game/Particles_and_Textures/StarterContent/Textures/stock-photo-nature-tree-pattern-wood-trunk-texture-natural-log-earth-21656ee3-8fa3-410c-9025-9304ed20d043_Mat_Auto6.uasset
+[2018.01.27-07.43.17:628][937]LogFileHelpers: Auto-saving content packages took 0.076
+[2018.01.27-07.46.33:913][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel16)
+[2018.01.27-07.46.37:614][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel17)
+[2018.01.27-07.47.54:043][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel16)
+[2018.01.27-07.48.13:567][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel15)
+[2018.01.27-07.48.14:638][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tunnel16)
+[2018.01.27-07.49.17:825][886]LogTexture: Display: Building textures: MainChar_Arm_Normal (BC5, 1024X1024)
+[2018.01.27-07.49.17:825][886]LogTexture: Display: Building textures: MainChar_Arm_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-07.49.17:825][886]LogTexture: Display: Building textures: MainChar_Arm_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-07.49.18:087][886]LogTexture: Display: Building textures: MainChar_Body_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-07.49.18:087][886]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-07.49.18:107][886]LogStaticMesh: Building static mesh MainChar...
+[2018.01.27-07.49.18:415][886]LogTexture: Display: Building textures: MainChar_Body_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-07.49.18:415][886]LogTexture: Display: Building textures: MainChar_Body_Normal (BC5, 1024X1024)
+[2018.01.27-07.49.18:415][886]LogTexture: Display: Building textures: MainChar_Eye_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-07.49.18:415][886]LogStaticMesh: Built static mesh [0.31s] /Game/items/MainChar.MainChar
+[2018.01.27-07.49.18:467][886]LogTexture: Display: Building textures: MainChar_Eye_Normal (BC5, 1024X1024)
+[2018.01.27-07.49.18:467][886]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-07.49.18:631][886]LogTexture: Display: Building textures: MainChar_Eye_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-07.49.18:631][886]LogTexture: Display: Building textures: MainChar_Eye2_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-07.49.18:631][886]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-07.49.18:666][886]LogTexture: Display: Building textures: MainChar_Eye2_Normal (BC5, 1024X1024)
+[2018.01.27-07.49.18:666][886]LogTexture: Display: Building textures: MainChar_Eye2_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-07.49.19:014][886]LogTexture: Display: Building textures: MainChar_Eyebrow_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-07.49.19:014][886]LogTexture: Display: Building textures: MainChar_Shirt_Normal (BC5, 1024X1024)
+[2018.01.27-07.49.19:014][886]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-07.49.19:156][886]LogTexture: Display: Building textures: MainChar_Shirt_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-07.49.19:156][886]LogTexture: Display: Building textures: MainChar_Eyebrow_Normal (BC5, 1024X1024)
+[2018.01.27-07.49.19:439][886]LogTexture: Display: Building textures: MainChar_Shoulder_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-07.49.19:439][886]LogTexture: Display: Building textures: MainChar_Eyebrow_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-07.49.19:547][886]LogTexture: Display: Building textures: MainChar_Shirt_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-07.49.19:547][886]LogTexture: Display: Building textures: MainChar_Shoulder_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-07.49.19:547][886]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-07.49.19:767][886]LogTexture: Display: Building textures: MainChar_Shoulder_Normal (BC5, 1024X1024)
+[2018.01.27-07.49.19:767][886]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-07.49.19:790][886]LogMaterial: Missing cached shader map for material Hair, compiling. 
+[2018.01.27-07.49.19:813][886]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-07.49.19:885][886]LogActorFactory: Actor Factory created MainChar
+[2018.01.27-07.49.19:894][886]LogActorFactory: Actor Factory created MainChar
+[2018.01.27-07.49.39:711][728]Cmd: TRANSACTION UNDO
+[2018.01.27-07.49.39:711][728]LogEditorTransaction: Undo Scale Actors
+[2018.01.27-07.49.40:100][743]Cmd: TRANSACTION UNDO
+[2018.01.27-07.49.40:100][743]LogEditorTransaction: Undo Scale Actors
+[2018.01.27-07.50.07:875][888]LogTexture: Display: Building textures: Gasul_Gasul_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.01.27-07.50.07:875][888]LogTexture: Display: Building textures: Gasul_Gasul_Normal (BC5, 1024X1024)
+[2018.01.27-07.50.07:875][888]LogTexture: Display: Building textures: Gasul_Gasul_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-07.50.07:875][888]LogStaticMesh: Building static mesh Gasul...
+[2018.01.27-07.50.07:953][888]LogStaticMesh: Built static mesh [0.08s] /Game/items/Gasul.Gasul
+[2018.01.27-07.50.08:175][888]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-07.50.08:230][888]LogActorFactory: Actor Factory created Gasul
+[2018.01.27-07.50.09:988][958]LogActorFactory: Actor Factory created Gasul
+[2018.01.27-07.50.27:239][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MainChar)
+[2018.01.27-07.50.41:074][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gasul)
+[2018.01.27-07.51.02:780][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gasul2)
+[2018.01.27-07.51.07:071][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gasul3)
+[2018.01.27-07.51.15:491][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gasul4)
+[2018.01.27-07.51.18:908][924]Cmd: TRANSACTION UNDO
+[2018.01.27-07.51.18:908][924]LogEditorTransaction: Undo Move Actors
+[2018.01.27-07.51.33:165][556]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.01.27-07.51.33:851][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gasul3)
+[2018.01.27-07.51.37:257][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gasul4)
+[2018.01.27-07.51.41:087][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gasul)
+[2018.01.27-07.51.44:213][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gasul2)
+[2018.01.27-07.53.39:449][777]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.53.39:467][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-07.53.39:467][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.53.39:467][777]PIE: New page: PIE session: Level1 (Jan 27, 2018, 11:53:39 PM)
+[2018.01.27-07.53.39:467][777]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-07.53.39:521][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053394s)
+[2018.01.27-07.53.39:522][777]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-07.53.39:523][777]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2018.01.27-07.53.39:524][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.055756s)
+[2018.01.27-07.53.39:589][777]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-07.53.39:600][777]LogInit: FAudioDevice initialized.
+[2018.01.27-07.53.39:632][777]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.53.39:649][777]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-15.53.39
+[2018.01.27-07.53.39:650][777]LogWorld: Bringing up level for play took: 0.018009
+[2018.01.27-07.53.39:678][777]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.492
+[2018.01.27-07.53.39:679][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-07.53.42:978][897]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-07.53.43:003][897]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-07.53.43:037][897]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-07.53.43:092][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054863s)
+[2018.01.27-07.53.43:092][897]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-07.53.43:093][897]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.01.27-07.53.43:093][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.056487s)
+[2018.01.27-07.53.43:093][897]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.53.43:110][897]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-15.53.43
+[2018.01.27-07.53.43:111][897]LogWorld: Bringing up level for play took: 0.017448
+[2018.01.27-07.53.43:113][897]LogLoad: Took 0.110746 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-07.53.44:414][944]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-07.53.44:439][944]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-07.53.44:458][944]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-07.53.44:507][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048612s)
+[2018.01.27-07.53.44:508][944]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-07.53.44:508][944]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.01.27-07.53.44:508][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.049981s)
+[2018.01.27-07.53.44:508][944]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.53.44:527][944]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-15.53.44
+[2018.01.27-07.53.44:528][944]LogWorld: Bringing up level for play took: 0.019601
+[2018.01.27-07.53.44:531][944]LogLoad: Took 0.092130 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-07.53.46:355][ 11]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-07.53.46:380][ 11]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-07.53.46:400][ 11]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-07.53.46:450][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050120s)
+[2018.01.27-07.53.46:451][ 11]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-07.53.46:452][ 11]LogPlayLevel: PIE: World Init took: (0.001786s)
+[2018.01.27-07.53.46:452][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.052629s)
+[2018.01.27-07.53.46:452][ 11]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.53.46:469][ 11]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-15.53.46
+[2018.01.27-07.53.46:470][ 11]LogWorld: Bringing up level for play took: 0.017181
+[2018.01.27-07.53.46:472][ 11]LogLoad: Took 0.092013 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-07.53.58:489][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-07.53.58:548][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-07.54.02:761][340]LogSavePackage: Save=3286.65ms
+[2018.01.27-07.54.02:761][340]LogSavePackage: Moving '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Saved/Level1D1452C014C5D2F773F04C28684DC923E.tmp' to '../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.01.27-07.54.02:771][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.01.27-07.54.13:425][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-07.54.13:441][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-07.54.13:441][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-07.54.13:441][650]PIE: New page: PIE session: Level1 (Jan 27, 2018, 11:54:13 PM)
+[2018.01.27-07.54.13:441][650]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-07.54.13:493][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051879s)
+[2018.01.27-07.54.13:494][650]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-07.54.13:494][650]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2018.01.27-07.54.13:494][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.053450s)
+[2018.01.27-07.54.13:519][650]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-07.54.13:525][650]LogInit: FAudioDevice initialized.
+[2018.01.27-07.54.13:559][650]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.54.13:575][650]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-15.54.13
+[2018.01.27-07.54.13:576][650]LogWorld: Bringing up level for play took: 0.016911
+[2018.01.27-07.54.13:578][650]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.592
+[2018.01.27-07.54.13:579][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-07.54.15:494][719]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-07.54.15:519][719]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-07.54.15:540][719]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-07.54.15:593][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053675s)
+[2018.01.27-07.54.15:595][719]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-07.54.15:595][719]LogPlayLevel: PIE: World Init took: (0.001859s)
+[2018.01.27-07.54.15:596][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.056305s)
+[2018.01.27-07.54.15:596][719]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-07.54.15:613][719]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-15.54.15
+[2018.01.27-07.54.15:614][719]LogWorld: Bringing up level for play took: 0.017274
+[2018.01.27-07.54.15:616][719]LogLoad: Took 0.096617 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-07.54.17:712][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-07.54.17:750][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-07.54.20:920][910]Cmd: SELECT NONE
