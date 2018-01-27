@@ -2134,3 +2134,37 @@ LogInit: Object subsystem initialized
 [2018.01.27-05.10.07:820][274]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.01.27-05.10.07:909][274]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.201ms to complete.
 [2018.01.27-05.10.07:910][274]LogFileHelpers: Loading map 'NewMap' took 0.178
+[2018.01.27-05.11.22:075][482]Cmd: QUIT_EDITOR
+[2018.01.27-05.11.26:776][482]LogExit: Preparing to exit.
+[2018.01.27-05.11.28:902][482]LogDirectoryWatcher: A directory notification for 'C:/Users/Bahan/Documents/Unreal Projects/SecondTry/Content/' was aborted.
+[2018.01.27-05.11.29:694][482]LogExit: Editor shut down
+[2018.01.27-05.11.29:718][482]LogExit: Transaction tracking system shut down
+[2018.01.27-05.11.30:477][482]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.27-05.11.30:477][482]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/' was aborted.
+[2018.01.27-05.11.30:477][482]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.27-05.11.30:477][482]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.27-05.11.30:477][482]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.27-05.11.30:477][482]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.27-05.11.30:477][482]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.27-05.11.33:001][482]LogExit: Object subsystem successfully closed.
+[2018.01.27-05.11.34:154][482]LogD3D11RHI: Shutdown
+[2018.01.27-05.11.34:154][482]LogD3D11RHI: CleanupD3DDevice
+[2018.01.27-05.11.35:426][482]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.27-05.11.39:099][482]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (558)
+[2018.01.27-05.11.39:099][482]LogModuleManager: Shutting down and abandoning module TextureEditor (556)
+[2018.01.27-05.11.39:130][482]LogModuleManager: Shutting down and abandoning module MaterialEditor (554)
+[2018.01.27-05.11.39:130][482]LogModuleManager: Shutting down and abandoning module NewLevelDialog (552)
+[2018.01.27-05.11.39:191][482]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.01.27-05.11.39:192][482]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.01.27-05.11.39:192][482]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.01.27-05.11.39:273][482]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.27-05.11.39:503][482]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.01.27-05.11.39:503][482]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.01.27-05.11.39:503][482]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.01.27-05.11.39:581][482]LogDirectoryWatcher: A directory notification for 'C:/Users/Bahan/Documents/Unreal Projects/SecondTry/Content/Collections/' was aborted.
+[2018.01.27-05.11.39:581][482]LogDirectoryWatcher: A directory notification for 'C:/Users/Bahan/Documents/Unreal Projects/SecondTry/Content/Developers/Bahan/Collections/' was aborted.
+[2018.01.27-05.11.39:581][482]LogDirectoryWatcher: A directory notification for 'C:/Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Collections/' was aborted.
+[2018.01.27-05.11.39:651][482]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.01.27-05.11.39:724][482]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.27-05.11.39:821][482]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.27-05.11.39:821][482]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
