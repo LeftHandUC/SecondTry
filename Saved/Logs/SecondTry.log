@@ -449,3 +449,109 @@ LogInit: Object subsystem initialized
 [2018.01.27-04.54.18:404][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
 [2018.01.27-04.54.45:813][810]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
 [2018.01.27-04.54.48:083][823]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.27-04.56.10:964][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.27-04.56.10:964][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.27-04.56.10:964][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.27-04.56.10:964][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.27-04.56.10:964][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.27-04.56.10:964][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.01.27-04.56.10:964][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2018.01.27-04.56.10:964][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.27-04.56.11:443][116]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.01.27-04.56.11:443][116]SourceControl: Error: error: please commit or stash them.
+[2018.01.27-04.56.13:998][116]LightingResults: New page: Lighting Build
+[2018.01.27-04.56.14:020][116]MapCheck: New page: Map Check
+[2018.01.27-04.56.14:020][116]LightingResults: New page: Lighting Build
+[2018.01.27-04.56.14:050][116]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-04.56.14:051][116]LoadErrors: New page: New Map
+[2018.01.27-04.56.14:311][116]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-04.56.14:311][116]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-04.56.14:311][116]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-04.56.14:311][116]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-04.56.14:311][116]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-04.56.14:311][116]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-04.56.14:311][116]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-04.56.14:312][116]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-04.56.14:316][116]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0451.29] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 9 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-04.56.14:331][116]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.27-04.56.14:801][116]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.56.14:837][116]Cmd: MAP LOAD FILE="../../../../../../Users/jerome/Documents/GitHub/SecondTry/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.56.14:837][116]LightingResults: New page: Lighting Build
+[2018.01.27-04.56.14:838][116]LoadErrors: New page: Loading map: Level1.umap
+[2018.01.27-04.56.14:838][116]MapCheck: New page: Map Check
+[2018.01.27-04.56.14:838][116]LightingResults: New page: Lighting Build
+[2018.01.27-04.56.14:864][116]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.56.14:908][116]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.56.14:955][116]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.857ms to complete.
+[2018.01.27-04.56.14:955][116]LogFileHelpers: Loading map 'Level1' took 0.119
+[2018.01.27-04.56.23:305][440]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-04.56.23:320][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-04.56.23:321][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-04.56.23:321][440]PIE: New page: PIE session: Level1 (Jan 27, 2018, 8:56:23 PM)
+[2018.01.27-04.56.23:321][440]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-04.56.23:363][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041693s)
+[2018.01.27-04.56.23:363][440]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.56.23:363][440]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.01.27-04.56.23:364][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.042891s)
+[2018.01.27-04.56.23:384][440]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-04.56.23:392][440]LogInit: FAudioDevice initialized.
+[2018.01.27-04.56.23:420][440]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.56.23:430][440]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-12.56.23
+[2018.01.27-04.56.23:430][440]LogWorld: Bringing up level for play took: 0.009322
+[2018.01.27-04.56.23:432][440]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.738
+[2018.01.27-04.56.23:433][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.01.27-04.56.27:772][606]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.27:791][606]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.27:807][606]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-04.56.27:839][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032383s)
+[2018.01.27-04.56.27:840][606]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.56.27:840][606]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.01.27-04.56.27:840][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.033681s)
+[2018.01.27-04.56.27:840][606]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.56.27:855][606]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-12.56.27
+[2018.01.27-04.56.27:856][606]LogWorld: Bringing up level for play took: 0.015016
+[2018.01.27-04.56.27:857][606]LogLoad: Took 0.066904 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-04.56.29:779][679]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.29:803][679]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.29:819][679]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-04.56.29:851][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032448s)
+[2018.01.27-04.56.29:852][679]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.56.29:852][679]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2018.01.27-04.56.29:852][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.033584s)
+[2018.01.27-04.56.29:852][679]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.56.29:863][679]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-12.56.29
+[2018.01.27-04.56.29:865][679]LogWorld: Bringing up level for play took: 0.012202
+[2018.01.27-04.56.29:867][679]LogLoad: Took 0.063857 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-04.56.31:439][739]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.31:463][739]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.31:479][739]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-04.56.31:513][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034151s)
+[2018.01.27-04.56.31:514][739]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.56.31:514][739]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2018.01.27-04.56.31:514][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.035847s)
+[2018.01.27-04.56.31:514][739]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.56.31:526][739]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-12.56.31
+[2018.01.27-04.56.31:527][739]LogWorld: Bringing up level for play took: 0.011461
+[2018.01.27-04.56.31:528][739]LogLoad: Took 0.065509 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-04.56.32:530][777]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.32:554][777]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.32:570][777]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-04.56.32:603][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033397s)
+[2018.01.27-04.56.32:604][777]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.56.32:604][777]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.01.27-04.56.32:605][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.034578s)
+[2018.01.27-04.56.32:605][777]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.56.32:617][777]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-12.56.32
+[2018.01.27-04.56.32:618][777]LogWorld: Bringing up level for play took: 0.012546
+[2018.01.27-04.56.32:619][777]LogLoad: Took 0.065077 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.01.27-04.56.33:778][821]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.33:801][821]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.56.33:817][821]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.01.27-04.56.33:851][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034086s)
+[2018.01.27-04.56.33:852][821]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.56.33:852][821]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2018.01.27-04.56.33:852][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.035236s)
+[2018.01.27-04.56.33:852][821]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.56.33:864][821]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-12.56.33
+[2018.01.27-04.56.33:865][821]LogWorld: Bringing up level for play took: 0.012788
+[2018.01.27-04.56.33:868][821]LogLoad: Took 0.067447 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
