@@ -1567,3 +1567,393 @@ LogInit: Object subsystem initialized
 [2018.01.27-04.59.30:172][542]MaterialEditorStats: Vertex shader: 31 instructions
 [2018.01.27-04.59.30:172][542]MaterialEditorStats: Texture samplers: 6/16
 [2018.01.27-04.59.30:172][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-05.06.58:414][487]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.01.27-05.07.14:801][487]LogSavePackage: Save=180.08ms
+[2018.01.27-05.07.14:801][487]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/NewMapE733E44F4F1983DC9658E8AFE2F51E96.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap'
+[2018.01.27-05.07.14:815][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap
+[2018.01.27-05.07.17:965][487]LogFileHelpers: Saving map 'NewMap' took 12.264
+[2018.01.27-05.07.28:733][487]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-05.07.29:463][487]SourceControl: On branch master
+[2018.01.27-05.07.29:463][487]SourceControl: Your branch and 'origin/master' have diverged,
+[2018.01.27-05.07.29:463][487]SourceControl: and have 1 and 24 different commits each, respectively.
+[2018.01.27-05.07.29:463][487]SourceControl:   (use "git pull" to merge the remote branch into yours)
+[2018.01.27-05.07.29:463][487]SourceControl: Changes not staged for commit:
+[2018.01.27-05.07.29:463][487]SourceControl: 	modified:   Content/ThirdPersonBP/Maps/NewMap.umap
+[2018.01.27-05.07.29:463][487]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.01.27-05.07.29:463][487]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.27-05.07.29:463][487]SourceControl: 	modified:   Saved/Logs/SecondTry.log
+[2018.01.27-05.07.29:463][487]SourceControl: Untracked files:
+[2018.01.27-05.07.29:463][487]SourceControl: 	Saved/Backup/NewMap_2018-01-27-13-07-14.umap
+[2018.01.27-05.07.29:463][487]SourceControl: 	Saved/Logs/Git-Temp2C00B3694ECDE24A8B3FBE8AEE1D4D02.txt
+[2018.01.27-05.07.29:463][487]SourceControl: no changes added to commit
+[2018.01.27-05.07.29:483][487]SourceControl: Commited On branch master.
+[2018.01.27-05.07.31:610][507]LogSavePackage: Save=49.28ms
+[2018.01.27-05.07.31:610][507]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/NewMap3461277743E6B8163282E48CAB18B8D1.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap'
+[2018.01.27-05.07.31:612][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap
+[2018.01.27-05.07.38:631][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.27-05.07.38:631][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.27-05.07.38:631][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.27-05.07.38:631][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.27-05.07.38:631][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.27-05.07.38:631][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2018.01.27-05.07.38:631][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.01.27-05.07.38:631][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.27-05.07.39:285][595]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.01.27-05.07.39:285][595]SourceControl: Error: error: please commit or stash them.
+[2018.01.27-05.07.39:311][595]LightingResults: New page: Lighting Build
+[2018.01.27-05.07.39:468][595]MapCheck: New page: Map Check
+[2018.01.27-05.07.39:468][595]LightingResults: New page: Lighting Build
+[2018.01.27-05.07.39:768][595]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-05.07.39:839][595]LoadErrors: New page: New Map
+[2018.01.27-05.07.44:347][595]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-05.07.44:347][595]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-05.07.44:348][595]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-05.07.44:348][595]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-05.07.44:348][595]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-05.07.44:349][595]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-05.07.44:349][595]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-05.07.44:349][595]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-05.07.44:447][595]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2688.56] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 218 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-05.07.44:661][595]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.27-05.07.47:059][595]LogLinker: Warning: Can't find file '/Game/items/Tunnel_Tunnel_BaseColor'
+[2018.01.27-05.07.47:069][595]LogLinker: Warning: Can't find file for asset '/Game/items/Tunnel_Tunnel_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel1.uasset.
+[2018.01.27-05.07.47:072][595]LoadErrors: Error: /Game/items/Tunnel1 : Can't find file for asset. /Game/items/Tunnel_Tunnel_BaseColor
+[2018.01.27-05.07.47:073][595]LogLinker: Warning: Can't find file '/Game/items/Tunnel_Tunnel_Normal'
+[2018.01.27-05.07.47:073][595]LogLinker: Warning: Can't find file for asset '/Game/items/Tunnel_Tunnel_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel1.uasset.
+[2018.01.27-05.07.47:073][595]LoadErrors: Error: /Game/items/Tunnel1 : Can't find file for asset. /Game/items/Tunnel_Tunnel_Normal
+[2018.01.27-05.07.47:073][595]LogLinker: Warning: Can't find file '/Game/items/Tunnel_Tunnel_BaseColor'
+[2018.01.27-05.07.47:073][595]LogLinker: Warning: Can't find file for asset '/Game/items/Tunnel_Tunnel_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel1.uasset.
+[2018.01.27-05.07.47:074][595]LogLinker: Warning: Can't find file '/Game/items/Tunnel_Tunnel_Normal'
+[2018.01.27-05.07.47:074][595]LogLinker: Warning: Can't find file for asset '/Game/items/Tunnel_Tunnel_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel1.uasset.
+[2018.01.27-05.07.47:075][595]LogLinker: Warning: Can't find file '/Game/items/Tunnel_Tunnel_Normal'
+[2018.01.27-05.07.47:075][595]LoadErrors: Failed to load /Game/items/Tunnel_Tunnel_Normal.Tunnel_Tunnel_Normal Referenced by MaterialExpressionTextureSample_10
+[2018.01.27-05.07.47:075][595]LogLinker: Warning: Can't find file for asset '/Game/items/Tunnel_Tunnel_Normal' while loading NULL.
+[2018.01.27-05.07.47:075][595]LogLinker: Warning: Can't find file '/Game/items/Tunnel_Tunnel_BaseColor'
+[2018.01.27-05.07.47:075][595]LoadErrors: Failed to load /Game/items/Tunnel_Tunnel_BaseColor.Tunnel_Tunnel_BaseColor Referenced by MaterialExpressionTextureSample_9
+[2018.01.27-05.07.47:075][595]LogLinker: Warning: Can't find file for asset '/Game/items/Tunnel_Tunnel_BaseColor' while loading NULL.
+[2018.01.27-05.07.47:100][595]LogMaterial: Missing cached shader map for material Tunnel1, compiling. 
+[2018.01.27-05.07.47:145][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Tunnel1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.47:145][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.47:952][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Arm_BaseColor'
+[2018.01.27-05.07.47:952][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Arm_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Arm.uasset.
+[2018.01.27-05.07.47:953][595]LoadErrors: Error: /Game/items/Arm : Can't find file for asset. /Game/items/MainChar_Arm_BaseColor
+[2018.01.27-05.07.47:953][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Arm_Normal'
+[2018.01.27-05.07.47:953][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Arm_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Arm.uasset.
+[2018.01.27-05.07.47:953][595]LoadErrors: Error: /Game/items/Arm : Can't find file for asset. /Game/items/MainChar_Arm_Normal
+[2018.01.27-05.07.47:953][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Arm_BaseColor'
+[2018.01.27-05.07.47:953][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Arm_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Arm.uasset.
+[2018.01.27-05.07.47:954][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Arm_Normal'
+[2018.01.27-05.07.47:954][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Arm_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Arm.uasset.
+[2018.01.27-05.07.47:955][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Arm_BaseColor'
+[2018.01.27-05.07.47:955][595]LoadErrors: Failed to load /Game/items/MainChar_Arm_BaseColor.MainChar_Arm_BaseColor Referenced by MaterialExpressionTextureSample_30
+[2018.01.27-05.07.47:955][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Arm_BaseColor' while loading NULL.
+[2018.01.27-05.07.47:955][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Arm_Normal'
+[2018.01.27-05.07.47:955][595]LoadErrors: Failed to load /Game/items/MainChar_Arm_Normal.MainChar_Arm_Normal Referenced by MaterialExpressionTextureSample_31
+[2018.01.27-05.07.47:955][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Arm_Normal' while loading NULL.
+[2018.01.27-05.07.47:978][595]LogMaterial: Missing cached shader map for material Arm, compiling. 
+[2018.01.27-05.07.47:979][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Arm.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.47:979][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.47:984][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shirt_BaseColor'
+[2018.01.27-05.07.47:985][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shirt_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shirt.uasset.
+[2018.01.27-05.07.47:985][595]LoadErrors: Error: /Game/items/Shirt : Can't find file for asset. /Game/items/MainChar_Shirt_BaseColor
+[2018.01.27-05.07.47:985][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shirt_Normal'
+[2018.01.27-05.07.47:985][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shirt_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shirt.uasset.
+[2018.01.27-05.07.47:985][595]LoadErrors: Error: /Game/items/Shirt : Can't find file for asset. /Game/items/MainChar_Shirt_Normal
+[2018.01.27-05.07.47:986][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shirt_BaseColor'
+[2018.01.27-05.07.47:986][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shirt_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shirt.uasset.
+[2018.01.27-05.07.47:986][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shirt_Normal'
+[2018.01.27-05.07.47:986][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shirt_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shirt.uasset.
+[2018.01.27-05.07.47:987][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shirt_BaseColor'
+[2018.01.27-05.07.47:987][595]LoadErrors: Failed to load /Game/items/MainChar_Shirt_BaseColor.MainChar_Shirt_BaseColor Referenced by MaterialExpressionTextureSample_12
+[2018.01.27-05.07.47:987][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shirt_BaseColor' while loading NULL.
+[2018.01.27-05.07.47:988][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shirt_Normal'
+[2018.01.27-05.07.47:988][595]LoadErrors: Failed to load /Game/items/MainChar_Shirt_Normal.MainChar_Shirt_Normal Referenced by MaterialExpressionTextureSample_13
+[2018.01.27-05.07.47:988][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shirt_Normal' while loading NULL.
+[2018.01.27-05.07.47:992][595]LogMaterial: Missing cached shader map for material Shirt, compiling. 
+[2018.01.27-05.07.47:993][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Shirt.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.47:993][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.47:999][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eyebrow_BaseColor'
+[2018.01.27-05.07.48:000][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eyebrow_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eyebrow.uasset.
+[2018.01.27-05.07.48:000][595]LoadErrors: Error: /Game/items/Eyebrow : Can't find file for asset. /Game/items/MainChar_Eyebrow_BaseColor
+[2018.01.27-05.07.48:000][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eyebrow_Normal'
+[2018.01.27-05.07.48:000][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eyebrow_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eyebrow.uasset.
+[2018.01.27-05.07.48:000][595]LoadErrors: Error: /Game/items/Eyebrow : Can't find file for asset. /Game/items/MainChar_Eyebrow_Normal
+[2018.01.27-05.07.48:001][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eyebrow_BaseColor'
+[2018.01.27-05.07.48:001][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eyebrow_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eyebrow.uasset.
+[2018.01.27-05.07.48:002][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eyebrow_Normal'
+[2018.01.27-05.07.48:002][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eyebrow_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eyebrow.uasset.
+[2018.01.27-05.07.48:003][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eyebrow_BaseColor'
+[2018.01.27-05.07.48:003][595]LoadErrors: Failed to load /Game/items/MainChar_Eyebrow_BaseColor.MainChar_Eyebrow_BaseColor Referenced by MaterialExpressionTextureSample_27
+[2018.01.27-05.07.48:003][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eyebrow_BaseColor' while loading NULL.
+[2018.01.27-05.07.48:004][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eyebrow_Normal'
+[2018.01.27-05.07.48:004][595]LoadErrors: Failed to load /Game/items/MainChar_Eyebrow_Normal.MainChar_Eyebrow_Normal Referenced by MaterialExpressionTextureSample_28
+[2018.01.27-05.07.48:004][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eyebrow_Normal' while loading NULL.
+[2018.01.27-05.07.48:013][595]LogMaterial: Missing cached shader map for material Eyebrow, compiling. 
+[2018.01.27-05.07.48:014][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Eyebrow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.48:014][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.48:043][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye_BaseColor'
+[2018.01.27-05.07.48:044][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye.uasset.
+[2018.01.27-05.07.48:044][595]LoadErrors: Error: /Game/items/Eye : Can't find file for asset. /Game/items/MainChar_Eye_BaseColor
+[2018.01.27-05.07.48:044][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye_Normal'
+[2018.01.27-05.07.48:044][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye.uasset.
+[2018.01.27-05.07.48:044][595]LoadErrors: Error: /Game/items/Eye : Can't find file for asset. /Game/items/MainChar_Eye_Normal
+[2018.01.27-05.07.48:044][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye_BaseColor'
+[2018.01.27-05.07.48:044][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye.uasset.
+[2018.01.27-05.07.48:045][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye_Normal'
+[2018.01.27-05.07.48:045][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye.uasset.
+[2018.01.27-05.07.48:046][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye_BaseColor'
+[2018.01.27-05.07.48:046][595]LoadErrors: Failed to load /Game/items/MainChar_Eye_BaseColor.MainChar_Eye_BaseColor Referenced by MaterialExpressionTextureSample_21
+[2018.01.27-05.07.48:046][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye_BaseColor' while loading NULL.
+[2018.01.27-05.07.48:046][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye_Normal'
+[2018.01.27-05.07.48:046][595]LoadErrors: Failed to load /Game/items/MainChar_Eye_Normal.MainChar_Eye_Normal Referenced by MaterialExpressionTextureSample_22
+[2018.01.27-05.07.48:046][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye_Normal' while loading NULL.
+[2018.01.27-05.07.48:064][595]LogMaterial: Missing cached shader map for material Eye, compiling. 
+[2018.01.27-05.07.48:065][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Eye.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.48:065][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.48:193][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye2_BaseColor'
+[2018.01.27-05.07.48:193][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye2_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye2.uasset.
+[2018.01.27-05.07.48:193][595]LoadErrors: Error: /Game/items/Eye2 : Can't find file for asset. /Game/items/MainChar_Eye2_BaseColor
+[2018.01.27-05.07.48:193][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye2_Normal'
+[2018.01.27-05.07.48:193][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye2_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye2.uasset.
+[2018.01.27-05.07.48:193][595]LoadErrors: Error: /Game/items/Eye2 : Can't find file for asset. /Game/items/MainChar_Eye2_Normal
+[2018.01.27-05.07.48:194][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye2_BaseColor'
+[2018.01.27-05.07.48:194][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye2_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye2.uasset.
+[2018.01.27-05.07.48:194][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye2_Normal'
+[2018.01.27-05.07.48:194][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye2_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Eye2.uasset.
+[2018.01.27-05.07.48:195][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye2_BaseColor'
+[2018.01.27-05.07.48:195][595]LoadErrors: Failed to load /Game/items/MainChar_Eye2_BaseColor.MainChar_Eye2_BaseColor Referenced by MaterialExpressionTextureSample_24
+[2018.01.27-05.07.48:195][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye2_BaseColor' while loading NULL.
+[2018.01.27-05.07.48:195][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Eye2_Normal'
+[2018.01.27-05.07.48:195][595]LoadErrors: Failed to load /Game/items/MainChar_Eye2_Normal.MainChar_Eye2_Normal Referenced by MaterialExpressionTextureSample_25
+[2018.01.27-05.07.48:195][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Eye2_Normal' while loading NULL.
+[2018.01.27-05.07.48:225][595]LogMaterial: Missing cached shader map for material Eye2, compiling. 
+[2018.01.27-05.07.48:227][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Eye2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.48:227][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.48:235][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Body_BaseColor'
+[2018.01.27-05.07.48:235][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Body_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Body.uasset.
+[2018.01.27-05.07.48:235][595]LoadErrors: Error: /Game/items/Body : Can't find file for asset. /Game/items/MainChar_Body_BaseColor
+[2018.01.27-05.07.48:236][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Body_Normal'
+[2018.01.27-05.07.48:236][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Body_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Body.uasset.
+[2018.01.27-05.07.48:236][595]LoadErrors: Error: /Game/items/Body : Can't find file for asset. /Game/items/MainChar_Body_Normal
+[2018.01.27-05.07.48:237][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Body_BaseColor'
+[2018.01.27-05.07.48:237][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Body_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Body.uasset.
+[2018.01.27-05.07.48:237][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Body_Normal'
+[2018.01.27-05.07.48:237][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Body_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Body.uasset.
+[2018.01.27-05.07.48:239][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Body_BaseColor'
+[2018.01.27-05.07.48:239][595]LoadErrors: Failed to load /Game/items/MainChar_Body_BaseColor.MainChar_Body_BaseColor Referenced by MaterialExpressionTextureSample_18
+[2018.01.27-05.07.48:239][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Body_BaseColor' while loading NULL.
+[2018.01.27-05.07.48:240][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Body_Normal'
+[2018.01.27-05.07.48:240][595]LoadErrors: Failed to load /Game/items/MainChar_Body_Normal.MainChar_Body_Normal Referenced by MaterialExpressionTextureSample_19
+[2018.01.27-05.07.48:240][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Body_Normal' while loading NULL.
+[2018.01.27-05.07.48:243][595]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2018.01.27-05.07.48:244][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.48:245][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.48:266][595]LogLinker: Warning: Can't find file '/Game/items/Minion_minion_BaseColor'
+[2018.01.27-05.07.48:266][595]LogLinker: Warning: Can't find file for asset '/Game/items/Minion_minion_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/minion1.uasset.
+[2018.01.27-05.07.48:266][595]LoadErrors: Error: /Game/items/minion1 : Can't find file for asset. /Game/items/Minion_minion_BaseColor
+[2018.01.27-05.07.48:266][595]LogLinker: Warning: Can't find file '/Game/items/Minion_minion_Normal'
+[2018.01.27-05.07.48:266][595]LogLinker: Warning: Can't find file for asset '/Game/items/Minion_minion_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/minion1.uasset.
+[2018.01.27-05.07.48:266][595]LoadErrors: Error: /Game/items/minion1 : Can't find file for asset. /Game/items/Minion_minion_Normal
+[2018.01.27-05.07.48:267][595]LogLinker: Warning: Can't find file '/Game/items/Minion_minion_BaseColor'
+[2018.01.27-05.07.48:267][595]LogLinker: Warning: Can't find file for asset '/Game/items/Minion_minion_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/minion1.uasset.
+[2018.01.27-05.07.48:267][595]LogLinker: Warning: Can't find file '/Game/items/Minion_minion_Normal'
+[2018.01.27-05.07.48:267][595]LogLinker: Warning: Can't find file for asset '/Game/items/Minion_minion_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/minion1.uasset.
+[2018.01.27-05.07.48:268][595]LogLinker: Warning: Can't find file '/Game/items/Minion_minion_BaseColor'
+[2018.01.27-05.07.48:268][595]LoadErrors: Failed to load /Game/items/Minion_minion_BaseColor.Minion_minion_BaseColor Referenced by MaterialExpressionTextureSample_6
+[2018.01.27-05.07.48:268][595]LogLinker: Warning: Can't find file for asset '/Game/items/Minion_minion_BaseColor' while loading NULL.
+[2018.01.27-05.07.48:269][595]LogLinker: Warning: Can't find file '/Game/items/Minion_minion_Normal'
+[2018.01.27-05.07.48:269][595]LoadErrors: Failed to load /Game/items/Minion_minion_Normal.Minion_minion_Normal Referenced by MaterialExpressionTextureSample_7
+[2018.01.27-05.07.48:269][595]LogLinker: Warning: Can't find file for asset '/Game/items/Minion_minion_Normal' while loading NULL.
+[2018.01.27-05.07.48:272][595]LogMaterial: Missing cached shader map for material minion1, compiling. 
+[2018.01.27-05.07.48:273][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\minion1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.48:273][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.48:279][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shoulder_BaseColor'
+[2018.01.27-05.07.48:280][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shoulder_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shoulder.uasset.
+[2018.01.27-05.07.48:280][595]LoadErrors: Error: /Game/items/Shoulder : Can't find file for asset. /Game/items/MainChar_Shoulder_BaseColor
+[2018.01.27-05.07.48:280][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shoulder_Normal'
+[2018.01.27-05.07.48:280][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shoulder_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shoulder.uasset.
+[2018.01.27-05.07.48:280][595]LoadErrors: Error: /Game/items/Shoulder : Can't find file for asset. /Game/items/MainChar_Shoulder_Normal
+[2018.01.27-05.07.48:283][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shoulder_BaseColor'
+[2018.01.27-05.07.48:283][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shoulder_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shoulder.uasset.
+[2018.01.27-05.07.48:284][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shoulder_Normal'
+[2018.01.27-05.07.48:284][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shoulder_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Shoulder.uasset.
+[2018.01.27-05.07.48:285][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shoulder_BaseColor'
+[2018.01.27-05.07.48:286][595]LoadErrors: Failed to load /Game/items/MainChar_Shoulder_BaseColor.MainChar_Shoulder_BaseColor Referenced by MaterialExpressionTextureSample_15
+[2018.01.27-05.07.48:286][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shoulder_BaseColor' while loading NULL.
+[2018.01.27-05.07.48:286][595]LogLinker: Warning: Can't find file '/Game/items/MainChar_Shoulder_Normal'
+[2018.01.27-05.07.48:286][595]LoadErrors: Failed to load /Game/items/MainChar_Shoulder_Normal.MainChar_Shoulder_Normal Referenced by MaterialExpressionTextureSample_16
+[2018.01.27-05.07.48:286][595]LogLinker: Warning: Can't find file for asset '/Game/items/MainChar_Shoulder_Normal' while loading NULL.
+[2018.01.27-05.07.48:300][595]LogMaterial: Missing cached shader map for material Shoulder, compiling. 
+[2018.01.27-05.07.48:301][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Shoulder.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.48:301][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.48:371][595]LogLinker: Warning: Can't find file '/Game/items/Gasul_Gasul_BaseColor'
+[2018.01.27-05.07.48:372][595]LogLinker: Warning: Can't find file for asset '/Game/items/Gasul_Gasul_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul1.uasset.
+[2018.01.27-05.07.48:372][595]LoadErrors: Error: /Game/items/Gasul1 : Can't find file for asset. /Game/items/Gasul_Gasul_BaseColor
+[2018.01.27-05.07.48:372][595]LogLinker: Warning: Can't find file '/Game/items/Gasul_Gasul_Normal'
+[2018.01.27-05.07.48:372][595]LogLinker: Warning: Can't find file for asset '/Game/items/Gasul_Gasul_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul1.uasset.
+[2018.01.27-05.07.48:373][595]LoadErrors: Error: /Game/items/Gasul1 : Can't find file for asset. /Game/items/Gasul_Gasul_Normal
+[2018.01.27-05.07.48:374][595]LogLinker: Warning: Can't find file '/Game/items/Gasul_Gasul_BaseColor'
+[2018.01.27-05.07.48:374][595]LogLinker: Warning: Can't find file for asset '/Game/items/Gasul_Gasul_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul1.uasset.
+[2018.01.27-05.07.48:374][595]LogLinker: Warning: Can't find file '/Game/items/Gasul_Gasul_Normal'
+[2018.01.27-05.07.48:374][595]LogLinker: Warning: Can't find file for asset '/Game/items/Gasul_Gasul_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul1.uasset.
+[2018.01.27-05.07.48:375][595]LogLinker: Warning: Can't find file '/Game/items/Gasul_Gasul_BaseColor'
+[2018.01.27-05.07.48:375][595]LoadErrors: Failed to load /Game/items/Gasul_Gasul_BaseColor.Gasul_Gasul_BaseColor Referenced by MaterialExpressionTextureSample_3
+[2018.01.27-05.07.48:376][595]LogLinker: Warning: Can't find file for asset '/Game/items/Gasul_Gasul_BaseColor' while loading NULL.
+[2018.01.27-05.07.48:376][595]LogLinker: Warning: Can't find file '/Game/items/Gasul_Gasul_Normal'
+[2018.01.27-05.07.48:376][595]LoadErrors: Failed to load /Game/items/Gasul_Gasul_Normal.Gasul_Gasul_Normal Referenced by MaterialExpressionTextureSample_4
+[2018.01.27-05.07.48:376][595]LogLinker: Warning: Can't find file for asset '/Game/items/Gasul_Gasul_Normal' while loading NULL.
+[2018.01.27-05.07.48:380][595]LogMaterial: Missing cached shader map for material Gasul1, compiling. 
+[2018.01.27-05.07.48:380][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Gasul1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.48:380][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.48:468][595]LogLinker: Warning: Can't find file '/Game/items/Barrel_Barrel_BaseColor'
+[2018.01.27-05.07.48:468][595]LogLinker: Warning: Can't find file for asset '/Game/items/Barrel_Barrel_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel1.uasset.
+[2018.01.27-05.07.48:469][595]LoadErrors: Error: /Game/items/Barrel1 : Can't find file for asset. /Game/items/Barrel_Barrel_BaseColor
+[2018.01.27-05.07.48:469][595]LogLinker: Warning: Can't find file '/Game/items/Barrel_Barrel_Normal'
+[2018.01.27-05.07.48:469][595]LogLinker: Warning: Can't find file for asset '/Game/items/Barrel_Barrel_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel1.uasset.
+[2018.01.27-05.07.48:469][595]LoadErrors: Error: /Game/items/Barrel1 : Can't find file for asset. /Game/items/Barrel_Barrel_Normal
+[2018.01.27-05.07.48:470][595]LogLinker: Warning: Can't find file '/Game/items/Barrel_Barrel_BaseColor'
+[2018.01.27-05.07.48:470][595]LogLinker: Warning: Can't find file for asset '/Game/items/Barrel_Barrel_BaseColor' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel1.uasset.
+[2018.01.27-05.07.48:470][595]LogLinker: Warning: Can't find file '/Game/items/Barrel_Barrel_Normal'
+[2018.01.27-05.07.48:471][595]LogLinker: Warning: Can't find file for asset '/Game/items/Barrel_Barrel_Normal' while loading ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel1.uasset.
+[2018.01.27-05.07.48:472][595]LogLinker: Warning: Can't find file '/Game/items/Barrel_Barrel_BaseColor'
+[2018.01.27-05.07.48:472][595]LoadErrors: Failed to load /Game/items/Barrel_Barrel_BaseColor.Barrel_Barrel_BaseColor Referenced by MaterialExpressionTextureSample_0
+[2018.01.27-05.07.48:472][595]LogLinker: Warning: Can't find file for asset '/Game/items/Barrel_Barrel_BaseColor' while loading NULL.
+[2018.01.27-05.07.48:473][595]LogLinker: Warning: Can't find file '/Game/items/Barrel_Barrel_Normal'
+[2018.01.27-05.07.48:473][595]LoadErrors: Failed to load /Game/items/Barrel_Barrel_Normal.Barrel_Barrel_Normal Referenced by MaterialExpressionTextureSample_1
+[2018.01.27-05.07.48:473][595]LogLinker: Warning: Can't find file for asset '/Game/items/Barrel_Barrel_Normal' while loading NULL.
+[2018.01.27-05.07.48:479][595]LogMaterial: Missing cached shader map for material Barrel1, compiling. 
+[2018.01.27-05.07.48:480][595]LogMaterial: Warning: C:\Users\Bahan\Documents\Unreal Projects\SecondTry\Content\items\Barrel1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.27-05.07.48:480][595]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.27-05.07.49:267][595]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_0:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_2
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:00E5
+[2018.01.27-05.07.53:218][595]LogAIModule: Creating AISystem for world NewMap
+[2018.01.27-05.07.56:007][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Barrel" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel.uasset" SILENT=true
+[2018.01.27-05.07.56:058][595]LogSavePackage: Save=49.88ms
+[2018.01.27-05.07.56:058][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Barrel4988A39649F968071063779614E7894A.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel.uasset'
+[2018.01.27-05.07.56:126][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel.uasset
+[2018.01.27-05.07.57:363][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Barrel_Barrel_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel_Barrel_BaseColor.uasset" SILENT=true
+[2018.01.27-05.07.57:491][595]LogSavePackage: Save=126.86ms
+[2018.01.27-05.07.57:491][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Barrel_Barrel_BaseColorFFDD43A64141D36B2AFE5DAE9A89EFAA.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel_Barrel_BaseColor.uasset'
+[2018.01.27-05.07.57:494][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel_Barrel_BaseColor.uasset
+[2018.01.27-05.07.58:218][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Barrel_Barrel_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel_Barrel_Normal.uasset" SILENT=true
+[2018.01.27-05.07.58:433][595]LogSavePackage: Save=213.95ms
+[2018.01.27-05.07.58:433][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Barrel_Barrel_Normal6C698A69436F86388643DF92D347EF00.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel_Barrel_Normal.uasset'
+[2018.01.27-05.07.58:434][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Barrel_Barrel_Normal.uasset
+[2018.01.27-05.07.59:579][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Gasul" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul.uasset" SILENT=true
+[2018.01.27-05.07.59:607][595]LogSavePackage: Save=15.09ms
+[2018.01.27-05.07.59:607][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Gasul650BB6E64CB49C3C717C2C97B055678D.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul.uasset'
+[2018.01.27-05.07.59:631][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul.uasset
+[2018.01.27-05.08.00:492][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Gasul_Gasul_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul_Gasul_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.00:626][595]LogSavePackage: Save=131.64ms
+[2018.01.27-05.08.00:627][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Gasul_Gasul_BaseColor14C4D82746B36018865A1E9BA39BA44E.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul_Gasul_BaseColor.uasset'
+[2018.01.27-05.08.00:630][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul_Gasul_BaseColor.uasset
+[2018.01.27-05.08.01:463][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Gasul_Gasul_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul_Gasul_Normal.uasset" SILENT=true
+[2018.01.27-05.08.01:563][595]LogSavePackage: Save=98.53ms
+[2018.01.27-05.08.01:564][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Gasul_Gasul_Normal13A401E1492E3E25EB70EFAD1DB57081.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul_Gasul_Normal.uasset'
+[2018.01.27-05.08.01:566][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Gasul_Gasul_Normal.uasset
+[2018.01.27-05.08.02:009][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Hair" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Hair.uasset" SILENT=true
+[2018.01.27-05.08.02:027][595]LogSavePackage: Save=16.01ms
+[2018.01.27-05.08.02:027][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Hair2F376EB7482B2C2478B4AFA3E060797C.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Hair.uasset'
+[2018.01.27-05.08.02:029][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Hair.uasset
+[2018.01.27-05.08.02:439][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar.uasset" SILENT=true
+[2018.01.27-05.08.02:476][595]LogSavePackage: Save=35.87ms
+[2018.01.27-05.08.02:476][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainCharDDC5B3224CAAD85E6B9136B19268C95C.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar.uasset'
+[2018.01.27-05.08.02:478][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar.uasset
+[2018.01.27-05.08.03:444][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Arm_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Arm_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.03:623][595]LogSavePackage: Save=178.36ms
+[2018.01.27-05.08.03:623][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Arm_BaseColorA4D02F42489CE211F78AB6A4757A128E.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Arm_BaseColor.uasset'
+[2018.01.27-05.08.03:626][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Arm_BaseColor.uasset
+[2018.01.27-05.08.04:249][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Arm_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Arm_Normal.uasset" SILENT=true
+[2018.01.27-05.08.04:471][595]LogSavePackage: Save=220.37ms
+[2018.01.27-05.08.04:471][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Arm_Normal139E42E744146805EF4F969CA8455074.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Arm_Normal.uasset'
+[2018.01.27-05.08.04:473][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Arm_Normal.uasset
+[2018.01.27-05.08.05:087][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Body_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Body_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.05:153][595]LogSavePackage: Save=64.76ms
+[2018.01.27-05.08.05:153][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Body_BaseColor0FFEC95049B016BC8C28BBA7C3D611C5.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Body_BaseColor.uasset'
+[2018.01.27-05.08.05:155][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Body_BaseColor.uasset
+[2018.01.27-05.08.05:553][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Body_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Body_Normal.uasset" SILENT=true
+[2018.01.27-05.08.05:641][595]LogSavePackage: Save=87.46ms
+[2018.01.27-05.08.05:641][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Body_Normal9A4DE3DF486C6466931F7BB47C33443D.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Body_Normal.uasset'
+[2018.01.27-05.08.05:643][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Body_Normal.uasset
+[2018.01.27-05.08.06:834][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Eye2_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye2_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.06:914][595]LogSavePackage: Save=79.28ms
+[2018.01.27-05.08.06:914][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye2_BaseColor255E190E4FBD8C27397DD9A184F8E3C7.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye2_BaseColor.uasset'
+[2018.01.27-05.08.06:916][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye2_BaseColor.uasset
+[2018.01.27-05.08.07:218][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Eye2_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye2_Normal.uasset" SILENT=true
+[2018.01.27-05.08.07:277][595]LogSavePackage: Save=57.32ms
+[2018.01.27-05.08.07:277][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye2_Normal56B27CC34AEC764051460EB9DD6102E8.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye2_Normal.uasset'
+[2018.01.27-05.08.07:278][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye2_Normal.uasset
+[2018.01.27-05.08.07:628][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Eye_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.07:687][595]LogSavePackage: Save=57.60ms
+[2018.01.27-05.08.07:687][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye_BaseColor1C042B664407519A3FA0939B0F32C6B1.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye_BaseColor.uasset'
+[2018.01.27-05.08.07:689][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye_BaseColor.uasset
+[2018.01.27-05.08.08:103][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Eye_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye_Normal.uasset" SILENT=true
+[2018.01.27-05.08.08:178][595]LogSavePackage: Save=71.93ms
+[2018.01.27-05.08.08:178][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eye_Normal44DF1F464FFCB7833C748FAAAF5BC1CE.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye_Normal.uasset'
+[2018.01.27-05.08.08:180][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eye_Normal.uasset
+[2018.01.27-05.08.08:517][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Eyebrow_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eyebrow_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.08:585][595]LogSavePackage: Save=66.11ms
+[2018.01.27-05.08.08:585][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eyebrow_BaseColor2B6030C1423F452B321B14A0B072497F.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eyebrow_BaseColor.uasset'
+[2018.01.27-05.08.08:588][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eyebrow_BaseColor.uasset
+[2018.01.27-05.08.09:320][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Eyebrow_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eyebrow_Normal.uasset" SILENT=true
+[2018.01.27-05.08.09:384][595]LogSavePackage: Save=62.97ms
+[2018.01.27-05.08.09:384][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Eyebrow_Normal956ACCD74C39802A43B988BC361E5058.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eyebrow_Normal.uasset'
+[2018.01.27-05.08.09:386][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Eyebrow_Normal.uasset
+[2018.01.27-05.08.10:239][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Hair_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Hair_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.10:429][595]LogSavePackage: Save=188.59ms
+[2018.01.27-05.08.10:429][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Hair_BaseColor5D4A806B4C7102E631AEB38E229BAA5B.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Hair_BaseColor.uasset'
+[2018.01.27-05.08.10:431][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Hair_BaseColor.uasset
+[2018.01.27-05.08.10:686][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Hair_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Hair_Normal.uasset" SILENT=true
+[2018.01.27-05.08.10:825][595]LogSavePackage: Save=136.68ms
+[2018.01.27-05.08.10:825][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Hair_NormalDE378C904C40CFE95AEACDAF0CD7738F.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Hair_Normal.uasset'
+[2018.01.27-05.08.10:827][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Hair_Normal.uasset
+[2018.01.27-05.08.11:142][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Shirt_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shirt_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.11:364][595]LogSavePackage: Save=221.46ms
+[2018.01.27-05.08.11:364][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shirt_BaseColorA875845443BB3F5503CF508D7A0FB7D0.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shirt_BaseColor.uasset'
+[2018.01.27-05.08.11:421][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shirt_BaseColor.uasset
+[2018.01.27-05.08.11:892][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Shirt_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shirt_Normal.uasset" SILENT=true
+[2018.01.27-05.08.12:130][595]LogSavePackage: Save=236.88ms
+[2018.01.27-05.08.12:130][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shirt_Normal3DC2DED0480381DA0EC0C5822133450A.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shirt_Normal.uasset'
+[2018.01.27-05.08.12:131][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shirt_Normal.uasset
+[2018.01.27-05.08.13:066][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Shoulder_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shoulder_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.13:259][595]LogSavePackage: Save=192.13ms
+[2018.01.27-05.08.13:259][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shoulder_BaseColor3288DC2A463C65E6F33A3993EE3C22FA.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shoulder_BaseColor.uasset'
+[2018.01.27-05.08.13:261][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shoulder_BaseColor.uasset
+[2018.01.27-05.08.13:654][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/MainChar_Shoulder_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shoulder_Normal.uasset" SILENT=true
+[2018.01.27-05.08.13:832][595]LogSavePackage: Save=166.47ms
+[2018.01.27-05.08.13:832][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/MainChar_Shoulder_Normal5FD68C40492F7BFB8C4304B76E610CC1.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shoulder_Normal.uasset'
+[2018.01.27-05.08.13:835][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/MainChar_Shoulder_Normal.uasset
+[2018.01.27-05.08.14:364][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Minion" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion.uasset" SILENT=true
+[2018.01.27-05.08.14:441][595]LogSavePackage: Save=75.14ms
+[2018.01.27-05.08.14:441][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Minion75A57A2C43EBDC2856960E9CBDE23C4A.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion.uasset'
+[2018.01.27-05.08.14:446][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion.uasset
+[2018.01.27-05.08.14:909][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Minion_minion_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion_minion_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.14:977][595]LogSavePackage: Save=66.16ms
+[2018.01.27-05.08.14:977][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Minion_minion_BaseColor02BD70EF42E2DF8937B95E901A2B4082.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion_minion_BaseColor.uasset'
+[2018.01.27-05.08.14:978][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion_minion_BaseColor.uasset
+[2018.01.27-05.08.16:036][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Minion_minion_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion_minion_Normal.uasset" SILENT=true
+[2018.01.27-05.08.16:144][595]LogSavePackage: Save=92.47ms
+[2018.01.27-05.08.16:144][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Minion_minion_Normal4DD437E64BD661242F6B698A0C69D4BF.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion_minion_Normal.uasset'
+[2018.01.27-05.08.16:146][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Minion_minion_Normal.uasset
+[2018.01.27-05.08.16:605][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Tunnel" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel.uasset" SILENT=true
+[2018.01.27-05.08.16:629][595]LogSavePackage: Save=22.71ms
+[2018.01.27-05.08.16:629][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/TunnelA47CB7A4421088DC86807EA0B90D6343.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel.uasset'
+[2018.01.27-05.08.16:631][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel.uasset
+[2018.01.27-05.08.17:036][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Tunnel_Tunnel_BaseColor" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel_Tunnel_BaseColor.uasset" SILENT=true
+[2018.01.27-05.08.17:312][595]LogSavePackage: Save=274.34ms
+[2018.01.27-05.08.17:312][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Tunnel_Tunnel_BaseColorA41AA86041974F7BD71C6590AC9B0AC1.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel_Tunnel_BaseColor.uasset'
+[2018.01.27-05.08.17:313][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel_Tunnel_BaseColor.uasset
+[2018.01.27-05.08.17:816][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/items/Tunnel_Tunnel_Normal" FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel_Tunnel_Normal.uasset" SILENT=true
+[2018.01.27-05.08.18:042][595]LogSavePackage: Save=223.67ms
+[2018.01.27-05.08.18:042][595]LogSavePackage: Moving '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Saved/Tunnel_Tunnel_Normal295377494878F07838C394898D2718B4.tmp' to '../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel_Tunnel_Normal.uasset'
+[2018.01.27-05.08.18:045][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/items/Tunnel_Tunnel_Normal.uasset
+[2018.01.27-05.08.19:338][595]Cmd: MAP LOAD FILE="../../../../../../Users/Bahan/Documents/Unreal Projects/SecondTry/Content/ThirdPersonBP/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-05.08.19:355][595]LightingResults: New page: Lighting Build
+[2018.01.27-05.08.19:359][595]LoadErrors: New page: Loading map: NewMap.umap
+[2018.01.27-05.08.19:367][595]MapCheck: New page: Map Check
+[2018.01.27-05.08.19:367][595]LightingResults: New page: Lighting Build
+[2018.01.27-05.08.19:422][595]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-05.08.19:462][595]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-05.08.19:559][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.159ms to complete.
+[2018.01.27-05.08.19:560][595]LogFileHelpers: Loading map 'NewMap' took 0.419
