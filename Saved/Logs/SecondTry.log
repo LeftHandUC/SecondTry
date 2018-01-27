@@ -6532,3 +6532,162 @@ LogInit: Object subsystem initialized
 [2018.01.27-04.52.18:835][841]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.01.27-04.52.18:886][841]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.395ms to complete.
 [2018.01.27-04.52.18:887][841]LogFileHelpers: Loading map 'LevelMainMenu' took 0.149
+[2018.01.27-04.54.03:699][363]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-04.54.03:707][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.54.03:707][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-04.54.03:707][363]PIE: New page: PIE session: LevelMainMenu (Jan 27, 2018, 8:54:03 PM)
+[2018.01.27-04.54.03:914][363]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelMainMenu
+[2018.01.27-04.54.03:921][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006828s)
+[2018.01.27-04.54.03:922][363]LogAIModule: Creating AISystem for world LevelMainMenu
+[2018.01.27-04.54.03:922][363]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2018.01.27-04.54.03:922][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelMainMenu.LevelMainMenu to /Game/UEDPIE_0_LevelMainMenu.LevelMainMenu (0.008145s)
+[2018.01.27-04.54.03:970][363]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-04.54.03:976][363]LogInit: FAudioDevice initialized.
+[2018.01.27-04.54.04:055][363]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.54.04:056][363]LogWorld: Bringing World /Game/UEDPIE_0_LevelMainMenu.LevelMainMenu up for play (max tick rate 0) at 2018.01.27-12.54.04
+[2018.01.27-04.54.04:056][363]LogWorld: Bringing up level for play took: 0.000707
+[2018.01.27-04.54.04:058][363]PIE: Play in editor start time for /Game/UEDPIE_0_LevelMainMenu 1.067
+[2018.01.27-04.54.04:058][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.54.09:447][480]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.54.09:491][480]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.01.27-04.54.11:313][480]LogAIModule: Creating AISystem for world Level1
+[2018.01.27-04.54.11:313][480]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.54.11:329][480]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.01.27-12.54.11
+[2018.01.27-04.54.11:330][480]LogWorld: Bringing up level for play took: 0.016380
+[2018.01.27-04.54.11:331][480]LogLoad: Took 1.839800 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level1)
+[2018.01.27-04.54.14:922][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.54.15:000][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.54.29:837][873]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.54.29:870][873]LightingResults: New page: Lighting Build
+[2018.01.27-04.54.29:871][873]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.01.27-04.54.29:871][873]MapCheck: New page: Map Check
+[2018.01.27-04.54.29:871][873]LightingResults: New page: Lighting Build
+[2018.01.27-04.54.30:122][873]LogAIModule: Creating AISystem for world Untitled_164
+[2018.01.27-04.54.30:127][873]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.54.30:149][873]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.54.34:536][873]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4,387.029ms to complete.
+[2018.01.27-04.54.34:536][873]LogFileHelpers: Loading map 'Template_Default' took 4.700
+[2018.01.27-04.54.38:989][978]LogAIModule: Creating AISystem for world Explosion
+[2018.01.27-04.54.39:013][978]Cmd: MAP LOAD FILE="../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Content/Explosion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.54.39:013][978]LightingResults: New page: Lighting Build
+[2018.01.27-04.54.39:014][978]LoadErrors: New page: Loading map: Explosion.umap
+[2018.01.27-04.54.39:014][978]MapCheck: New page: Map Check
+[2018.01.27-04.54.39:014][978]LightingResults: New page: Lighting Build
+[2018.01.27-04.54.39:035][978]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.54.39:287][978]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.54.39:340][978]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.62ms to complete.
+[2018.01.27-04.54.39:340][978]LogFileHelpers: Loading map 'Explosion' took 0.328
+[2018.01.27-04.54.45:915][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-04.56.33:999][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.01.27-04.56.34:501][941]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.01.27-04.56.35:003][942]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.01.27-04.56.47:286][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-04.56.47:295][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-04.56.47:295][ 27]PIE: New page: PIE session: Explosion (Jan 27, 2018, 8:56:47 PM)
+[2018.01.27-04.56.54:414][ 27]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Explosion
+[2018.01.27-04.56.54:420][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006027s)
+[2018.01.27-04.56.54:421][ 27]LogAIModule: Creating AISystem for world Explosion
+[2018.01.27-04.56.54:421][ 27]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2018.01.27-04.56.54:421][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Explosion.Explosion to /Game/UEDPIE_0_Explosion.Explosion (0.007596s)
+[2018.01.27-04.56.54:570][ 27]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-04.56.54:794][ 27]LogInit: FAudioDevice initialized.
+[2018.01.27-04.56.54:826][ 27]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.56.54:828][ 27]LogWorld: Bringing World /Game/UEDPIE_0_Explosion.Explosion up for play (max tick rate 0) at 2018.01.27-12.56.54
+[2018.01.27-04.56.54:828][ 27]LogWorld: Bringing up level for play took: 0.000649
+[2018.01.27-04.56.54:829][ 27]PIE: Play in editor start time for /Game/UEDPIE_0_Explosion 7.837
+[2018.01.27-04.58.20:042][828]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.01.27-04.58.20:042][828]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset' is outside repository
+[2018.01.27-04.58.20:042][828]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository
+[2018.01.27-04.58.20:042][828]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
+[2018.01.27-04.58.20:042][828]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2018.01.27-04.58.20:042][828]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.01.27-04.58.20:042][828]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.01.27-04.58.20:042][828]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.01.27-04.58.20:135][828]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.01.27-04.58.20:135][828]SourceControl: Error: error: please commit or stash them.
+[2018.01.27-04.58.20:138][828]LightingResults: New page: Lighting Build
+[2018.01.27-04.58.20:138][828]MapCheck: New page: Map Check
+[2018.01.27-04.58.20:138][828]LightingResults: New page: Lighting Build
+[2018.01.27-04.58.20:157][828]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-04.58.20:159][828]LoadErrors: New page: New Map
+[2018.01.27-04.58.21:264][828]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2018.01.27-04.58.21:264][828]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.01.27-04.58.21:265][828]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.01.27-04.58.21:265][828]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.01.27-04.58.21:265][828]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.01.27-04.58.21:265][828]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.01.27-04.58.21:265][828]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.01.27-04.58.21:265][828]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.01.27-04.58.21:271][828]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [5054.63] Compile of ThirdPersonCharacter successful, but with 8 Warning(s) [in 10 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.01.27-04.58.21:311][828]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.01.27-04.58.21:403][828]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_7:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:00E5
+[2018.01.27-04.58.22:031][828]LogAIModule: Creating AISystem for world Explosion
+[2018.01.27-04.58.22:064][828]Cmd: MAP LOAD FILE="../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Content/Explosion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.58.22:064][828]LightingResults: New page: Lighting Build
+[2018.01.27-04.58.22:065][828]LoadErrors: New page: Loading map: Explosion.umap
+[2018.01.27-04.58.22:065][828]MapCheck: New page: Map Check
+[2018.01.27-04.58.22:065][828]LightingResults: New page: Lighting Build
+[2018.01.27-04.58.22:085][828]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.58.22:110][828]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.58.25:040][828]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,930.152ms to complete.
+[2018.01.27-04.58.25:041][828]LogFileHelpers: Loading map 'Explosion' took 2.978
+[2018.01.27-04.58.33:087][997]LogLinker: Warning: Can't find file '/Game/LevelMainMenu_BuiltData'
+[2018.01.27-04.58.33:095][997]LogLinker: Warning: Can't find file for asset '/Game/LevelMainMenu_BuiltData' while loading ../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Content/LevelMainMenu.umap.
+[2018.01.27-04.58.33:095][997]LoadErrors: Error: /Game/LevelMainMenu : Can't find file for asset. /Game/LevelMainMenu_BuiltData
+[2018.01.27-04.58.33:097][997]LogLinker: Warning: Can't find file '/Game/LevelMainMenu_BuiltData'
+[2018.01.27-04.58.33:097][997]LogLinker: Warning: Can't find file for asset '/Game/LevelMainMenu_BuiltData' while loading ../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Content/LevelMainMenu.umap.
+[2018.01.27-04.58.33:099][997]LogLinker: Warning: Can't find file '/Game/LevelMainMenu_BuiltData'
+[2018.01.27-04.58.33:099][997]LogLinker: Warning: Can't find file for asset '/Game/LevelMainMenu_BuiltData' while loading NULL.
+[2018.01.27-04.58.33:099][997]LogLinker: Warning: Can't find file '/Game/LevelMainMenu_BuiltData'
+[2018.01.27-04.58.33:099][997]LogLinker: Warning: Can't find file for asset '/Game/LevelMainMenu_BuiltData' while loading NULL.
+[2018.01.27-04.58.33:104][997]LogLinker: Warning: Can't find file '/Game/LevelMainMenu_BuiltData'
+[2018.01.27-04.58.33:104][997]LoadErrors: Failed to load /Game/LevelMainMenu_BuiltData.LevelMainMenu_BuiltData Referenced by PersistentLevel
+[2018.01.27-04.58.33:104][997]LogLinker: Warning: Can't find file for asset '/Game/LevelMainMenu_BuiltData' while loading NULL.
+[2018.01.27-04.58.33:111][997]LogAIModule: Creating AISystem for world LevelMainMenu
+[2018.01.27-04.58.33:143][997]Cmd: MAP LOAD FILE="../../../../../../Users/ImYours/Documents/GitHub/SecondTry/Content/LevelMainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-04.58.33:143][997]LightingResults: New page: Lighting Build
+[2018.01.27-04.58.33:144][997]LoadErrors: New page: Loading map: LevelMainMenu.umap
+[2018.01.27-04.58.33:144][997]MapCheck: New page: Map Check
+[2018.01.27-04.58.33:144][997]LightingResults: New page: Lighting Build
+[2018.01.27-04.58.33:162][997]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-04.58.33:256][997]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-04.58.33:308][997]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.107ms to complete.
+[2018.01.27-04.58.33:308][997]LogFileHelpers: Loading map 'LevelMainMenu' took 0.166
+[2018.01.27-04.58.36:384][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-04.58.36:392][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.58.36:393][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-04.58.36:393][ 58]PIE: New page: PIE session: LevelMainMenu (Jan 27, 2018, 8:58:36 PM)
+[2018.01.27-04.58.36:437][ 58]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelMainMenu
+[2018.01.27-04.58.36:453][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015629s)
+[2018.01.27-04.58.36:453][ 58]LogAIModule: Creating AISystem for world LevelMainMenu
+[2018.01.27-04.58.36:454][ 58]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.01.27-04.58.36:454][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelMainMenu.LevelMainMenu to /Game/UEDPIE_0_LevelMainMenu.LevelMainMenu (0.016638s)
+[2018.01.27-04.58.36:472][ 58]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-04.58.36:480][ 58]LogInit: FAudioDevice initialized.
+[2018.01.27-04.58.36:509][ 58]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.58.36:510][ 58]LogWorld: Bringing World /Game/UEDPIE_0_LevelMainMenu.LevelMainMenu up for play (max tick rate 0) at 2018.01.27-12.58.36
+[2018.01.27-04.58.36:510][ 58]LogWorld: Bringing up level for play took: 0.000584
+[2018.01.27-04.58.36:511][ 58]PIE: Play in editor start time for /Game/UEDPIE_0_LevelMainMenu -0.482
+[2018.01.27-04.58.36:512][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.58.41:538][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.58.41:618][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.58.48:942][307]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-04.58.48:951][307]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.58.48:951][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-04.58.48:951][307]PIE: New page: PIE session: LevelMainMenu (Jan 27, 2018, 8:58:48 PM)
+[2018.01.27-04.58.48:977][307]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelMainMenu
+[2018.01.27-04.58.48:982][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004669s)
+[2018.01.27-04.58.48:982][307]LogAIModule: Creating AISystem for world LevelMainMenu
+[2018.01.27-04.58.48:982][307]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.01.27-04.58.48:983][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelMainMenu.LevelMainMenu to /Game/UEDPIE_0_LevelMainMenu.LevelMainMenu (0.005551s)
+[2018.01.27-04.58.49:003][307]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-04.58.49:009][307]LogInit: FAudioDevice initialized.
+[2018.01.27-04.58.49:037][307]LogLoad: Game class is 'GameModeBase'
+[2018.01.27-04.58.49:037][307]LogWorld: Bringing World /Game/UEDPIE_0_LevelMainMenu.LevelMainMenu up for play (max tick rate 0) at 2018.01.27-12.58.49
+[2018.01.27-04.58.49:038][307]LogWorld: Bringing up level for play took: 0.000564
+[2018.01.27-04.58.49:039][307]PIE: Play in editor start time for /Game/UEDPIE_0_LevelMainMenu 0.045
+[2018.01.27-04.58.49:039][307]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.58.50:406][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
+[2018.01.27-04.58.50:481][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu' with GeneratedClass '/Game/LevelMainMenu.LevelMainMenu_C' with ClassGeneratedBy '/Game/LevelMainMenu.LevelMainMenu:PersistentLevel.LevelMainMenu'
